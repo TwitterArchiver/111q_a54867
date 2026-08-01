@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1976728616726937673",
+    "created_at": "2025-10-10T22:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T23:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976776123167257029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1955772685272621057",
+          "start": 0,
+          "username": "Grief555_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976776123167257029",
+    "in_reply_to_user_id": "1955772685272621057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976728616726937673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grief555_ 我也想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1976728616726937673",
+        "created_at": "2025-10-10T22:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T23:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976776123167257029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1955772685272621057",
+              "start": 0,
+              "username": "Grief555_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976776123167257029",
+        "in_reply_to_user_id": "1955772685272621057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976728616726937673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grief555_ 我也想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955772685272621057",
+        "conversation_id": "1976728616726937673",
+        "created_at": "2025-10-10T19:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T20:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976728616726937673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976728616726937673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以去广东飞叶子了 好开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 744,
+          "like_count": 1196,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 165
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T23:25:29.000Z",
+        "description": "我是404\n我接爸爸活 伤口定制 出原味 图包\n🚪88/128/188/520",
+        "id": "1955772685272621057",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "爱总牵扯痛",
+        "pinned_tweet_id": "1972577824646242497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972926463654682624/DCgUliOV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 70,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 27
+        },
+        "username": "Grief555_",
+        "verified": false
+      }
+    ]
+  }
+}

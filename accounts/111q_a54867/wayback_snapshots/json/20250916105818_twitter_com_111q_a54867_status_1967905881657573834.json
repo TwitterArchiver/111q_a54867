@@ -1,0 +1,571 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1966525589537574912"
+      ],
+      "media_source_tweet_id": [
+        "1967063252925641039"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1967905881657573834",
+    "created_at": "2025-09-16T10:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T11:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967905881657573834"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 72,
+          "normalized_text": "夢中さ、きみに。",
+          "probability": 0.4511,
+          "start": 65,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 86,
+          "start": 79,
+          "tag": "夢中さきみに"
+        },
+        {
+          "end": 93,
+          "start": 87,
+          "tag": "好評放送中"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1846819842500022272",
+          "start": 3,
+          "username": "karaokemuchusa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U7uIBIxh8l",
+          "end": 117,
+          "expanded_url": "https://x.com/karaokemuchusa/status/1967063252925641039/video/1",
+          "media_key": "13_1966525589537574912",
+          "start": 94,
+          "url": "https://t.co/U7uIBIxh8l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967905881657573834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 356
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967063252925641039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @karaokemuchusa: 「俺漫画読まないから......\n　　　　　出てたかはわからない......」\n\n───『夢中さ、きみに。』第4話🌀\n#夢中さきみに #好評放送中 https://t.co/U7uIBIxh8l"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57557,
+        "height": 1920,
+        "media_key": "13_1966525589537574912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1966525589537574912/img/niRpCWDX4DCUHnXa.jpg",
+        "public_metrics": {
+          "view_count": 26216
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966525589537574912/vid/avc1/320x568/8RU0Ya-Kakxa8DEg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1966525589537574912/pl/CL9LH9GME7Yepm0U.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966525589537574912/vid/avc1/480x852/Dz-VzDAwqsiP3_-P.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966525589537574912/vid/avc1/1080x1920/syZVdMPOld7mKtWJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1966525589537574912/vid/avc1/720x1280/euCOkh-tq8iaEYyA.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966525589537574912"
+          ],
+          "media_source_tweet_id": [
+            "1967063252925641039"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1967905881657573834",
+        "created_at": "2025-09-16T10:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T11:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967905881657573834"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 72,
+              "normalized_text": "夢中さ、きみに。",
+              "probability": 0.4511,
+              "start": 65,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 86,
+              "start": 79,
+              "tag": "夢中さきみに"
+            },
+            {
+              "end": 93,
+              "start": 87,
+              "tag": "好評放送中"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1846819842500022272",
+              "start": 3,
+              "username": "karaokemuchusa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7uIBIxh8l",
+              "end": 117,
+              "expanded_url": "https://x.com/karaokemuchusa/status/1967063252925641039/video/1",
+              "media_key": "13_1966525589537574912",
+              "start": 94,
+              "url": "https://t.co/U7uIBIxh8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967905881657573834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 356
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967063252925641039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @karaokemuchusa: 「俺漫画読まないから......\n　　　　　出てたかはわからない......」\n\n───『夢中さ、きみに。』第4話🌀\n#夢中さきみに #好評放送中 https://t.co/U7uIBIxh8l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1966525589537574912"
+          ]
+        },
+        "author_id": "1846819842500022272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1967063252925641039",
+        "created_at": "2025-09-14T03:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967063252925641039"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "夢中さ、きみに。",
+              "probability": 0.4284,
+              "start": 45,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "夢中さきみに"
+            },
+            {
+              "end": 73,
+              "start": 67,
+              "tag": "好評放送中"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7uIBIxh8l",
+              "end": 97,
+              "expanded_url": "https://x.com/karaokemuchusa/status/1967063252925641039/video/1",
+              "media_key": "13_1966525589537574912",
+              "start": 74,
+              "url": "https://t.co/U7uIBIxh8l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967063252925641039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 83230,
+          "like_count": 2921,
+          "quote_count": 46,
+          "reply_count": 1,
+          "retweet_count": 356
+        },
+        "reply_settings": "everyone",
+        "text": "「俺漫画読まないから......\n　　　　　出てたかはわからない......」\n\n───『夢中さ、きみに。』第4話🌀\n#夢中さきみに #好評放送中 https://t.co/U7uIBIxh8l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "aaa111qq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967903840730218496/Yqg31dpf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 11,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T07:46:02.000Z",
+        "description": "和山やまの代表作を2作同時にTVアニメ化！「カラオケ行こ！」は2025年7月24日より、「夢中さ、きみに。」は8月21日より放送開始！CAST：#堀江瞬 #小野大輔／#内山昂輝 #小野賢章 #岡本信彦 #小野友樹、アニメーション制作：#動画工房 推奨ハッシュタグ「#カラオケ行こ」「#夢中さきみに」",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 76,
+                "start": 72,
+                "tag": "堀江瞬"
+              },
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "小野大輔"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "内山昂輝"
+              },
+              {
+                "end": 94,
+                "start": 89,
+                "tag": "小野賢章"
+              },
+              {
+                "end": 100,
+                "start": 95,
+                "tag": "岡本信彦"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "小野友樹"
+              },
+              {
+                "end": 122,
+                "start": 117,
+                "tag": "動画工房"
+              },
+              {
+                "end": 139,
+                "start": 132,
+                "tag": "カラオケ行こ"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "tag": "夢中さきみに"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "karaoke-muchusa.com",
+                "end": 23,
+                "expanded_url": "https://karaoke-muchusa.com/",
+                "start": 0,
+                "url": "https://t.co/WHBRJK61mU"
+              }
+            ]
+          }
+        },
+        "id": "1846819842500022272",
+        "name": "『カラオケ行こ！』『夢中さ、きみに。』アニメ公式",
+        "pinned_tweet_id": "1958529774214647838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846837834759696384/bgpV0zth_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70195,
+          "following_count": 20,
+          "like_count": 1,
+          "listed_count": 212,
+          "media_count": 460,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/WHBRJK61mU",
+        "username": "karaokemuchusa",
+        "verified": true
+      }
+    ]
+  }
+}

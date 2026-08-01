@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971054675924541441"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1971054682639573266",
+    "created_at": "2025-09-25T03:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T04:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971054682639573266"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 0,
+          "tag": "自撮り界隈さんと繋がりたい"
+        },
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "地雷系と繋がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MFzDKdlUQS",
+          "end": 50,
+          "expanded_url": "https://x.com/111q_a54867/status/1971054682639573266/photo/1",
+          "media_key": "3_1971054675924541441",
+          "start": 27,
+          "url": "https://t.co/MFzDKdlUQS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971054682639573266",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自撮り界隈さんと繋がりたい  #地雷系と繋がりたい https://t.co/MFzDKdlUQS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1971054675924541441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1qXyN9a4AE9_Xw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971054675924541441"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1971054682639573266",
+        "created_at": "2025-09-25T03:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T04:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971054682639573266"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "自撮り界隈さんと繋がりたい"
+            },
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "地雷系と繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MFzDKdlUQS",
+              "end": 50,
+              "expanded_url": "https://x.com/111q_a54867/status/1971054682639573266/photo/1",
+              "media_key": "3_1971054675924541441",
+              "start": 27,
+              "url": "https://t.co/MFzDKdlUQS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971054682639573266",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈さんと繋がりたい  #地雷系と繋がりたい https://t.co/MFzDKdlUQS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 430,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 41
+        },
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

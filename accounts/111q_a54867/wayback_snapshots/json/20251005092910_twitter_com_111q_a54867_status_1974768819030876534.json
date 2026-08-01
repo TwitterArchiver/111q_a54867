@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974425376375054337",
+        "3_1974425395278794752",
+        "3_1974425422998941696"
+      ],
+      "media_source_tweet_id": [
+        "1974426242771530138",
+        "1974426242771530138",
+        "1974426242771530138"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1974768819030876534",
+    "created_at": "2025-10-05T09:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T10:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974768819030876534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "716218034998775809",
+          "start": 3,
+          "username": "konpe0217"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TGGl7Ak67p",
+          "end": 43,
+          "expanded_url": "https://x.com/konpe0217/status/1974426242771530138/photo/1",
+          "media_key": "3_1974425376375054337",
+          "start": 20,
+          "url": "https://t.co/TGGl7Ak67p"
+        },
+        {
+          "display_url": "pic.x.com/TGGl7Ak67p",
+          "end": 43,
+          "expanded_url": "https://x.com/konpe0217/status/1974426242771530138/photo/1",
+          "media_key": "3_1974425395278794752",
+          "start": 20,
+          "url": "https://t.co/TGGl7Ak67p"
+        },
+        {
+          "display_url": "pic.x.com/TGGl7Ak67p",
+          "end": 43,
+          "expanded_url": "https://x.com/konpe0217/status/1974426242771530138/photo/1",
+          "media_key": "3_1974425422998941696",
+          "start": 20,
+          "url": "https://t.co/TGGl7Ak67p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974768819030876534",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 256
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974426242771530138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konpe0217: 天使の日 https://t.co/TGGl7Ak67p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1974425376375054337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2aRazpaIAEAKTw.jpg",
+        "width": 2480
+      },
+      {
+        "height": 3624,
+        "media_key": "3_1974425395278794752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2aRb6EaUAA6YIB.jpg",
+        "width": 2591
+      },
+      {
+        "height": 2953,
+        "media_key": "3_1974425422998941696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2aRdhVaMAAM4xr.jpg",
+        "width": 2079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974425376375054337",
+            "3_1974425395278794752",
+            "3_1974425422998941696"
+          ],
+          "media_source_tweet_id": [
+            "1974426242771530138",
+            "1974426242771530138",
+            "1974426242771530138"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974768819030876534",
+        "created_at": "2025-10-05T09:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T10:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974768819030876534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "716218034998775809",
+              "start": 3,
+              "username": "konpe0217"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGGl7Ak67p",
+              "end": 43,
+              "expanded_url": "https://x.com/konpe0217/status/1974426242771530138/photo/1",
+              "media_key": "3_1974425376375054337",
+              "start": 20,
+              "url": "https://t.co/TGGl7Ak67p"
+            },
+            {
+              "display_url": "pic.x.com/TGGl7Ak67p",
+              "end": 43,
+              "expanded_url": "https://x.com/konpe0217/status/1974426242771530138/photo/1",
+              "media_key": "3_1974425395278794752",
+              "start": 20,
+              "url": "https://t.co/TGGl7Ak67p"
+            },
+            {
+              "display_url": "pic.x.com/TGGl7Ak67p",
+              "end": 43,
+              "expanded_url": "https://x.com/konpe0217/status/1974426242771530138/photo/1",
+              "media_key": "3_1974425422998941696",
+              "start": 20,
+              "url": "https://t.co/TGGl7Ak67p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974768819030876534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 256
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974426242771530138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konpe0217: 天使の日 https://t.co/TGGl7Ak67p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974425376375054337",
+            "3_1974425395278794752",
+            "3_1974425422998941696"
+          ]
+        },
+        "author_id": "716218034998775809",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974426242771530138",
+        "created_at": "2025-10-04T10:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T11:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974426242771530138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TGGl7Ak67p",
+              "end": 28,
+              "expanded_url": "https://x.com/konpe0217/status/1974426242771530138/photo/1",
+              "media_key": "3_1974425376375054337",
+              "start": 5,
+              "url": "https://t.co/TGGl7Ak67p"
+            },
+            {
+              "display_url": "pic.x.com/TGGl7Ak67p",
+              "end": 28,
+              "expanded_url": "https://x.com/konpe0217/status/1974426242771530138/photo/1",
+              "media_key": "3_1974425395278794752",
+              "start": 5,
+              "url": "https://t.co/TGGl7Ak67p"
+            },
+            {
+              "display_url": "pic.x.com/TGGl7Ak67p",
+              "end": 28,
+              "expanded_url": "https://x.com/konpe0217/status/1974426242771530138/photo/1",
+              "media_key": "3_1974425422998941696",
+              "start": 5,
+              "url": "https://t.co/TGGl7Ak67p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974426242771530138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 497,
+          "impression_count": 65840,
+          "like_count": 3082,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "天使の日 https://t.co/TGGl7Ak67p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 653,
+          "like_count": 1035,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 121
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-02T10:57:41.000Z",
+        "description": "Illustrator/designer 甘々×毒々 合成音声とOC👾 ご依頼・イラスト本・他SNSなど▶︎ https://t.co/22p78sNSH3 みじめちゃんぬいぐるみ▶︎ https://t.co/yYcavWT5kV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/konpeitooou",
+                "end": 78,
+                "expanded_url": "https://lit.link/konpeitooou",
+                "start": 55,
+                "url": "https://t.co/22p78sNSH3"
+              },
+              {
+                "display_url": "hopely.jp/character/200",
+                "end": 116,
+                "expanded_url": "https://hopely.jp/character/200",
+                "start": 93,
+                "url": "https://t.co/yYcavWT5kV"
+              }
+            ]
+          }
+        },
+        "id": "716218034998775809",
+        "location": "転載・使用・機械学習禁止",
+        "name": "こんぺ伊藤",
+        "pinned_tweet_id": "1855558840827379778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790722681312284672/89W-vXPv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46081,
+          "following_count": 620,
+          "like_count": 9518,
+          "listed_count": 629,
+          "media_count": 68,
+          "tweet_count": 9934
+        },
+        "username": "konpe0217",
+        "verified": false
+      }
+    ]
+  }
+}

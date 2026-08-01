@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971676860611178496"
+      ],
+      "media_source_tweet_id": [
+        "1971885025697087935"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1972333888359002364",
+    "created_at": "2025-09-28T16:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T17:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972333888359002364"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Roots of Entanglement",
+          "probability": 0.9396,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 60,
+          "normalized_text": "Esther Sarto",
+          "probability": 0.9378,
+          "start": 49,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4166425527",
+          "start": 3,
+          "username": "solisolsoli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fgzfC3rVsW",
+          "end": 85,
+          "expanded_url": "https://x.com/solisolsoli/status/1971885025697087935/photo/1",
+          "media_key": "3_1971676860611178496",
+          "start": 62,
+          "url": "https://t.co/fgzfC3rVsW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972333888359002364",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 316
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971885025697087935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @solisolsoli: Roots of Entanglement, 2016, by Esther Sarto https://t.co/fgzfC3rVsW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2107,
+        "media_key": "3_1971676860611178496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1zNqIiWMAA_yIB.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971676860611178496"
+          ],
+          "media_source_tweet_id": [
+            "1971885025697087935"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1972333888359002364",
+        "created_at": "2025-09-28T16:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T17:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972333888359002364"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Roots of Entanglement",
+              "probability": 0.9396,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Esther Sarto",
+              "probability": 0.9378,
+              "start": 49,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4166425527",
+              "start": 3,
+              "username": "solisolsoli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgzfC3rVsW",
+              "end": 85,
+              "expanded_url": "https://x.com/solisolsoli/status/1971885025697087935/photo/1",
+              "media_key": "3_1971676860611178496",
+              "start": 62,
+              "url": "https://t.co/fgzfC3rVsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972333888359002364",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 316
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971885025697087935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @solisolsoli: Roots of Entanglement, 2016, by Esther Sarto https://t.co/fgzfC3rVsW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971676860611178496"
+          ]
+        },
+        "author_id": "4166425527",
+        "conversation_id": "1971885025697087935",
+        "created_at": "2025-09-27T10:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T11:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971885025697087935"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Roots of Entanglement",
+              "probability": 0.929,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Esther Sarto",
+              "probability": 0.9523,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fgzfC3rVsW",
+              "end": 68,
+              "expanded_url": "https://x.com/solisolsoli/status/1971885025697087935/photo/1",
+              "media_key": "3_1971676860611178496",
+              "start": 45,
+              "url": "https://t.co/fgzfC3rVsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971885025697087935",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 65499,
+          "like_count": 2492,
+          "quote_count": 12,
+          "reply_count": 8,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "Roots of Entanglement, 2016, by Esther Sarto https://t.co/fgzfC3rVsW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是伊藤签",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 503,
+          "like_count": 725,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 74
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-11T21:07:17.000Z",
+        "description": "https://t.co/Lws6KCEOUD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "solisolsoli.com",
+                "end": 23,
+                "expanded_url": "http://solisolsoli.com",
+                "start": 0,
+                "url": "https://t.co/Lws6KCEOUD"
+              }
+            ]
+          }
+        },
+        "id": "4166425527",
+        "name": "soli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240651592560513027/6fstVHAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155394,
+          "following_count": 430,
+          "like_count": 12620,
+          "listed_count": 3970,
+          "media_count": 10438,
+          "tweet_count": 11725
+        },
+        "username": "solisolsoli",
+        "verified": true
+      }
+    ]
+  }
+}

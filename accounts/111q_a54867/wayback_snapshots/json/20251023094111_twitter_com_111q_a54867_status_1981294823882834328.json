@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1981294717053685760"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1981294823882834328",
+    "created_at": "2025-10-23T09:41:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T10:41:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981294823882834328"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 0,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 26,
+          "start": 12,
+          "tag": "自撮り界隈さんと繋がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/094FwoR39y",
+          "end": 63,
+          "expanded_url": "https://x.com/111q_a54867/status/1981294823882834328/video/1",
+          "media_key": "13_1981294717053685760",
+          "start": 40,
+          "url": "https://t.co/094FwoR39y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981294823882834328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#地雷系と繋がりたい  #自撮り界隈さんと繋がりたい  恨我的排队，爱我的继续 https://t.co/094FwoR39y"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8968,
+        "height": 540,
+        "media_key": "13_1981294717053685760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1981294717053685760/img/_j1tO5IzFzOnvl3f.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981294717053685760/vid/avc1/480x270/6tu67L972Gff_KUv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981294717053685760/vid/avc1/640x360/WLGTadFvZs0GHVHV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1981294717053685760/vid/avc1/960x540/rXMPOlZS2RFjXPaM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1981294717053685760/pl/Yj1dAmcOjECq1mbh.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1981294717053685760"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1981294823882834328",
+        "created_at": "2025-10-23T09:41:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T10:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981294823882834328"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 26,
+              "start": 12,
+              "tag": "自撮り界隈さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/094FwoR39y",
+              "end": 63,
+              "expanded_url": "https://x.com/111q_a54867/status/1981294823882834328/video/1",
+              "media_key": "13_1981294717053685760",
+              "start": 40,
+              "url": "https://t.co/094FwoR39y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981294823882834328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷系と繋がりたい  #自撮り界隈さんと繋がりたい  恨我的排队，爱我的继续 https://t.co/094FwoR39y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 888,
+          "like_count": 1598,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 206
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

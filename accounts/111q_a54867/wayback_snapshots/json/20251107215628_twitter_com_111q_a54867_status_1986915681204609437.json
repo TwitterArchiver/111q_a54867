@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1986765550148886561",
+    "created_at": "2025-11-07T21:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T22:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986915681204609437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1813561366512566272",
+          "start": 0,
+          "username": "wnglu8138814443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986915681204609437",
+    "in_reply_to_user_id": "1813561366512566272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986908936335991281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnglu8138814443 抓不到你算我输"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1986765550148886561",
+        "created_at": "2025-11-07T21:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T22:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986915681204609437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1813561366512566272",
+              "start": 0,
+              "username": "wnglu8138814443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986915681204609437",
+        "in_reply_to_user_id": "1813561366512566272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986908936335991281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnglu8138814443 抓不到你算我输"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813561366512566272",
+        "conversation_id": "1986765550148886561",
+        "created_at": "2025-11-07T21:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T22:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986908936335991281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986908936335991281",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986765550148886561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 晶哥發力了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 988,
+          "like_count": 2422,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T13:08:39.000Z",
+        "description": "infj/雙相/17yeas 嗯嗯 嗯嗯 嗯嗯 cn蝦餃， suki ，海帶",
+        "id": "1813561366512566272",
+        "location": "江苏南京",
+        "name": "蝦蝦蝦蝦蝦蝦蝦蝦餃sama",
+        "pinned_tweet_id": "1983984222995144806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983813802916536320/Q7SZ-50V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 55,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 250
+        },
+        "username": "wnglu8138814443",
+        "verified": false
+      }
+    ]
+  }
+}

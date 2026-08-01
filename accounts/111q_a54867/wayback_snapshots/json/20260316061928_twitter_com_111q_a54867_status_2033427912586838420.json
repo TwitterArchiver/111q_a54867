@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2032761095728111666",
+    "created_at": "2026-03-16T06:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033427912586838420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007848117983670272",
+          "start": 0,
+          "username": "jingjing593432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033427912586838420",
+    "in_reply_to_user_id": "2007848117983670272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032761095728111666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjing593432 刻薄逼太恶心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2032761095728111666",
+        "created_at": "2026-03-16T06:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033427912586838420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007848117983670272",
+              "start": 0,
+              "username": "jingjing593432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033427912586838420",
+        "in_reply_to_user_id": "2007848117983670272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032761095728111666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjing593432 刻薄逼太恶心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007848117983670272",
+        "conversation_id": "2032761095728111666",
+        "created_at": "2026-03-14T10:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032761095728111666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032761095728111666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 64401,
+          "like_count": 1519,
+          "quote_count": 8,
+          "reply_count": 95,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "抖人最恶心的就是看到视频主人公手上有伤疤就开始和参观动物园一样，还喜欢说怎么不割脖子上。好恶心。在高高在上什么，看不到别人经历了什么看不到别人的痛苦都去死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "od日记",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 1183,
+          "like_count": 5696,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 980
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T16:15:01.000Z",
+        "description": "业余网黄我想发什么发什么私信发吊不回发腹肌会馋 傻逼私信我会骂得很脏并且挂你私信发萌物会回👇匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aqa.link/jiqng93055",
+                "end": 23,
+                "expanded_url": "https://aqa.link/jiqng93055",
+                "start": 0,
+                "url": "https://t.co/GOWrgyvoOi"
+              }
+            ]
+          }
+        },
+        "id": "2007848117983670272",
+        "location": "520米",
+        "name": "困困",
+        "pinned_tweet_id": "2017167819931279752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014379046298120192/H1eI0Scm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6814,
+          "following_count": 59,
+          "like_count": 910,
+          "listed_count": 14,
+          "media_count": 54,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/GOWrgyvoOi",
+        "username": "jingjing593432",
+        "verified": false
+      }
+    ]
+  }
+}

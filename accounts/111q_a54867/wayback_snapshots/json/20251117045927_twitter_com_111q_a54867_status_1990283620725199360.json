@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1990110297382920272",
+    "created_at": "2025-11-17T04:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T05:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990283620725199360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1437615703209783298",
+          "start": 0,
+          "username": "xiaoqing0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990283620725199360",
+    "in_reply_to_user_id": "1437615703209783298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990272193885008078",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoqing0930 呃。你猜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1990110297382920272",
+        "created_at": "2025-11-17T04:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T05:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990283620725199360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1437615703209783298",
+              "start": 0,
+              "username": "xiaoqing0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990283620725199360",
+        "in_reply_to_user_id": "1437615703209783298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990272193885008078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoqing0930 呃。你猜。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1437615703209783298",
+        "conversation_id": "1990110297382920272",
+        "created_at": "2025-11-17T04:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T05:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990272193885008078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990272193885008078",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990110297382920272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 吸笑气会乱淫吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 665,
+          "following_count": 1010,
+          "like_count": 2739,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 360
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T03:14:52.000Z",
+        "description": "擅长迷茫",
+        "id": "1437615703209783298",
+        "name": "假装",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840744062506426368/mkV6PmwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 2131,
+          "like_count": 12006,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 2696
+        },
+        "username": "xiaoqing0930",
+        "verified": false
+      }
+    ]
+  }
+}

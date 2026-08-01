@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2038314333135086061",
+    "created_at": "2026-03-29T17:56:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T18:56:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038314333135086061"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038314333135086061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我特别想曝光一个知三当三的臭婊子，她之前也玩中推圈，想看她主页的可以私我。我他妈好绝望😂😂，我想问问有没有认识她的，或者可以帮我一个忙。她抖音把我和我所有朋友的大号小号都拉黑了，评论也删除了😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2038314333135086061",
+        "created_at": "2026-03-29T17:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T18:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038314333135086061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038314333135086061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别想曝光一个知三当三的臭婊子，她之前也玩中推圈，想看她主页的可以私我。我他妈好绝望😂😂，我想问问有没有认识她的，或者可以帮我一个忙。她抖音把我和我所有朋友的大号小号都拉黑了，评论也删除了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 1192,
+          "like_count": 5994,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

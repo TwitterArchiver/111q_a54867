@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2019516638807355461",
+    "created_at": "2026-02-05T21:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T22:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019516638807355461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1943697421948903424",
+          "start": 3,
+          "username": "xioyouyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019516638807355461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019389294830579903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xioyouyu: 我恨自己是个哥哥控。一有事情就喊哥哥，闹脾气也要在哥哥面前装的可爱，跟哥哥说话一定是柔声细语，受一点伤我都要委屈找哥哥，天天围着哥哥转，窝在哥哥怀里撒娇。想哥哥等哥哥爱哥哥，哥哥好帅，吃饭想哥哥，睡觉憩哥哥，洗澡想哥哥干什么都想哥哥，太喜欢哥哥了，眼…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2019516638807355461",
+        "created_at": "2026-02-05T21:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019516638807355461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1943697421948903424",
+              "start": 3,
+              "username": "xioyouyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019516638807355461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019389294830579903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xioyouyu: 我恨自己是个哥哥控。一有事情就喊哥哥，闹脾气也要在哥哥面前装的可爱，跟哥哥说话一定是柔声细语，受一点伤我都要委屈找哥哥，天天围着哥哥转，窝在哥哥怀里撒娇。想哥哥等哥哥爱哥哥，哥哥好帅，吃饭想哥哥，睡觉憩哥哥，洗澡想哥哥干什么都想哥哥，太喜欢哥哥了，眼…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943697421948903424",
+        "conversation_id": "2019389294830579903",
+        "created_at": "2026-02-05T12:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T13:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019389294830579903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019389294830579903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 21412,
+          "like_count": 518,
+          "quote_count": 13,
+          "reply_count": 19,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "我恨自己是个哥哥控。一有事情就喊哥哥，闹脾气也要在哥哥面前装的可爱，跟哥哥说话一定是柔声细语，受一点伤我都要委屈找哥哥，天天围着哥哥转，窝在哥哥怀里撒娇。想哥哥等哥哥爱哥哥，哥哥好帅，吃饭想哥哥，睡觉憩哥哥，洗澡想哥哥干什么都想哥哥，太喜欢哥哥了，眼泪流干也要喜欢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "od日记",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 1121,
+          "like_count": 5199,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 763
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T15:42:58.000Z",
+        "description": "我只是一个脆弱的小女孩…",
+        "id": "1943697421948903424",
+        "name": "^-^",
+        "pinned_tweet_id": "1998279942686343374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998433904634773504/23j5eHm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 32,
+          "like_count": 216,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 85
+        },
+        "username": "xioyouyu",
+        "verified": false
+      }
+    ]
+  }
+}

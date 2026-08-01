@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1999136616011497750",
+    "created_at": "2025-12-12T06:20:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T07:20:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999363760709136746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1746087545614831616",
+          "start": 0,
+          "username": "shanchahua30340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999363760709136746",
+    "in_reply_to_user_id": "1746087545614831616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999361651557245323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shanchahua30340 是的也有这种，文案我在开玩笑呢（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1999136616011497750",
+        "created_at": "2025-12-12T06:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999363760709136746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1746087545614831616",
+              "start": 0,
+              "username": "shanchahua30340"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999363760709136746",
+        "in_reply_to_user_id": "1746087545614831616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999361651557245323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanchahua30340 是的也有这种，文案我在开玩笑呢（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1746087545614831616",
+        "conversation_id": "1999136616011497750",
+        "created_at": "2025-12-12T06:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999361651557245323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999361651557245323",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999136616011497750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 入门基本就是为了看图或者聊天给点情绪价值的吧🤔，奥还有那种纯资助博主的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 870,
+          "following_count": 1052,
+          "like_count": 4033,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 522
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-13T08:31:39.000Z",
+        "description": "男/双/4i/纯小狗ฅ՞•ﻌ•՞ฅ\n无聊了可以来找我聊天，随缘在线，可以叫我甜甜圈，小狗，星，不定时切换邪恶甜甜圈😈，如有冒犯，很抱歉，会给你道歉的🥺",
+        "id": "1746087545614831616",
+        "name": "Xing_TTQ",
+        "pinned_tweet_id": "1999295250309972091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997621734904823808/0IbZF5cO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 75,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 514
+        },
+        "username": "shanchahua30340",
+        "verified": false
+      }
+    ]
+  }
+}

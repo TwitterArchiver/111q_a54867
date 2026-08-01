@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2075687822330319284",
+    "created_at": "2026-07-10T22:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T23:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075706294783430936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2074568420574851072",
+          "start": 0,
+          "username": "jinshi778899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075706294783430936",
+    "in_reply_to_user_id": "2074568420574851072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075693990243082597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinshi778899 思诺思大王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2075687822330319284",
+        "created_at": "2026-07-10T22:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T23:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075706294783430936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2074568420574851072",
+              "start": 0,
+              "username": "jinshi778899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075706294783430936",
+        "in_reply_to_user_id": "2074568420574851072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075693990243082597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinshi778899 思诺思大王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074568420574851072",
+        "conversation_id": "2075687822330319284",
+        "created_at": "2026-07-10T21:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T22:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075693990243082597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075693990243082597",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075687822330319284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 唯一真神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "你从未感受过你粉碎我灵魂时我的痛楚。\n希望你也能经历你给我的心碎。\n骚扰我前 请先过门🚪99/200/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2072729903666266538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 1261,
+          "like_count": 7426,
+          "listed_count": 2,
+          "media_count": 319,
+          "tweet_count": 1641
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T18:57:55.000Z",
+        "description": "资深老oder 欢迎各种询问 | 🈲政｜出售单方右美沙芬 需要的私 私信常开 请确保了解药理后再服用 备用号@yinshi778899",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "yinshi778899"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOnb666",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOnb666",
+                "start": 0,
+                "url": "https://t.co/ZdR23jTRXh"
+              }
+            ]
+          }
+        },
+        "id": "2074568420574851072",
+        "location": "新加坡",
+        "name": "金时（互fo）🍥💻",
+        "pinned_tweet_id": "2075146854862594542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074569945795747840/kOiJ_Z_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 100,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/ZdR23jTRXh",
+        "username": "jinshi778899",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1994337735667052622",
+    "created_at": "2025-11-29T15:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994797239043330391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "917975711364861952",
+          "start": 0,
+          "username": "tanishidesu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994797239043330391",
+    "in_reply_to_user_id": "917975711364861952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994742113062588769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanishidesu_ 带状疱疹住院就是开普瑞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1994337735667052622",
+        "created_at": "2025-11-29T15:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994797239043330391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "917975711364861952",
+              "start": 0,
+              "username": "tanishidesu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994797239043330391",
+        "in_reply_to_user_id": "917975711364861952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994742113062588769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanishidesu_ 带状疱疹住院就是开普瑞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "917975711364861952",
+        "conversation_id": "1994337735667052622",
+        "created_at": "2025-11-29T12:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994742113062588769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994742113062588769",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994337735667052622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 其实还挺好奇医院会不会真开普瑞的，我当时有一阵子住院也是 感觉中间有几天医生给我吃了pr但是我没有看到药单，我也不确定 。当时住的是半封闭的、医生只给药然后要当着医生的面吃下去，不会这样开了后自己吃👉👈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 875,
+          "following_count": 1059,
+          "like_count": 3486,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-11T04:50:39.000Z",
+        "description": "随缘登陆……很喜欢我的oc宝贝、自娱自乐人、请别伤害我💦 头像是oc。一个人形负面情绪爆发器。梦想是下定决心去死。 会破防的傻逼能不能别来沾边啊？",
+        "id": "917975711364861952",
+        "name": "シロ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946404833990242305/fMYlEk3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 63,
+          "like_count": 1035,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 688
+        },
+        "username": "tanishidesu_",
+        "verified": false
+      }
+    ]
+  }
+}

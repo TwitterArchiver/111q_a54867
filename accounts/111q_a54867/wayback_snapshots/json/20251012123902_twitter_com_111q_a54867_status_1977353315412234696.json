@@ -1,0 +1,624 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977346391161933824"
+      ],
+      "media_source_tweet_id": [
+        "1977346401026576748"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      }
+    ],
+    "conversation_id": "1977353315412234696",
+    "created_at": "2025-10-12T12:39:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T13:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977353315412234696"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "ナルホド君",
+          "probability": 0.8408,
+          "start": 40,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 21,
+          "tag": "1日1ラクガキ"
+        },
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "逆転裁判"
+        },
+        {
+          "end": 71,
+          "start": 59,
+          "tag": "AceAttorney"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "205176844",
+          "start": 3,
+          "username": "iwamoto_tatsuro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vzxKIMwyhc",
+          "end": 95,
+          "expanded_url": "https://x.com/iwamoto_tatsuro/status/1977346401026576748/photo/1",
+          "media_key": "3_1977346391161933824",
+          "start": 72,
+          "url": "https://t.co/vzxKIMwyhc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977353315412234696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 323
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977346401026576748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iwamoto_tatsuro: #1日1ラクガキ\n逆転裁判24周年！？ナルホド君と同い年‥‥\n\n#逆転裁判 #AceAttorney https://t.co/vzxKIMwyhc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_1977346391161933824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DyEPsbkAAE3S9.jpg",
+        "width": 2132
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977346391161933824"
+          ],
+          "media_source_tweet_id": [
+            "1977346401026576748"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          }
+        ],
+        "conversation_id": "1977353315412234696",
+        "created_at": "2025-10-12T12:39:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977353315412234696"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "ナルホド君",
+              "probability": 0.8408,
+              "start": 40,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "1日1ラクガキ"
+            },
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "逆転裁判"
+            },
+            {
+              "end": 71,
+              "start": 59,
+              "tag": "AceAttorney"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "205176844",
+              "start": 3,
+              "username": "iwamoto_tatsuro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzxKIMwyhc",
+              "end": 95,
+              "expanded_url": "https://x.com/iwamoto_tatsuro/status/1977346401026576748/photo/1",
+              "media_key": "3_1977346391161933824",
+              "start": 72,
+              "url": "https://t.co/vzxKIMwyhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977353315412234696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 323
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977346401026576748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iwamoto_tatsuro: #1日1ラクガキ\n逆転裁判24周年！？ナルホド君と同い年‥‥\n\n#逆転裁判 #AceAttorney https://t.co/vzxKIMwyhc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977346391161933824"
+          ]
+        },
+        "author_id": "205176844",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          }
+        ],
+        "conversation_id": "1977346401026576748",
+        "created_at": "2025-10-12T12:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977346401026576748"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "ナルホド君",
+              "probability": 0.8104,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "1日1ラクガキ"
+            },
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "逆転裁判"
+            },
+            {
+              "end": 50,
+              "start": 38,
+              "tag": "AceAttorney"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzxKIMwyhc",
+              "end": 74,
+              "expanded_url": "https://x.com/iwamoto_tatsuro/status/1977346401026576748/photo/1",
+              "media_key": "3_1977346391161933824",
+              "start": 51,
+              "url": "https://t.co/vzxKIMwyhc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977346401026576748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 17292,
+          "like_count": 893,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 323
+        },
+        "reply_settings": "everyone",
+        "text": "#1日1ラクガキ\n逆転裁判24周年！？ナルホド君と同い年‥‥\n\n#逆転裁判 #AceAttorney https://t.co/vzxKIMwyhc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 789,
+          "like_count": 1257,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 171
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-20T09:23:57.000Z",
+        "description": "フリーキャラデザイナー。 「逆転裁判シリーズ」「バクダン★ハンダン」「アニメ モンスターストライク」「D×2真・女神転生リベレーション」「歌舞伎町探偵セブン」「ジャーニー」等のキャラデザイン。「探偵・癸生川凌介事件譚」公式絵師。ニンドリにて「画流！岩元塾」連載。同人活動「満漢全席」「WOLVES」「鎧ミュシャ」",
+        "id": "205176844",
+        "location": "東京都世田谷区",
+        "name": "岩元辰郎　キャラデザいつでも募集中",
+        "pinned_tweet_id": "1833529308973023362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1408723179661520897/iEh1hKFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21273,
+          "following_count": 1925,
+          "like_count": 9963,
+          "listed_count": 288,
+          "media_count": 2453,
+          "tweet_count": 15865
+        },
+        "username": "iwamoto_tatsuro",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1998429505858490421",
+    "created_at": "2025-12-09T16:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T17:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998430644331036996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1774638060963008512",
+          "start": 0,
+          "username": "LST12123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998430644331036996",
+    "in_reply_to_user_id": "1774638060963008512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998429505858490421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LST12123 彳亍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1998429505858490421",
+        "created_at": "2025-12-09T16:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T17:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998430644331036996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1774638060963008512",
+              "start": 0,
+              "username": "LST12123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998430644331036996",
+        "in_reply_to_user_id": "1774638060963008512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998429505858490421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LST12123 彳亍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774638060963008512",
+        "conversation_id": "1998429505858490421",
+        "created_at": "2025-12-09T16:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T17:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998429505858490421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998429505858490421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是男的啊各位，怎么一大堆找我跨年的男生，我女粉呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 1054,
+          "like_count": 3880,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T03:21:16.000Z",
+        "description": "傻卵二次元：粥批|音游人|邦邦人|英雄联盟|三角洲|FGO     碎碎念区主播🌈有好型|国际立场中立🥺|🇯🇵学习中\n  @0xo_snow 快去关注这个入\n匿名提问箱：\nhttps://t.co/5HFRKzLgCv\n\n自用蜂鸟vpn：https://t.co/nGLI6QmTUX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "0xo_snow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/LST12123",
+                "end": 109,
+                "expanded_url": "https://miyu.link/LST12123",
+                "start": 86,
+                "url": "https://t.co/5HFRKzLgCv"
+              },
+              {
+                "display_url": "sachlife.com/#/",
+                "end": 142,
+                "expanded_url": "https://www.sachlife.com/#/",
+                "start": 119,
+                "url": "https://t.co/nGLI6QmTUX"
+              }
+            ]
+          }
+        },
+        "id": "1774638060963008512",
+        "location": "距离你520m",
+        "name": "困困神",
+        "pinned_tweet_id": "1998215986210881906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978672734499704832/6yWQMv9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146,
+          "following_count": 399,
+          "like_count": 826,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 748
+        },
+        "username": "LST12123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976382741538054144"
+      ],
+      "media_source_tweet_id": [
+        "1976382793711223117"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1976717249026441632",
+    "created_at": "2025-10-10T18:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T19:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976717249026441632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1575548950031044610",
+          "start": 3,
+          "username": "hj0riis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nrt84PfaFk",
+          "end": 72,
+          "expanded_url": "https://x.com/hj0riis/status/1976382793711223117/photo/1",
+          "media_key": "3_1976382741538054144",
+          "start": 49,
+          "url": "https://t.co/Nrt84PfaFk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976717249026441632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 204
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976382793711223117",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hj0riis: i hate this guy so much here you go https://t.co/Nrt84PfaFk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 913,
+        "media_key": "3_1976382741538054144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G22FodGWoAASUkI.jpg",
+        "width": 1181
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976382741538054144"
+          ],
+          "media_source_tweet_id": [
+            "1976382793711223117"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1976717249026441632",
+        "created_at": "2025-10-10T18:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T19:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976717249026441632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1575548950031044610",
+              "start": 3,
+              "username": "hj0riis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nrt84PfaFk",
+              "end": 72,
+              "expanded_url": "https://x.com/hj0riis/status/1976382793711223117/photo/1",
+              "media_key": "3_1976382741538054144",
+              "start": 49,
+              "url": "https://t.co/Nrt84PfaFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976717249026441632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 204
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976382793711223117",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hj0riis: i hate this guy so much here you go https://t.co/Nrt84PfaFk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976382741538054144"
+          ]
+        },
+        "author_id": "1575548950031044610",
+        "conversation_id": "1976382793711223117",
+        "created_at": "2025-10-09T20:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T21:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976382793711223117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nrt84PfaFk",
+              "end": 59,
+              "expanded_url": "https://x.com/hj0riis/status/1976382793711223117/photo/1",
+              "media_key": "3_1976382741538054144",
+              "start": 36,
+              "url": "https://t.co/Nrt84PfaFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976382793711223117",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 9220,
+          "like_count": 1053,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 204
+        },
+        "reply_settings": "everyone",
+        "text": "i hate this guy so much here you go https://t.co/Nrt84PfaFk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 743,
+          "like_count": 1192,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 162
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T18:12:05.000Z",
+        "description": "✧ ┊ 21 🇧🇷┊ NOT AN ART ACC!! just Apollo pilled n gay ✦ Main: @Harajuno_ // priv: @mikkatwo 🌻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 61,
+                "username": "Harajuno_"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "mikkatwo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "etsy.com/shop/Harajuno",
+                "end": 23,
+                "expanded_url": "https://www.etsy.com/shop/Harajuno",
+                "start": 0,
+                "url": "https://t.co/tQ22oGi34R"
+              }
+            ]
+          }
+        },
+        "id": "1575548950031044610",
+        "location": "🐞playing AA5 🪲",
+        "name": "Juno's sketch alt 🐝",
+        "pinned_tweet_id": "1960762080497123423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948222989381586945/B6Ur0Bh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 334,
+          "like_count": 9687,
+          "listed_count": 6,
+          "media_count": 865,
+          "tweet_count": 2187
+        },
+        "url": "https://t.co/tQ22oGi34R",
+        "username": "hj0riis",
+        "verified": false
+      }
+    ]
+  }
+}

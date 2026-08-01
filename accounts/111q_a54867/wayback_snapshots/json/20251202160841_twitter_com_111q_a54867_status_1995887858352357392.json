@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995413996057632768",
+        "3_1995413996065927168"
+      ],
+      "media_source_tweet_id": [
+        "1995414030882939216",
+        "1995414030882939216"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1995887858352357392",
+    "created_at": "2025-12-02T16:08:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T17:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995887858352357392"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "cutecore"
+        },
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "jiraikei"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1967887882384965632",
+          "start": 3,
+          "username": "111q_a54867"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/29hWG9WjCA",
+          "end": 67,
+          "expanded_url": "https://x.com/111q_a54867/status/1995414030882939216/photo/1",
+          "media_key": "3_1995413996057632768",
+          "start": 44,
+          "url": "https://t.co/29hWG9WjCA"
+        },
+        {
+          "display_url": "pic.x.com/29hWG9WjCA",
+          "end": 67,
+          "expanded_url": "https://x.com/111q_a54867/status/1995414030882939216/photo/1",
+          "media_key": "3_1995413996065927168",
+          "start": 44,
+          "url": "https://t.co/29hWG9WjCA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995887858352357392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995414030882939216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @111q_a54867: #cutecore #jiraikei  🧠🌫️☠️ https://t.co/29hWG9WjCA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995413996057632768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EidQ7boAAPvnb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1995413996065927168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EidQ9aMAAy-dw.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995413996057632768",
+            "3_1995413996065927168"
+          ],
+          "media_source_tweet_id": [
+            "1995414030882939216",
+            "1995414030882939216"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1995887858352357392",
+        "created_at": "2025-12-02T16:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T17:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995887858352357392"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "cutecore"
+            },
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "jiraikei"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1967887882384965632",
+              "start": 3,
+              "username": "111q_a54867"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/29hWG9WjCA",
+              "end": 67,
+              "expanded_url": "https://x.com/111q_a54867/status/1995414030882939216/photo/1",
+              "media_key": "3_1995413996057632768",
+              "start": 44,
+              "url": "https://t.co/29hWG9WjCA"
+            },
+            {
+              "display_url": "pic.x.com/29hWG9WjCA",
+              "end": 67,
+              "expanded_url": "https://x.com/111q_a54867/status/1995414030882939216/photo/1",
+              "media_key": "3_1995413996065927168",
+              "start": 44,
+              "url": "https://t.co/29hWG9WjCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995887858352357392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995414030882939216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @111q_a54867: #cutecore #jiraikei  🧠🌫️☠️ https://t.co/29hWG9WjCA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995413996057632768",
+            "3_1995413996065927168"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1995414030882939216",
+        "created_at": "2025-12-01T08:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995414030882939216"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "cutecore"
+            },
+            {
+              "end": 19,
+              "start": 10,
+              "tag": "jiraikei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/29hWG9WjCA",
+              "end": 50,
+              "expanded_url": "https://x.com/111q_a54867/status/1995414030882939216/photo/1",
+              "media_key": "3_1995413996057632768",
+              "start": 27,
+              "url": "https://t.co/29hWG9WjCA"
+            },
+            {
+              "display_url": "pic.x.com/29hWG9WjCA",
+              "end": 50,
+              "expanded_url": "https://x.com/111q_a54867/status/1995414030882939216/photo/1",
+              "media_key": "3_1995413996065927168",
+              "start": 27,
+              "url": "https://t.co/29hWG9WjCA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995414030882939216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1032,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#cutecore #jiraikei  🧠🌫️☠️ https://t.co/29hWG9WjCA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 1057,
+          "like_count": 3624,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 494
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

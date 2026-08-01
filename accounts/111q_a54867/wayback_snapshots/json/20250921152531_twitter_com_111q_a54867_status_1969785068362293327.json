@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969515960274206723"
+      ],
+      "media_source_tweet_id": [
+        "1969515968151109923"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10052334547",
+          "name": "伊藤潤二『コレクション』"
+        }
+      }
+    ],
+    "conversation_id": "1969785068362293327",
+    "created_at": "2025-09-21T15:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T16:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969785068362293327"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 53,
+          "tag": "伊藤潤二コレクション"
+        },
+        {
+          "end": 76,
+          "start": 66,
+          "tag": "伊藤潤二マニアック"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1788876131837644801",
+          "start": 3,
+          "username": "tagashira202407"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5zSXAIBIeH",
+          "end": 100,
+          "expanded_url": "https://x.com/tagashira202407/status/1969515968151109923/photo/1",
+          "media_key": "3_1969515960274206723",
+          "start": 77,
+          "url": "https://t.co/5zSXAIBIeH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969785068362293327",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969515968151109923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tagashira202407: 双一のファンアート。\nコイツは本当に憎たらしくて可愛いな。\n\n #伊藤潤二コレクション\n #伊藤潤二マニアック https://t.co/5zSXAIBIeH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969515960274206723",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1UgVLebQAM6OVs.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969515960274206723"
+          ],
+          "media_source_tweet_id": [
+            "1969515968151109923"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10052334547",
+              "name": "伊藤潤二『コレクション』"
+            }
+          }
+        ],
+        "conversation_id": "1969785068362293327",
+        "created_at": "2025-09-21T15:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969785068362293327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 53,
+              "tag": "伊藤潤二コレクション"
+            },
+            {
+              "end": 76,
+              "start": 66,
+              "tag": "伊藤潤二マニアック"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1788876131837644801",
+              "start": 3,
+              "username": "tagashira202407"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zSXAIBIeH",
+              "end": 100,
+              "expanded_url": "https://x.com/tagashira202407/status/1969515968151109923/photo/1",
+              "media_key": "3_1969515960274206723",
+              "start": 77,
+              "url": "https://t.co/5zSXAIBIeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969785068362293327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969515968151109923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tagashira202407: 双一のファンアート。\nコイツは本当に憎たらしくて可愛いな。\n\n #伊藤潤二コレクション\n #伊藤潤二マニアック https://t.co/5zSXAIBIeH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969515960274206723"
+          ]
+        },
+        "author_id": "1788876131837644801",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10052334547",
+              "name": "伊藤潤二『コレクション』"
+            }
+          }
+        ],
+        "conversation_id": "1969515968151109923",
+        "created_at": "2025-09-20T21:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T22:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969515968151109923"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 32,
+              "tag": "伊藤潤二コレクション"
+            },
+            {
+              "end": 55,
+              "start": 45,
+              "tag": "伊藤潤二マニアック"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5zSXAIBIeH",
+              "end": 79,
+              "expanded_url": "https://x.com/tagashira202407/status/1969515968151109923/photo/1",
+              "media_key": "3_1969515960274206723",
+              "start": 56,
+              "url": "https://t.co/5zSXAIBIeH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969515968151109923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 456,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "双一のファンアート。\nコイツは本当に憎たらしくて可愛いな。\n\n #伊藤潤二コレクション\n #伊藤潤二マニアック https://t.co/5zSXAIBIeH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，孩子瞎发玩的",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969121154893037568/gGp6K-B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 315,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 28
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T10:20:01.000Z",
+        "description": "",
+        "id": "1788876131837644801",
+        "name": "田頭しのぶ　shinobu tagashira",
+        "pinned_tweet_id": "1969515968151109923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788880255685709824/hETh9OWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 49,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 143
+        },
+        "username": "tagashira202407",
+        "verified": true
+      }
+    ]
+  }
+}

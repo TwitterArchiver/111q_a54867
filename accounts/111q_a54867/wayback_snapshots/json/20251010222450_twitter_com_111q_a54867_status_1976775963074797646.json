@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1976661772129177623",
+    "created_at": "2025-10-10T22:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T23:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976775963074797646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976775963074797646",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976661772129177623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 下次我回江浙沪，我愿意给你思诺思"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1976661766122700800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26DZ0rXAAApqbw.jpg",
+        "width": 522
+      },
+      {
+        "height": 742,
+        "media_key": "3_1976661766147907584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26DZ0xXoAACB3h.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1976661772129177623",
+        "created_at": "2025-10-10T22:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T23:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976775963074797646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976775963074797646",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976661772129177623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 下次我回江浙沪，我愿意给你思诺思"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976661766122700800",
+            "3_1976661766147907584"
+          ]
+        },
+        "author_id": "1000763746430500865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1976661772129177623",
+        "created_at": "2025-10-10T14:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T15:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976661772129177623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AfLnPyC4u6",
+              "end": 83,
+              "expanded_url": "https://x.com/manoj901858808/status/1976661772129177623/photo/1",
+              "media_key": "3_1976661766122700800",
+              "start": 60,
+              "url": "https://t.co/AfLnPyC4u6"
+            },
+            {
+              "display_url": "pic.x.com/AfLnPyC4u6",
+              "end": 83,
+              "expanded_url": "https://x.com/manoj901858808/status/1976661772129177623/photo/1",
+              "media_key": "3_1976661766147907584",
+              "start": 60,
+              "url": "https://t.co/AfLnPyC4u6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976661772129177623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3661,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四天没睡觉拿身上所有钱200换三颗思诺思然后药物弄丢了，行，牛逼，这个是上天的指示让我去死吗，我从来没有感觉这么崩溃过 https://t.co/AfLnPyC4u6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 744,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 164
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "泛性恋，过得很悲惨",
+        "id": "1000763746430500865",
+        "location": "🚪200/520",
+        "name": "我本还泪",
+        "pinned_tweet_id": "1971506837276213557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976360045555171328/UnGqrs26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39700,
+          "following_count": 397,
+          "like_count": 2291,
+          "listed_count": 83,
+          "media_count": 241,
+          "tweet_count": 1505
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

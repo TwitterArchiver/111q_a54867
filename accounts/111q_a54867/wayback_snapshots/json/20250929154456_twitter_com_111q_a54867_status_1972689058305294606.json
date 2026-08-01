@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972577817029423104"
+      ],
+      "media_source_tweet_id": [
+        "1972577824646242497"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1972689058305294606",
+    "created_at": "2025-09-29T15:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T16:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972689058305294606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1955772685272621057",
+          "start": 3,
+          "username": "Grief555_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NSn6q6RWYR",
+          "end": 112,
+          "expanded_url": "https://x.com/Grief555_/status/1972577824646242497/photo/1",
+          "media_key": "3_1972577817029423104",
+          "start": 89,
+          "url": "https://t.co/NSn6q6RWYR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972689058305294606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972577824646242497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Grief555_: 泥嚎我是404 ip河南接纯绿爸爸活 以及伤口定制出原味 🚪88  ，128/188/520🉑解锁更多 我很好说话！女孩子可以私我交朋友互fo😋😋 https://t.co/NSn6q6RWYR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972577817029423104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ABEsvasAAs2Fm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972577817029423104"
+          ],
+          "media_source_tweet_id": [
+            "1972577824646242497"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1972689058305294606",
+        "created_at": "2025-09-29T15:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T16:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972689058305294606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1955772685272621057",
+              "start": 3,
+              "username": "Grief555_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSn6q6RWYR",
+              "end": 112,
+              "expanded_url": "https://x.com/Grief555_/status/1972577824646242497/photo/1",
+              "media_key": "3_1972577817029423104",
+              "start": 89,
+              "url": "https://t.co/NSn6q6RWYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972689058305294606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972577824646242497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Grief555_: 泥嚎我是404 ip河南接纯绿爸爸活 以及伤口定制出原味 🚪88  ，128/188/520🉑解锁更多 我很好说话！女孩子可以私我交朋友互fo😋😋 https://t.co/NSn6q6RWYR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972577817029423104"
+          ]
+        },
+        "author_id": "1955772685272621057",
+        "conversation_id": "1972577824646242497",
+        "created_at": "2025-09-29T08:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T09:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972577824646242497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSn6q6RWYR",
+              "end": 97,
+              "expanded_url": "https://x.com/Grief555_/status/1972577824646242497/photo/1",
+              "media_key": "3_1972577817029423104",
+              "start": 74,
+              "url": "https://t.co/NSn6q6RWYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972577824646242497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1043,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "泥嚎我是404 ip河南接纯绿爸爸活 以及伤口定制出原味 🚪88  ，128/188/520🉑解锁更多 我很好说话！女孩子可以私我交朋友互fo😋😋 https://t.co/NSn6q6RWYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是伊藤签",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 532,
+          "like_count": 762,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 79
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T23:25:29.000Z",
+        "description": "我是404\n我接纯绿爸爸活 伤口定制 出原味 图包\n🚪88/128/188/520",
+        "id": "1955772685272621057",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "爱总牵扯痛",
+        "pinned_tweet_id": "1972577824646242497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972571483143798784/35JY48t9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 56,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "Grief555_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1990110297382920272",
+    "created_at": "2025-11-17T06:35:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T07:35:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990307873986056346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1719239053487349760",
+          "start": 0,
+          "username": "zhongzilong66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990307873986056346",
+    "in_reply_to_user_id": "1719239053487349760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990299702785613826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhongzilong66 笑死我了这是笑气球"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1990110297382920272",
+        "created_at": "2025-11-17T06:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990307873986056346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1719239053487349760",
+              "start": 0,
+              "username": "zhongzilong66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990307873986056346",
+        "in_reply_to_user_id": "1719239053487349760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990299702785613826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhongzilong66 笑死我了这是笑气球"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1719239053487349760",
+        "conversation_id": "1990110297382920272",
+        "created_at": "2025-11-17T06:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990299702785613826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990299702785613826",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990110297382920272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 咋给避孕套吹这么大？😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 1016,
+          "like_count": 2745,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 364
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-31T06:25:25.000Z",
+        "description": "性别男，爱冒险，爱运动，我是幽默绿叶，我为自己代言。",
+        "id": "1719239053487349760",
+        "name": "幽默绿叶",
+        "pinned_tweet_id": "1963869634798514552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939673645829197824/RzeZpXrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 794,
+          "like_count": 13202,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 1239
+        },
+        "username": "zhongzilong66",
+        "verified": false
+      }
+    ]
+  }
+}

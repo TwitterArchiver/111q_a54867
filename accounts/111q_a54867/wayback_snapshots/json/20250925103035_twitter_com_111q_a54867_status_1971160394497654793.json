@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1958487162669895680"
+      ],
+      "media_source_tweet_id": [
+        "1958487332866367603"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1971160394497654793",
+    "created_at": "2025-09-25T10:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T11:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971160394497654793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408028409599467521",
+          "start": 3,
+          "username": "AngelSuicide999"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cYrhavUsMf",
+          "end": 44,
+          "expanded_url": "https://x.com/AngelSuicide999/status/1958487332866367603/video/1",
+          "media_key": "13_1958487162669895680",
+          "start": 21,
+          "url": "https://t.co/cYrhavUsMf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971160394497654793",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 494
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958487332866367603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AngelSuicide999: https://t.co/cYrhavUsMf"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1971160394497654793].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1971160394497654793",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1971160394497654793"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10000,
+        "height": 1080,
+        "media_key": "13_1958487162669895680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958487162669895680/img/5eMNw5826Q5HmlIX.jpg",
+        "public_metrics": {
+          "view_count": 11484
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958487162669895680/vid/avc1/360x270/MHb9aU5FQrztAyzT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958487162669895680/vid/avc1/480x360/YKdcDkOKAqTJ6EC9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958487162669895680/vid/avc1/960x720/gb5w6kkonsGrXQ1x.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958487162669895680/pl/yZJIOszuDrfyPHDt.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1958487162669895680"
+          ]
+        },
+        "author_id": "1408028409599467521",
+        "conversation_id": "1958487332866367603",
+        "created_at": "2025-08-21T11:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T12:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958487332866367603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cYrhavUsMf",
+              "end": 23,
+              "expanded_url": "https://x.com/AngelSuicide999/status/1958487332866367603/video/1",
+              "media_key": "13_1958487162669895680",
+              "start": 0,
+              "url": "https://t.co/cYrhavUsMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958487332866367603",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 348,
+          "impression_count": 42502,
+          "like_count": 2110,
+          "quote_count": 6,
+          "reply_count": 4,
+          "retweet_count": 494
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cYrhavUsMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 432,
+          "like_count": 504,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 43
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T11:45:17.000Z",
+        "description": "天使自殺",
+        "id": "1408028409599467521",
+        "name": "suicide",
+        "pinned_tweet_id": "1928226696991494247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927572549589688320/90zSepQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22168,
+          "following_count": 2,
+          "like_count": 92367,
+          "listed_count": 84,
+          "media_count": 742,
+          "tweet_count": 3306
+        },
+        "username": "AngelSuicide999",
+        "verified": false
+      }
+    ]
+  }
+}

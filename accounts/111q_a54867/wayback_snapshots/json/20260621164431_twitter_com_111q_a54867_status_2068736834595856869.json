@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2068736834595856869",
+    "created_at": "2026-06-21T16:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T17:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068736834595856869"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanaserezo3/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/nanaserezo3/status/2068554199437328641",
+          "start": 7,
+          "url": "https://t.co/jUXlLPG4YA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068736834595856869",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068554199437328641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我闺蜜重生了 https://t.co/jUXlLPG4YA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068554158874198016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT7DD5agAASnQW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1799,
+        "media_key": "3_2068554158870048768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT7DD4bMAAe_Qz.jpg",
+        "width": 1600
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068554158857428992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT7DD1aoAAvlmp.jpg",
+        "width": 1538
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068554158861606912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT7DD2aYAAi9QK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2068736834595856869",
+        "created_at": "2026-06-21T16:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068736834595856869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanaserezo3/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/nanaserezo3/status/2068554199437328641",
+              "start": 7,
+              "url": "https://t.co/jUXlLPG4YA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068736834595856869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068554199437328641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我闺蜜重生了 https://t.co/jUXlLPG4YA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068554158874198016",
+            "3_2068554158870048768",
+            "3_2068554158857428992",
+            "3_2068554158861606912"
+          ]
+        },
+        "author_id": "2068545750003576832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2068554199437328641",
+        "created_at": "2026-06-21T04:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068554199437328641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "线下"
+            },
+            {
+              "end": 145,
+              "start": 142,
+              "tag": "女高"
+            },
+            {
+              "end": 149,
+              "start": 146,
+              "tag": "小狗"
+            },
+            {
+              "end": 153,
+              "start": 150,
+              "tag": "贫乳"
+            },
+            {
+              "end": 156,
+              "start": 154,
+              "tag": "萌"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TfXoaZinrL",
+              "end": 180,
+              "expanded_url": "https://x.com/nanaserezo3/status/2068554199437328641/photo/1",
+              "media_key": "3_2068554158874198016",
+              "start": 157,
+              "url": "https://t.co/TfXoaZinrL"
+            },
+            {
+              "display_url": "pic.x.com/TfXoaZinrL",
+              "end": 180,
+              "expanded_url": "https://x.com/nanaserezo3/status/2068554199437328641/photo/1",
+              "media_key": "3_2068554158870048768",
+              "start": 157,
+              "url": "https://t.co/TfXoaZinrL"
+            },
+            {
+              "display_url": "pic.x.com/TfXoaZinrL",
+              "end": 180,
+              "expanded_url": "https://x.com/nanaserezo3/status/2068554199437328641/photo/1",
+              "media_key": "3_2068554158857428992",
+              "start": 157,
+              "url": "https://t.co/TfXoaZinrL"
+            },
+            {
+              "display_url": "pic.x.com/TfXoaZinrL",
+              "end": 180,
+              "expanded_url": "https://x.com/nanaserezo3/status/2068554199437328641/photo/1",
+              "media_key": "3_2068554158861606912",
+              "start": 157,
+              "url": "https://t.co/TfXoaZinrL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068554199437328641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是灵草呀就是我又转生了！\n我想交朋友 过门会给你满满的情绪价值猜你想搜od割手非绿 喜欢复古的可爱小东西 冷爵士 各种艺术，地雷系，历史时证、相声 人文媒体 平成时代 喜欢收集平成贴纸实体漫画我喜欢drug呀，许愿一个群毒虫朋友和我玩!我是09巨蟹entp求转发!#门槛妹 #线下 #女高 #小狗 #贫乳 #萌 https://t.co/TfXoaZinrL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "你从未感受过你粉碎我灵魂时我的痛楚。\n希望你也能经历你给我的心碎。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2067,
+          "following_count": 1265,
+          "like_count": 7382,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 1590
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T04:06:06.000Z",
+        "description": "我是灵草！165 90坐标湖北但经常去江浙沪 欢迎来约爸爸活ENTP 过门请直接甩口令红包/赞赏码！感谢过门 ꒦ິ^꒦ິ 第三个转生号 线下价格和🚪置顶都有写哦！地雷系/vintage/kidcore/我o我割 我是精神病休学女孩求投喂 我真的没钱活着了...所以下海了求过门呀TT可验证门无上限给的越多我越爱你！！！",
+        "id": "2068545750003576832",
+        "location": "🚪88/258/520/1314♡",
+        "name": "小灵草🎀",
+        "pinned_tweet_id": "2068554199437328641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068709414492913664/p-pSp21z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 85,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "nanaserezo3",
+        "verified": false
+      }
+    ]
+  }
+}

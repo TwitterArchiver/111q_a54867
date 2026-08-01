@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021908451044311040"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "2021908456488546320",
+    "created_at": "2026-02-12T11:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021908456488546320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gv9HatVvAk",
+          "end": 30,
+          "expanded_url": "https://x.com/111q_a54867/status/2021908456488546320/photo/1",
+          "media_key": "3_2021908451044311040",
+          "start": 7,
+          "url": "https://t.co/gv9HatVvAk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021908456488546320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好价单方右美 https://t.co/gv9HatVvAk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1171,
+        "media_key": "3_2021908451044311040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9DBhDbQAABqBk.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021908451044311040"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2021908456488546320",
+        "created_at": "2026-02-12T11:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021908456488546320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gv9HatVvAk",
+              "end": 30,
+              "expanded_url": "https://x.com/111q_a54867/status/2021908456488546320/photo/1",
+              "media_key": "3_2021908451044311040",
+              "start": 7,
+              "url": "https://t.co/gv9HatVvAk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021908456488546320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好价单方右美 https://t.co/gv9HatVvAk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "od日记",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 1115,
+          "like_count": 5264,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 785
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

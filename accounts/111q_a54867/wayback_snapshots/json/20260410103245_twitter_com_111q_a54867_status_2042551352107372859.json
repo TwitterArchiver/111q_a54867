@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042551337108541443"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "2042551352107372859",
+    "created_at": "2026-04-10T10:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042551352107372859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G6kjaIESCK",
+          "end": 43,
+          "expanded_url": "https://x.com/111q_a54867/status/2042551352107372859/photo/1",
+          "media_key": "3_2042551337108541443",
+          "start": 20,
+          "url": "https://t.co/G6kjaIESCK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042551352107372859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我二四年给奶奶贴的手机壳，现在掉了好多 https://t.co/G6kjaIESCK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042551337108541443",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiZnoPakAMONOJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042551337108541443"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2042551352107372859",
+        "created_at": "2026-04-10T10:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042551352107372859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G6kjaIESCK",
+              "end": 43,
+              "expanded_url": "https://x.com/111q_a54867/status/2042551352107372859/photo/1",
+              "media_key": "3_2042551337108541443",
+              "start": 20,
+              "url": "https://t.co/G6kjaIESCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042551352107372859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我二四年给奶奶贴的手机壳，现在掉了好多 https://t.co/G6kjaIESCK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 1233,
+          "like_count": 6266,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

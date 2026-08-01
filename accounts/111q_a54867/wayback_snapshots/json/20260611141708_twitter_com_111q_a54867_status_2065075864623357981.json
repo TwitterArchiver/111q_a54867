@@ -1,0 +1,680 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063830445251584000",
+        "3_2063830445255786496"
+      ],
+      "media_source_tweet_id": [
+        "2064905468271591884",
+        "2064905468271591884"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      }
+    ],
+    "conversation_id": "2065075864623357981",
+    "created_at": "2026-06-11T14:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T15:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065075864623357981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1172344004970594304",
+          "start": 3,
+          "username": "CStorejapan"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「逆裁商品」シリーズ｜CAPCOM STORE SENDAI｜仙台PARCO　ポケパル払いでお支払いいただくことでPARCOポイントが貯まり、貯まったPARCOポイントは全国のPARCOやONLINE PARCOで1P=1円でご利用いただけます。",
+          "display_url": "online.parco.jp/shop/e/e129305…",
+          "end": 95,
+          "expanded_url": "https://online.parco.jp/shop/e/e12930505/",
+          "images": [
+            {
+              "height": 1080,
+              "url": "https://pbs.twimg.com/news_img/2062731158245240835/X2tzHJTe?format=jpg&name=orig",
+              "width": 810
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2062731158245240835/X2tzHJTe?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 72,
+          "status": 200,
+          "title": "「逆裁商品」シリーズ｜CAPCOM STORE SENDAI｜仙台PARCO | ONLINE PARCO（オンラインパルコ）",
+          "unwound_url": "https://online.parco.jp/shop/e/e12930505/",
+          "url": "https://t.co/KH6hk290NG"
+        },
+        {
+          "display_url": "pic.x.com/FaBO3tWkqs",
+          "end": 119,
+          "expanded_url": "https://x.com/CStorejapan/status/2064905468271591884/photo/1",
+          "media_key": "3_2063830445251584000",
+          "start": 96,
+          "url": "https://t.co/FaBO3tWkqs"
+        },
+        {
+          "display_url": "pic.x.com/FaBO3tWkqs",
+          "end": 119,
+          "expanded_url": "https://x.com/CStorejapan/status/2064905468271591884/photo/1",
+          "media_key": "3_2063830445255786496",
+          "start": 96,
+          "url": "https://t.co/FaBO3tWkqs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065075864623357981",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3848
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064905468271591884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CStorejapan: 【ONLINE】\n\n【商品紹介】\n\n異議あリング\n◆逆転裁判\n◆大逆転裁判1&amp;2\n\n▽online \nhttps://t.co/KH6hk290NG https://t.co/FaBO3tWkqs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2063830445251584000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQy2vXbYAAlsAb.jpg",
+        "width": 1200
+      },
+      {
+        "height": 376,
+        "media_key": "3_2063830445255786496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQy2vYbgAA8USR.jpg",
+        "width": 376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063830445251584000",
+            "3_2063830445255786496"
+          ],
+          "media_source_tweet_id": [
+            "2064905468271591884",
+            "2064905468271591884"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          }
+        ],
+        "conversation_id": "2065075864623357981",
+        "created_at": "2026-06-11T14:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065075864623357981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1172344004970594304",
+              "start": 3,
+              "username": "CStorejapan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「逆裁商品」シリーズ｜CAPCOM STORE SENDAI｜仙台PARCO　ポケパル払いでお支払いいただくことでPARCOポイントが貯まり、貯まったPARCOポイントは全国のPARCOやONLINE PARCOで1P=1円でご利用いただけます。",
+              "display_url": "online.parco.jp/shop/e/e129305…",
+              "end": 95,
+              "expanded_url": "https://online.parco.jp/shop/e/e12930505/",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2062731158245240835/X2tzHJTe?format=jpg&name=orig",
+                  "width": 810
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062731158245240835/X2tzHJTe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "「逆裁商品」シリーズ｜CAPCOM STORE SENDAI｜仙台PARCO | ONLINE PARCO（オンラインパルコ）",
+              "unwound_url": "https://online.parco.jp/shop/e/e12930505/",
+              "url": "https://t.co/KH6hk290NG"
+            },
+            {
+              "display_url": "pic.x.com/FaBO3tWkqs",
+              "end": 119,
+              "expanded_url": "https://x.com/CStorejapan/status/2064905468271591884/photo/1",
+              "media_key": "3_2063830445251584000",
+              "start": 96,
+              "url": "https://t.co/FaBO3tWkqs"
+            },
+            {
+              "display_url": "pic.x.com/FaBO3tWkqs",
+              "end": 119,
+              "expanded_url": "https://x.com/CStorejapan/status/2064905468271591884/photo/1",
+              "media_key": "3_2063830445255786496",
+              "start": 96,
+              "url": "https://t.co/FaBO3tWkqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065075864623357981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3848
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064905468271591884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CStorejapan: 【ONLINE】\n\n【商品紹介】\n\n異議あリング\n◆逆転裁判\n◆大逆転裁判1&amp;2\n\n▽online \nhttps://t.co/KH6hk290NG https://t.co/FaBO3tWkqs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063830445251584000",
+            "3_2063830445255786496"
+          ]
+        },
+        "author_id": "1172344004970594304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          }
+        ],
+        "conversation_id": "2064905468271591884",
+        "created_at": "2026-06-11T03:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064905468271591884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "「逆裁商品」シリーズ｜CAPCOM STORE SENDAI｜仙台PARCO　ポケパル払いでお支払いいただくことでPARCOポイントが貯まり、貯まったPARCOポイントは全国のPARCOやONLINE PARCOで1P=1円でご利用いただけます。",
+              "display_url": "online.parco.jp/shop/e/e129305…",
+              "end": 78,
+              "expanded_url": "https://online.parco.jp/shop/e/e12930505/",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2062731158245240835/X2tzHJTe?format=jpg&name=orig",
+                  "width": 810
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062731158245240835/X2tzHJTe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "「逆裁商品」シリーズ｜CAPCOM STORE SENDAI｜仙台PARCO | ONLINE PARCO（オンラインパルコ）",
+              "unwound_url": "https://online.parco.jp/shop/e/e12930505/",
+              "url": "https://t.co/KH6hk290NG"
+            },
+            {
+              "display_url": "pic.x.com/FaBO3tWkqs",
+              "end": 102,
+              "expanded_url": "https://x.com/CStorejapan/status/2064905468271591884/photo/1",
+              "media_key": "3_2063830445251584000",
+              "start": 79,
+              "url": "https://t.co/FaBO3tWkqs"
+            },
+            {
+              "display_url": "pic.x.com/FaBO3tWkqs",
+              "end": 102,
+              "expanded_url": "https://x.com/CStorejapan/status/2064905468271591884/photo/1",
+              "media_key": "3_2063830445255786496",
+              "start": 79,
+              "url": "https://t.co/FaBO3tWkqs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064905468271591884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 973,
+          "impression_count": 748080,
+          "like_count": 8305,
+          "quote_count": 739,
+          "reply_count": 8,
+          "retweet_count": 3848
+        },
+        "reply_settings": "everyone",
+        "text": "【ONLINE】\n\n【商品紹介】\n\n異議あリング\n◆逆転裁判\n◆大逆転裁判1&amp;2\n\n▽online \nhttps://t.co/KH6hk290NG https://t.co/FaBO3tWkqs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "你从未感受过你粉碎我灵魂时我的痛楚。\n希望你也能经历你给我的心碎。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 1279,
+          "like_count": 7308,
+          "listed_count": 2,
+          "media_count": 301,
+          "tweet_count": 1567
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-13T03:00:45.000Z",
+        "description": "『CAPCOM STORE TOKYO・ OSAKA・UMEDA・ANNEX・SENDAI・IKEBUKURO』\n 「モンスターハンター」をはじめ、「バイオハザード」「逆転裁判」といったカプコンの人気キャラクターのグッズを取り揃えたカプコンのアンテナショップです。 \n ※発信専用アカウントです。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "capcom.co.jp/amusement/capc…",
+                "end": 23,
+                "expanded_url": "https://www.capcom.co.jp/amusement/capcomstore/",
+                "start": 0,
+                "url": "https://t.co/dJbCEm3wUo"
+              }
+            ]
+          }
+        },
+        "id": "1172344004970594304",
+        "name": "CAPCOM STORE (カプコンストア）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871379568529137664/_oSMV02o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92518,
+          "following_count": 92,
+          "like_count": 501,
+          "listed_count": 291,
+          "media_count": 3818,
+          "tweet_count": 6732
+        },
+        "url": "https://t.co/dJbCEm3wUo",
+        "username": "CStorejapan",
+        "verified": true
+      }
+    ]
+  }
+}

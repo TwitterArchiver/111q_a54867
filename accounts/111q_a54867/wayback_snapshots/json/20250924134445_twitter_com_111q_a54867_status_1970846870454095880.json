@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969753477627998208"
+      ],
+      "media_source_tweet_id": [
+        "1969753480551338123"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1970846870454095880",
+    "created_at": "2025-09-24T13:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T14:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970846870454095880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1732556170261618688",
+          "start": 3,
+          "username": "rat_nkmi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NA3c3o42yC",
+          "end": 37,
+          "expanded_url": "https://x.com/rat_nkmi/status/1969753480551338123/photo/1",
+          "media_key": "3_1969753477627998208",
+          "start": 14,
+          "url": "https://t.co/NA3c3o42yC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970846870454095880",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969753480551338123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rat_nkmi: https://t.co/NA3c3o42yC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1147,
+        "media_key": "3_1969753477627998208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1X4WgkbcAAdkU4.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969753477627998208"
+          ],
+          "media_source_tweet_id": [
+            "1969753480551338123"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1970846870454095880",
+        "created_at": "2025-09-24T13:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970846870454095880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1732556170261618688",
+              "start": 3,
+              "username": "rat_nkmi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NA3c3o42yC",
+              "end": 37,
+              "expanded_url": "https://x.com/rat_nkmi/status/1969753480551338123/photo/1",
+              "media_key": "3_1969753477627998208",
+              "start": 14,
+              "url": "https://t.co/NA3c3o42yC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970846870454095880",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969753480551338123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rat_nkmi: https://t.co/NA3c3o42yC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969753477627998208"
+          ]
+        },
+        "author_id": "1732556170261618688",
+        "conversation_id": "1969753480551338123",
+        "created_at": "2025-09-21T13:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969753480551338123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NA3c3o42yC",
+              "end": 23,
+              "expanded_url": "https://x.com/rat_nkmi/status/1969753480551338123/photo/1",
+              "media_key": "3_1969753477627998208",
+              "start": 0,
+              "url": "https://t.co/NA3c3o42yC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969753480551338123",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 20043,
+          "like_count": 2149,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NA3c3o42yC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 415,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 38
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-07T00:22:44.000Z",
+        "description": "✉️▶︎ https://t.co/hTCqIlCeIg┊︎ AI学習禁止┊︎詳細（リンク/さらに表示）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/1md9iu1g6…",
+                "end": 28,
+                "expanded_url": "https://wavebox.me/wave/1md9iu1g676bumro/",
+                "start": 5,
+                "url": "https://t.co/hTCqIlCeIg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rat-nkmi.my.canva.site",
+                "end": 23,
+                "expanded_url": "https://rat-nkmi.my.canva.site/",
+                "start": 0,
+                "url": "https://t.co/iUw6gCAU7Y"
+              }
+            ]
+          }
+        },
+        "id": "1732556170261618688",
+        "name": "ねずみ",
+        "pinned_tweet_id": "1967808322695991737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781902401739673600/GFxjOLDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5217,
+          "following_count": 42,
+          "like_count": 5974,
+          "listed_count": 32,
+          "media_count": 2372,
+          "tweet_count": 10739
+        },
+        "url": "https://t.co/iUw6gCAU7Y",
+        "username": "rat_nkmi",
+        "verified": false
+      }
+    ]
+  }
+}

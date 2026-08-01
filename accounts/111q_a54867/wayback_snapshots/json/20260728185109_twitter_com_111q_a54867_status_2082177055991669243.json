@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2081804894714151217",
+    "created_at": "2026-07-28T18:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082177055991669243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055987687723839488",
+          "start": 0,
+          "username": "okokok333444"
+        },
+        {
+          "end": 25,
+          "id": "2024195400442531841",
+          "start": 14,
+          "username": "Xjiajiaouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082177055991669243",
+    "in_reply_to_user_id": "2055987687723839488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081804894714151217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@okokok333444 @Xjiajiaouo 许愿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2081804894714151217",
+        "created_at": "2026-07-28T18:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082177055991669243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055987687723839488",
+              "start": 0,
+              "username": "okokok333444"
+            },
+            {
+              "end": 25,
+              "id": "2024195400442531841",
+              "start": 14,
+              "username": "Xjiajiaouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082177055991669243",
+        "in_reply_to_user_id": "2055987687723839488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081804894714151217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@okokok333444 @Xjiajiaouo 许愿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055987687723839488",
+        "conversation_id": "2081804894714151217",
+        "created_at": "2026-07-27T18:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081804894714151217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081804894714151217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6299,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "有没有那种全民一起吃普瑞巴林日。吃完餐券妹也不逃离原生家庭了，山东男人也不打老婆了，东北人也不satisfaction了，娜娜警官也不禁毒了所有人都嗨起来晕起来放松起来欣快起来。太幸福了吧这样的场景"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "小众活法不喜勿喷\n骚扰我前 请先过门🚪99/200/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2072729903666266538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2053,
+          "following_count": 1261,
+          "like_count": 7498,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 1685
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T12:27:00.000Z",
+        "description": "糖逼一个\n@boqiaoahm4\n杯子@zhoushashaff9n",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "boqiaoahm4"
+              },
+              {
+                "end": 34,
+                "start": 19,
+                "username": "zhoushashaff9n"
+              }
+            ]
+          }
+        },
+        "id": "2055987687723839488",
+        "name": "火乍玉",
+        "pinned_tweet_id": "2055989929193435641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055989447267864576/Zi8zfiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 127,
+          "like_count": 1023,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 421
+        },
+        "url": "",
+        "username": "okokok333444",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "血痂\n💊🔪🚬🩸\n我想发什么发什么，左右脑互搏是日常",
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2067493808552702155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060564878767861760/SG8TP7X0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 524,
+          "like_count": 18646,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 4590
+        },
+        "url": "",
+        "username": "Xjiajiaouo",
+        "verified": false
+      }
+    ]
+  }
+}

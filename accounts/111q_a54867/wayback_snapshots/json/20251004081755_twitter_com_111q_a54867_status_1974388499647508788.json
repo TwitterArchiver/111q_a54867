@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974388493553209344",
+        "3_1974388493557379075"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1974388499647508788",
+    "created_at": "2025-10-04T08:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T09:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974388499647508788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wScHwzqxob",
+          "end": 27,
+          "expanded_url": "https://x.com/111q_a54867/status/1974388499647508788/photo/1",
+          "media_key": "3_1974388493553209344",
+          "start": 4,
+          "url": "https://t.co/wScHwzqxob"
+        },
+        {
+          "display_url": "pic.x.com/wScHwzqxob",
+          "end": 27,
+          "expanded_url": "https://x.com/111q_a54867/status/1974388499647508788/photo/1",
+          "media_key": "3_1974388493557379075",
+          "start": 4,
+          "url": "https://t.co/wScHwzqxob"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974388499647508788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新衣服 https://t.co/wScHwzqxob"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974388493553209344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Zv38bbkAAPy9E.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974388493557379075",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2Zv38cbMAMwPxc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974388493553209344",
+            "3_1974388493557379075"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1974388499647508788",
+        "created_at": "2025-10-04T08:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T09:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974388499647508788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wScHwzqxob",
+              "end": 27,
+              "expanded_url": "https://x.com/111q_a54867/status/1974388499647508788/photo/1",
+              "media_key": "3_1974388493553209344",
+              "start": 4,
+              "url": "https://t.co/wScHwzqxob"
+            },
+            {
+              "display_url": "pic.x.com/wScHwzqxob",
+              "end": 27,
+              "expanded_url": "https://x.com/111q_a54867/status/1974388499647508788/photo/1",
+              "media_key": "3_1974388493557379075",
+              "start": 4,
+              "url": "https://t.co/wScHwzqxob"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974388499647508788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新衣服 https://t.co/wScHwzqxob"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 612,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 102
+        },
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

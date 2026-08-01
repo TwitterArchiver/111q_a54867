@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2014647389760659901",
+    "created_at": "2026-01-24T19:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T20:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015146668501635085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986070487995428864",
+          "start": 0,
+          "username": "_moremore3ka9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015146668501635085",
+    "in_reply_to_user_id": "1986070487995428864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014647389760659901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_moremore3ka9 是万宝路的夏日盛典吗？好好抽！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1505,
+        "media_key": "3_2014647374598049792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_V3HPaXEAAESDU.jpg",
+        "width": 1130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2014647389760659901",
+        "created_at": "2026-01-24T19:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T20:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015146668501635085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986070487995428864",
+              "start": 0,
+              "username": "_moremore3ka9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015146668501635085",
+        "in_reply_to_user_id": "1986070487995428864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014647389760659901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_moremore3ka9 是万宝路的夏日盛典吗？好好抽！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014647374598049792"
+          ]
+        },
+        "author_id": "1986070487995428864",
+        "conversation_id": "2014647389760659901",
+        "created_at": "2026-01-23T10:32:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T11:32:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014647389760659901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bzy3CI0486",
+              "end": 27,
+              "expanded_url": "https://x.com/_moremore3ka9/status/2014647389760659901/photo/1",
+              "media_key": "3_2014647374598049792",
+              "start": 4,
+              "url": "https://t.co/bzy3CI0486"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014647389760659901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2611,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发烟！ https://t.co/bzy3CI0486"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoenXvj"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "我想幸福一点",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 1084,
+          "like_count": 4884,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 672
+        },
+        "url": "https://t.co/rc5JoenXvj",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T13:58:11.000Z",
+        "description": "这样的人生像过了一辈子那样漫长｜大号收不了私信 移步 @skk_minii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "skk_minii"
+              }
+            ]
+          }
+        },
+        "id": "1986070487995428864",
+        "location": "🚪52/288/588/1388/5200",
+        "name": "三角ちゃん寝る",
+        "pinned_tweet_id": "1994727321631428653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986078092826447872/O_fq4Xot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 83,
+          "like_count": 652,
+          "listed_count": 5,
+          "media_count": 63,
+          "tweet_count": 235
+        },
+        "username": "_moremore3ka9",
+        "verified": false
+      }
+    ]
+  }
+}

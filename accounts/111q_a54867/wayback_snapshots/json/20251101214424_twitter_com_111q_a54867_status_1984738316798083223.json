@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984546008681066496"
+      ],
+      "media_source_tweet_id": [
+        "1984546017472364565"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1984738316798083223",
+    "created_at": "2025-11-01T21:44:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T22:44:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984738316798083223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1659276871572537344",
+          "start": 3,
+          "username": "Rune_imp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6iT0BzTXkL",
+          "end": 51,
+          "expanded_url": "https://x.com/Rune_imp/status/1984546017472364565/photo/1",
+          "media_key": "3_1984546008681066496",
+          "start": 28,
+          "url": "https://t.co/6iT0BzTXkL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984738316798083223",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984546017472364565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rune_imp: 毒 吐 抱 自堕落 安楽死 https://t.co/6iT0BzTXkL"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "ハロウィ〜ン🩸",
+        "height": 3773,
+        "media_key": "3_1984546008681066496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4qGFI_asAAkHyP.jpg",
+        "width": 2829
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984546008681066496"
+          ],
+          "media_source_tweet_id": [
+            "1984546017472364565"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1984738316798083223",
+        "created_at": "2025-11-01T21:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T22:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984738316798083223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1659276871572537344",
+              "start": 3,
+              "username": "Rune_imp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6iT0BzTXkL",
+              "end": 51,
+              "expanded_url": "https://x.com/Rune_imp/status/1984546017472364565/photo/1",
+              "media_key": "3_1984546008681066496",
+              "start": 28,
+              "url": "https://t.co/6iT0BzTXkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984738316798083223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984546017472364565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rune_imp: 毒 吐 抱 自堕落 安楽死 https://t.co/6iT0BzTXkL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984546008681066496"
+          ]
+        },
+        "author_id": "1659276871572537344",
+        "conversation_id": "1984546017472364565",
+        "created_at": "2025-11-01T09:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T10:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984546017472364565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6iT0BzTXkL",
+              "end": 37,
+              "expanded_url": "https://x.com/Rune_imp/status/1984546017472364565/photo/1",
+              "media_key": "3_1984546008681066496",
+              "start": 14,
+              "url": "https://t.co/6iT0BzTXkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984546017472364565",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 4320,
+          "like_count": 284,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "毒 吐 抱 自堕落 安楽死 https://t.co/6iT0BzTXkL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 950,
+          "like_count": 2015,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T19:16:59.000Z",
+        "description": "♥️@uniqueimp_infoの赫色 🖤#るねちゃん解剖学 ⇐巡回したいからチェキツイにつけて♡広島生まれの轟音デスボイス！遠隔チェキ購入ページ！→ https://t.co/fRFAKj3EpV (落書きに要望がある方は備考欄に必ず記入してください)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 22,
+                "tag": "るねちゃん解剖学"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "uniqueimp_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "store.anseez.com/items/27607400",
+                "end": 100,
+                "expanded_url": "https://store.anseez.com/items/27607400",
+                "start": 77,
+                "url": "https://t.co/fRFAKj3EpV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Todoroto_Rune",
+                "end": 23,
+                "expanded_url": "https://lit.link/Todoroto_Rune",
+                "start": 0,
+                "url": "https://t.co/ckVgs5ef8h"
+              }
+            ]
+          }
+        },
+        "id": "1659276871572537344",
+        "location": "全部のSNSココから！→",
+        "name": "轟音るね@無敵",
+        "pinned_tweet_id": "1972936430675804478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958144475156594688/5NIRl8lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1799,
+          "following_count": 187,
+          "like_count": 28169,
+          "listed_count": 12,
+          "media_count": 203,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/ckVgs5ef8h",
+        "username": "Rune_imp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1975907869330747558",
+    "created_at": "2025-10-08T12:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T13:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975908886801682817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1950521580288884736",
+          "start": 0,
+          "username": "AmeKam10623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975908886801682817",
+    "in_reply_to_user_id": "1950521580288884736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975907869330747558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmeKam10623 我理你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1975907869330747558",
+        "created_at": "2025-10-08T12:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T13:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975908886801682817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1950521580288884736",
+              "start": 0,
+              "username": "AmeKam10623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975908886801682817",
+        "in_reply_to_user_id": "1950521580288884736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975907869330747558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmeKam10623 我理你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950521580288884736",
+        "conversation_id": "1975907869330747558",
+        "created_at": "2025-10-08T12:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T13:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975907869330747558"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975907869330747558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人理我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 694,
+          "like_count": 1128,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 133
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T11:39:27.000Z",
+        "description": "花沢あめ/花泽雨ame 边缘性人格障碍/07/泛性戀/isfp/暴力美学    再多了解我一点吧",
+        "id": "1950521580288884736",
+        "location": "🚪199/288/388/520/1314",
+        "name": "ここはあめよ",
+        "pinned_tweet_id": "1971169212124234155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953031902992175104/BS0-iCNw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6244,
+          "following_count": 102,
+          "like_count": 215,
+          "listed_count": 13,
+          "media_count": 37,
+          "tweet_count": 292
+        },
+        "username": "AmeKam10623",
+        "verified": false
+      }
+    ]
+  }
+}

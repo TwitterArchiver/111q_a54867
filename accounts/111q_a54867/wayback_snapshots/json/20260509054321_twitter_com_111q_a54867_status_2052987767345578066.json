@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2052859193577947354",
+    "created_at": "2026-05-09T05:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052987767345578066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1521588345024954375",
+          "start": 0,
+          "username": "IHateu04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052987767345578066",
+    "in_reply_to_user_id": "1521588345024954375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052978627470643235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IHateu04 我想得到一句对不起和回应都没有，他一直回避这件事我精神状态能不差吗。我活了这辈子没见过出轨和知三当三小三这么理直气壮的人。我不想陷入自证陷阱，说多了都是眼泪。其实还是明眼人多…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2052859193577947354",
+        "created_at": "2026-05-09T05:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052987767345578066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1521588345024954375",
+              "start": 0,
+              "username": "IHateu04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052987767345578066",
+        "in_reply_to_user_id": "1521588345024954375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052978627470643235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IHateu04 我想得到一句对不起和回应都没有，他一直回避这件事我精神状态能不差吗。我活了这辈子没见过出轨和知三当三小三这么理直气壮的人。我不想陷入自证陷阱，说多了都是眼泪。其实还是明眼人多…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1521588345024954375",
+        "conversation_id": "2052859193577947354",
+        "created_at": "2026-05-09T05:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052978627470643235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052978627470643235",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052859193577947354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 看完心情是你们三个有一个正常人吗  一个自杀威胁不分手 然后男的出轨 一个前任分手还没等你们分开就来当三 这个男的贱死了看到你俩为了他在这撕逼他都要爽死了😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "你从未感受过你粉碎我灵魂时我的痛楚。\n希望你也能经历你给我的心碎。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 1300,
+          "like_count": 7044,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 1446
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-03T20:31:55.000Z",
+        "description": "",
+        "id": "1521588345024954375",
+        "location": "北校c栋天台",
+        "name": "無",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016889583602909184/DkNsuDm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 82,
+          "like_count": 1324,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "username": "IHateu04",
+        "verified": false
+      }
+    ]
+  }
+}

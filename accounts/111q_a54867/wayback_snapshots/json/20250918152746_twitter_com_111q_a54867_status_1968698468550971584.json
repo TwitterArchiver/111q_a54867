@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1968415138542702592"
+      ],
+      "media_source_tweet_id": [
+        "1968415150676803905"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1968698468550971584",
+    "created_at": "2025-09-18T15:27:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T16:27:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968698468550971584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777754630375567361",
+          "start": 3,
+          "username": "illmemorialx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aLzO1i0oJw",
+          "end": 41,
+          "expanded_url": "https://x.com/illmemorialx/status/1968415150676803905/photo/1",
+          "media_key": "16_1968415138542702592",
+          "start": 18,
+          "url": "https://t.co/aLzO1i0oJw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968698468550971584",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 450
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968415150676803905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @illmemorialx: https://t.co/aLzO1i0oJw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 280,
+        "media_key": "16_1968415138542702592",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G1E3I69W0AA8U5m.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G1E3I69W0AA8U5m.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1968415138542702592"
+          ],
+          "media_source_tweet_id": [
+            "1968415150676803905"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1968698468550971584",
+        "created_at": "2025-09-18T15:27:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T16:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968698468550971584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777754630375567361",
+              "start": 3,
+              "username": "illmemorialx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLzO1i0oJw",
+              "end": 41,
+              "expanded_url": "https://x.com/illmemorialx/status/1968415150676803905/photo/1",
+              "media_key": "16_1968415138542702592",
+              "start": 18,
+              "url": "https://t.co/aLzO1i0oJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968698468550971584",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 450
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968415150676803905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @illmemorialx: https://t.co/aLzO1i0oJw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1968415138542702592"
+          ]
+        },
+        "author_id": "1777754630375567361",
+        "conversation_id": "1968415150676803905",
+        "created_at": "2025-09-17T20:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T21:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968415150676803905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aLzO1i0oJw",
+              "end": 23,
+              "expanded_url": "https://x.com/illmemorialx/status/1968415150676803905/photo/1",
+              "media_key": "16_1968415138542702592",
+              "start": 0,
+              "url": "https://t.co/aLzO1i0oJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968415150676803905",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 28873,
+          "like_count": 2138,
+          "quote_count": 24,
+          "reply_count": 5,
+          "retweet_count": 450
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aLzO1i0oJw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "aaa111qq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967903840730218496/Yqg31dpf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 97,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T17:45:28.000Z",
+        "description": "all is fake / art purposes / dm for credits, removal or promo",
+        "id": "1777754630375567361",
+        "name": "ethereal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777756088303009792/4mT3k-1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44598,
+          "following_count": 7022,
+          "like_count": 125,
+          "listed_count": 73,
+          "media_count": 1104,
+          "tweet_count": 2010
+        },
+        "username": "illmemorialx",
+        "verified": true
+      }
+    ]
+  }
+}

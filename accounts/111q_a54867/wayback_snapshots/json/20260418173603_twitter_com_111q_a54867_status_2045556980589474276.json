@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2045496072962015728",
+    "created_at": "2026-04-18T17:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045556980589474276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1854915067994841088",
+          "start": 0,
+          "username": "chiinaku11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045556980589474276",
+    "in_reply_to_user_id": "1854915067994841088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045496072962015728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiinaku11 列表全已飞升"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2045496072962015728",
+        "created_at": "2026-04-18T17:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045556980589474276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1854915067994841088",
+              "start": 0,
+              "username": "chiinaku11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045556980589474276",
+        "in_reply_to_user_id": "1854915067994841088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045496072962015728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiinaku11 列表全已飞升"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854915067994841088",
+        "conversation_id": "2045496072962015728",
+        "created_at": "2026-04-18T13:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045496072962015728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045496072962015728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 445,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今年真的死了好多人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1644,
+          "following_count": 1259,
+          "like_count": 6646,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 1266
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T15:53:35.000Z",
+        "description": "｜性格は悪いが善良だ｜裏垢 @lukalukacry",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "lukalukacry"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/crycry92872",
+                "end": 23,
+                "expanded_url": "https://ngl.link/crycry92872",
+                "start": 0,
+                "url": "https://t.co/hRTe26VoVn"
+              }
+            ]
+          }
+        },
+        "id": "1854915067994841088",
+        "name": "泣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036741650719100928/nwhGPqZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 155,
+          "like_count": 1314,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 2608
+        },
+        "url": "https://t.co/hRTe26VoVn",
+        "username": "chiinaku11",
+        "verified": false
+      }
+    ]
+  }
+}

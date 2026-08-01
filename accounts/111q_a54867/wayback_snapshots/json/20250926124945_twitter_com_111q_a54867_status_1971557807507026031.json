@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971022773360394247"
+      ],
+      "media_source_tweet_id": [
+        "1971022840968380783"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      }
+    ],
+    "conversation_id": "1971557807507026031",
+    "created_at": "2025-09-26T12:49:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T13:49:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971557807507026031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1425817992",
+          "start": 3,
+          "username": "aceattorneygame"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tvZ9qdcVFO",
+          "end": 84,
+          "expanded_url": "https://x.com/aceattorneygame/status/1971022840968380783/photo/1",
+          "media_key": "3_1971022773360394247",
+          "start": 61,
+          "url": "https://t.co/tvZ9qdcVFO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971557807507026031",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1957
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971022840968380783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aceattorneygame: Just woke up from a nap. What'd I miss? https://t.co/tvZ9qdcVFO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1971022773360394247",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1p6xPpaAAcuxwl.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971022773360394247"
+          ],
+          "media_source_tweet_id": [
+            "1971022840968380783"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          }
+        ],
+        "conversation_id": "1971557807507026031",
+        "created_at": "2025-09-26T12:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T13:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971557807507026031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1425817992",
+              "start": 3,
+              "username": "aceattorneygame"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvZ9qdcVFO",
+              "end": 84,
+              "expanded_url": "https://x.com/aceattorneygame/status/1971022840968380783/photo/1",
+              "media_key": "3_1971022773360394247",
+              "start": 61,
+              "url": "https://t.co/tvZ9qdcVFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971557807507026031",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1957
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971022840968380783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aceattorneygame: Just woke up from a nap. What'd I miss? https://t.co/tvZ9qdcVFO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971022773360394247"
+          ]
+        },
+        "author_id": "1425817992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          }
+        ],
+        "conversation_id": "1971022840968380783",
+        "created_at": "2025-09-25T01:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T02:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971022840968380783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvZ9qdcVFO",
+              "end": 63,
+              "expanded_url": "https://x.com/aceattorneygame/status/1971022840968380783/photo/1",
+              "media_key": "3_1971022773360394247",
+              "start": 40,
+              "url": "https://t.co/tvZ9qdcVFO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971022840968380783",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1024,
+          "impression_count": 413766,
+          "like_count": 21498,
+          "quote_count": 381,
+          "reply_count": 219,
+          "retweet_count": 1957
+        },
+        "reply_settings": "everyone",
+        "text": "Just woke up from a nap. What'd I miss? https://t.co/tvZ9qdcVFO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 437,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 48
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-13T16:21:40.000Z",
+        "description": "Phoenix Wright: Ace Attorney Trilogy Free Title Update Coming November 19, 2025! ESRB: TEEN for Violence, Blood, Suggestive Themes, and Use of Tobacco.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ace-attorney.com",
+                "end": 23,
+                "expanded_url": "https://www.ace-attorney.com/",
+                "start": 0,
+                "url": "https://t.co/vjgxCzOEEY"
+              }
+            ]
+          }
+        },
+        "id": "1425817992",
+        "location": "The Courtroom",
+        "name": "Ace Attorney",
+        "pinned_tweet_id": "1970855990447763666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970889280257208320/22Tu-zSU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142864,
+          "following_count": 17,
+          "like_count": 220,
+          "listed_count": 224,
+          "media_count": 856,
+          "tweet_count": 1455
+        },
+        "url": "https://t.co/vjgxCzOEEY",
+        "username": "aceattorneygame",
+        "verified": true
+      }
+    ]
+  }
+}

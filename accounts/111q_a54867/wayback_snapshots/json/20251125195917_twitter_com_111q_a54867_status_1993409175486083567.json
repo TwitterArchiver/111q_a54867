@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1993409175486083567",
+    "created_at": "2025-11-25T19:59:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T20:59:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993409175486083567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929355844837376000",
+          "start": 3,
+          "username": "Zoee_TuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993409175486083567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992882865118593503",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zoee_TuT: 我擦 自残?!冷静啊，姑娘，人生的不如意，有十之八九，千万不要想不开呀，自残是愚蠢的行为呀，我们身为新时代的领导者，就算遇到困难，也要坚持不懈，攻破他，要知道，自残有风险啊!有什么想不开的吗，可以找我倾诉，自残什么的很可怕的，不要再这样做了，小姑娘，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1993409175486083567",
+        "created_at": "2025-11-25T19:59:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:59:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993409175486083567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929355844837376000",
+              "start": 3,
+              "username": "Zoee_TuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993409175486083567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992882865118593503",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zoee_TuT: 我擦 自残?!冷静啊，姑娘，人生的不如意，有十之八九，千万不要想不开呀，自残是愚蠢的行为呀，我们身为新时代的领导者，就算遇到困难，也要坚持不懈，攻破他，要知道，自残有风险啊!有什么想不开的吗，可以找我倾诉，自残什么的很可怕的，不要再这样做了，小姑娘，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929355844837376000",
+        "conversation_id": "1992882865118593503",
+        "created_at": "2025-11-24T09:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992882865118593503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992882865118593503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4882,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我擦 自残?!冷静啊，姑娘，人生的不如意，有十之八九，千万不要想不开呀，自残是愚蠢的行为呀，我们身为新时代的领导者，就算遇到困难，也要坚持不懈，攻破他，要知道，自残有风险啊!有什么想不开的吗，可以找我倾诉，自残什么的很可怕的，不要再这样做了，小姑娘，我会帮助你的，对了，可以看看腿吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 1050,
+          "like_count": 3207,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T01:54:29.000Z",
+        "description": "我喜欢互动，我喜欢有趣的人，我看到消息尽量都会回，你对我善良我就对你善良，你对我刻薄我也会对你刻薄！我很好相处，我不是门槛妹，5.2🚪只是聊天而已，不接线下，我有对象我很爱她，请不要骚扰我谢谢！",
+        "id": "1929355844837376000",
+        "location": "天台",
+        "name": "活得比愈美片更苦",
+        "pinned_tweet_id": "1992987218600964468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991931428083290112/abwv_KT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 219,
+          "like_count": 222,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 174
+        },
+        "username": "Zoee_TuT",
+        "verified": false
+      }
+    ]
+  }
+}

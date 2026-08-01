@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1971020223223562240"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1971020298008002844",
+    "created_at": "2025-09-25T01:13:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T02:13:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971020298008002844"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 0,
+          "tag": "地雷系さんと繋がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RFkCyJJDTO",
+          "end": 36,
+          "expanded_url": "https://x.com/111q_a54867/status/1971020298008002844/video/1",
+          "media_key": "13_1971020223223562240",
+          "start": 13,
+          "url": "https://t.co/RFkCyJJDTO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971020298008002844",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#地雷系さんと繋がりたい https://t.co/RFkCyJJDTO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1280,
+        "media_key": "13_1971020223223562240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1971020223223562240/img/eee9s9GYqDup9RRw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971020223223562240/vid/avc1/320x568/NnapEXb_pvEIwf5Q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971020223223562240/vid/avc1/480x852/WLMsFqREkYPbA9Iw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1971020223223562240/vid/avc1/720x1280/pk9ONiCES46GoBb5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1971020223223562240/pl/IWRTcjGQUplcTUlh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1971020223223562240"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1971020298008002844",
+        "created_at": "2025-09-25T01:13:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T02:13:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971020298008002844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "地雷系さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFkCyJJDTO",
+              "end": 36,
+              "expanded_url": "https://x.com/111q_a54867/status/1971020298008002844/video/1",
+              "media_key": "13_1971020223223562240",
+              "start": 13,
+              "url": "https://t.co/RFkCyJJDTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971020298008002844",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷系さんと繋がりたい https://t.co/RFkCyJJDTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 428,
+          "like_count": 496,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 40
+        },
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2043278640998478084",
+    "created_at": "2026-04-12T10:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T11:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043278640998478084"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "血图定制"
+        },
+        {
+          "end": 63,
+          "start": 58,
+          "tag": "伤口定制"
+        },
+        {
+          "end": 67,
+          "start": 64,
+          "tag": "线下"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "线上"
+        },
+        {
+          "end": 76,
+          "start": 72,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 82,
+          "start": 77,
+          "tag": "电子女友"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043278640998478084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好缺钱好缺爱我接伤口定制或者是任何图片定制都可以，给我一点活下去的理由，让我怎么样都可以吧我都接受。 #血图定制 #伤口定制 #线下 #线上 #门槛妹 #电子女友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2043278640998478084",
+        "created_at": "2026-04-12T10:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T11:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043278640998478084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 52,
+              "tag": "血图定制"
+            },
+            {
+              "end": 63,
+              "start": 58,
+              "tag": "伤口定制"
+            },
+            {
+              "end": 67,
+              "start": 64,
+              "tag": "线下"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "线上"
+            },
+            {
+              "end": 76,
+              "start": 72,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 82,
+              "start": 77,
+              "tag": "电子女友"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043278640998478084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好缺钱好缺爱我接伤口定制或者是任何图片定制都可以，给我一点活下去的理由，让我怎么样都可以吧我都接受。 #血图定制 #伤口定制 #线下 #线上 #门槛妹 #电子女友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 1237,
+          "like_count": 6313,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 1226
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

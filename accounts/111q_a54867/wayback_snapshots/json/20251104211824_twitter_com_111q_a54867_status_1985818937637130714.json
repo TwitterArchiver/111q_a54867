@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985818929982541824"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1985818937637130714",
+    "created_at": "2025-11-04T21:18:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T22:18:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985818937637130714"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 38,
+          "tag": "地雷女子と繋がりたい"
+        },
+        {
+          "end": 60,
+          "start": 51,
+          "tag": "jiraikei"
+        },
+        {
+          "end": 65,
+          "start": 61,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 73,
+          "start": 66,
+          "tag": "自撮りウルフ"
+        },
+        {
+          "end": 78,
+          "start": 74,
+          "tag": "病み垢"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0fqEq2FwkI",
+          "end": 102,
+          "expanded_url": "https://x.com/111q_a54867/status/1985818937637130714/photo/1",
+          "media_key": "3_1985818929982541824",
+          "start": 79,
+          "url": "https://t.co/0fqEq2FwkI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985818937637130714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然金钱买不到幸福，可是如果金钱以外都能用钱买到的话，那还是多给我点钱吧。 #地雷女子と繋がりたい  #jiraikei #门槛妹 #自撮りウルフ #病み垢 https://t.co/0fqEq2FwkI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1670,
+        "media_key": "3_1985818929982541824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G48Ly6XbEAA0V0z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985818929982541824"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1985818937637130714",
+        "created_at": "2025-11-04T21:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T22:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985818937637130714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 38,
+              "tag": "地雷女子と繋がりたい"
+            },
+            {
+              "end": 60,
+              "start": 51,
+              "tag": "jiraikei"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 73,
+              "start": 66,
+              "tag": "自撮りウルフ"
+            },
+            {
+              "end": 78,
+              "start": 74,
+              "tag": "病み垢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fqEq2FwkI",
+              "end": 102,
+              "expanded_url": "https://x.com/111q_a54867/status/1985818937637130714/photo/1",
+              "media_key": "3_1985818929982541824",
+              "start": 79,
+              "url": "https://t.co/0fqEq2FwkI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985818937637130714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然金钱买不到幸福，可是如果金钱以外都能用钱买到的话，那还是多给我点钱吧。 #地雷女子と繋がりたい  #jiraikei #门槛妹 #自撮りウルフ #病み垢 https://t.co/0fqEq2FwkI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 966,
+          "like_count": 2271,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

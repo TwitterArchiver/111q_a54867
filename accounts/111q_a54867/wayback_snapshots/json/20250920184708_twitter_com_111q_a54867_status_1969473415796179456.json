@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965838304328196096"
+      ],
+      "media_source_tweet_id": [
+        "1965838313505567003"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "1969473415796179456",
+    "created_at": "2025-09-20T18:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T19:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969473415796179456"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "DDLC",
+          "probability": 0.4657,
+          "start": 34,
+          "type": "Organization"
+        },
+        {
+          "end": 61,
+          "normalized_text": "DokiDokiLiteratureClub",
+          "probability": 0.9038,
+          "start": 40,
+          "type": "Other"
+        },
+        {
+          "end": 69,
+          "normalized_text": "Sayori",
+          "probability": 0.5039,
+          "start": 64,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 33,
+          "tag": "DDLC"
+        },
+        {
+          "end": 62,
+          "start": 39,
+          "tag": "DokiDokiLiteratureClub"
+        },
+        {
+          "end": 70,
+          "start": 63,
+          "tag": "Sayori"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1413871014757519364",
+          "start": 3,
+          "username": "Tuiffff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z1YwQLOEF7",
+          "end": 94,
+          "expanded_url": "https://x.com/Tuiffff/status/1965838313505567003/photo/1",
+          "media_key": "3_1965838304328196096",
+          "start": 71,
+          "url": "https://t.co/z1YwQLOEF7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969473415796179456",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3356
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965838313505567003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tuiffff: Have a good day ;)\n\n#DDLC #DokiDokiLiteratureClub #Sayori https://t.co/z1YwQLOEF7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965838304328196096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0gPhbdWoAAb4AC.jpg",
+        "width": 1753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965838304328196096"
+          ],
+          "media_source_tweet_id": [
+            "1965838313505567003"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "1969473415796179456",
+        "created_at": "2025-09-20T18:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T19:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969473415796179456"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "DDLC",
+              "probability": 0.4657,
+              "start": 34,
+              "type": "Organization"
+            },
+            {
+              "end": 61,
+              "normalized_text": "DokiDokiLiteratureClub",
+              "probability": 0.9038,
+              "start": 40,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "Sayori",
+              "probability": 0.5039,
+              "start": 64,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "DDLC"
+            },
+            {
+              "end": 62,
+              "start": 39,
+              "tag": "DokiDokiLiteratureClub"
+            },
+            {
+              "end": 70,
+              "start": 63,
+              "tag": "Sayori"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1413871014757519364",
+              "start": 3,
+              "username": "Tuiffff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1YwQLOEF7",
+              "end": 94,
+              "expanded_url": "https://x.com/Tuiffff/status/1965838313505567003/photo/1",
+              "media_key": "3_1965838304328196096",
+              "start": 71,
+              "url": "https://t.co/z1YwQLOEF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969473415796179456",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3356
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965838313505567003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tuiffff: Have a good day ;)\n\n#DDLC #DokiDokiLiteratureClub #Sayori https://t.co/z1YwQLOEF7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965838304328196096"
+          ]
+        },
+        "author_id": "1413871014757519364",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "1965838313505567003",
+        "created_at": "2025-09-10T18:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T19:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965838313505567003"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "DDLC",
+              "probability": 0.5533,
+              "start": 21,
+              "type": "Organization"
+            },
+            {
+              "end": 48,
+              "normalized_text": "DokiDokiLiteratureClub",
+              "probability": 0.8566,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "Sayori",
+              "probability": 0.3938,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "DDLC"
+            },
+            {
+              "end": 49,
+              "start": 26,
+              "tag": "DokiDokiLiteratureClub"
+            },
+            {
+              "end": 57,
+              "start": 50,
+              "tag": "Sayori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1YwQLOEF7",
+              "end": 81,
+              "expanded_url": "https://x.com/Tuiffff/status/1965838313505567003/photo/1",
+              "media_key": "3_1965838304328196096",
+              "start": 58,
+              "url": "https://t.co/z1YwQLOEF7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965838313505567003",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3700,
+          "impression_count": 285896,
+          "like_count": 44046,
+          "quote_count": 24,
+          "reply_count": 32,
+          "retweet_count": 3356
+        },
+        "reply_settings": "everyone",
+        "text": "Have a good day ;)\n\n#DDLC #DokiDokiLiteratureClub #Sayori https://t.co/z1YwQLOEF7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，孩子瞎发玩的",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969121154893037568/gGp6K-B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 302,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-10T14:41:47.000Z",
+        "description": "•comms closed, open next week• (open 2/3)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/Tuif",
+                "end": 23,
+                "expanded_url": "https://vgen.co/Tuif",
+                "start": 0,
+                "url": "https://t.co/bKeM1GbWeJ"
+              }
+            ]
+          }
+        },
+        "id": "1413871014757519364",
+        "name": "Tuif (comm open 2/3)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822678171235262464/HqcsaU0S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12582,
+          "following_count": 0,
+          "like_count": 3669,
+          "listed_count": 40,
+          "media_count": 249,
+          "tweet_count": 569
+        },
+        "url": "https://t.co/bKeM1GbWeJ",
+        "username": "Tuiffff",
+        "verified": false
+      }
+    ]
+  }
+}

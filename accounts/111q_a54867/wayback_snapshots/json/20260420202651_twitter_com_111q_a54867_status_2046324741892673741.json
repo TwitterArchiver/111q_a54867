@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2046188167292911738",
+    "created_at": "2026-04-20T20:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T21:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046324741892673741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2003149753148932096",
+          "start": 0,
+          "username": "Ruruko_oo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046324741892673741",
+    "in_reply_to_user_id": "2003149753148932096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046260592273715603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruruko_oo 晶哥不要啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2046188167292911738",
+        "created_at": "2026-04-20T20:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T21:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046324741892673741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2003149753148932096",
+              "start": 0,
+              "username": "Ruruko_oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046324741892673741",
+        "in_reply_to_user_id": "2003149753148932096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046260592273715603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruruko_oo 晶哥不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003149753148932096",
+        "conversation_id": "2046188167292911738",
+        "created_at": "2026-04-20T16:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046260592273715603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046260592273715603",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046188167292911738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 感觉像京哥钓鱼执法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 1269,
+          "like_count": 6735,
+          "listed_count": 2,
+          "media_count": 255,
+          "tweet_count": 1308
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T17:05:42.000Z",
+        "description": "安静的私密账号 gekki 08 不线下不非绿 前世：@gekkifxxkearth｜od｜｜リスカ｜｜DN🖊️🌙｜这里是我能说说话的地方。举报我的替我挡灾女孩子可以找我互fo互转 在线晚上八点到十二点",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "gekkifxxkearth"
+              }
+            ]
+          }
+        },
+        "id": "2003149753148932096",
+        "location": "東京 渋谷区",
+        "name": "粉色控",
+        "pinned_tweet_id": "2045806061559660793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020464750690484224/GCO95WZq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 218,
+          "like_count": 2391,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 1187
+        },
+        "username": "Ruruko_oo",
+        "verified": false
+      }
+    ]
+  }
+}

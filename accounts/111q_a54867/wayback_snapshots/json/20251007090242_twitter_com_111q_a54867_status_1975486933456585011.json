@@ -1,0 +1,560 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974780486967824384"
+      ],
+      "media_source_tweet_id": [
+        "1974780490344505513"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404909205924966400",
+          "name": "Doki Doki Literature Club"
+        }
+      }
+    ],
+    "conversation_id": "1975486933456585011",
+    "created_at": "2025-10-07T09:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T10:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975486933456585011"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "Sayori",
+          "probability": 0.4618,
+          "start": 24,
+          "type": "Other"
+        },
+        {
+          "end": 82,
+          "normalized_text": "DDLC",
+          "probability": 0.5156,
+          "start": 79,
+          "type": "Other"
+        },
+        {
+          "end": 106,
+          "normalized_text": "DokiDokiLiteratureClub",
+          "probability": 0.8534,
+          "start": 85,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "DDLC"
+        },
+        {
+          "end": 107,
+          "start": 84,
+          "tag": "DokiDokiLiteratureClub"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545721350031134720",
+          "start": 3,
+          "username": "LynxBelsten"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FmXMAhqYsP",
+          "end": 131,
+          "expanded_url": "https://x.com/LynxBelsten/status/1974780490344505513/photo/1",
+          "media_key": "3_1974780486967824384",
+          "start": 108,
+          "url": "https://t.co/FmXMAhqYsP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975486933456585011",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 182
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974780490344505513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LynxBelsten: Esc. A Sayori variant idea I've had in my head for a while. \n#DDLC #DokiDokiLiteratureClub https://t.co/FmXMAhqYsP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_1974780486967824384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2fUY9sXEAAWpaD.jpg",
+        "width": 886
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974780486967824384"
+          ],
+          "media_source_tweet_id": [
+            "1974780490344505513"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "1975486933456585011",
+        "created_at": "2025-10-07T09:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T10:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975486933456585011"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "Sayori",
+              "probability": 0.4618,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "DDLC",
+              "probability": 0.5156,
+              "start": 79,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "DokiDokiLiteratureClub",
+              "probability": 0.8534,
+              "start": 85,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "DDLC"
+            },
+            {
+              "end": 107,
+              "start": 84,
+              "tag": "DokiDokiLiteratureClub"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545721350031134720",
+              "start": 3,
+              "username": "LynxBelsten"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmXMAhqYsP",
+              "end": 131,
+              "expanded_url": "https://x.com/LynxBelsten/status/1974780490344505513/photo/1",
+              "media_key": "3_1974780486967824384",
+              "start": 108,
+              "url": "https://t.co/FmXMAhqYsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975486933456585011",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 182
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974780490344505513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LynxBelsten: Esc. A Sayori variant idea I've had in my head for a while. \n#DDLC #DokiDokiLiteratureClub https://t.co/FmXMAhqYsP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974780486967824384"
+          ]
+        },
+        "author_id": "1545721350031134720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          }
+        ],
+        "conversation_id": "1974780490344505513",
+        "created_at": "2025-10-05T10:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T11:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974780490344505513"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Sayori",
+              "probability": 0.3286,
+              "start": 7,
+              "type": "Other"
+            },
+            {
+              "end": 65,
+              "normalized_text": "DDLC",
+              "probability": 0.453,
+              "start": 62,
+              "type": "Other"
+            },
+            {
+              "end": 89,
+              "normalized_text": "DokiDokiLiteratureClub",
+              "probability": 0.8813,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "DDLC"
+            },
+            {
+              "end": 90,
+              "start": 67,
+              "tag": "DokiDokiLiteratureClub"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FmXMAhqYsP",
+              "end": 114,
+              "expanded_url": "https://x.com/LynxBelsten/status/1974780490344505513/photo/1",
+              "media_key": "3_1974780486967824384",
+              "start": 91,
+              "url": "https://t.co/FmXMAhqYsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974780490344505513",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 434,
+          "impression_count": 16700,
+          "like_count": 1823,
+          "quote_count": 8,
+          "reply_count": 15,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "Esc. A Sayori variant idea I've had in my head for a while. \n#DDLC #DokiDokiLiteratureClub https://t.co/FmXMAhqYsP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 693,
+          "like_count": 1111,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 128
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T10:48:08.000Z",
+        "description": "#RedDeservesBetter\nHey! I'm Lynx! ( I'm a guy btw )\nI make art, music, and a member of GenesisStudios!\n\nYouTube: Lynx Music\nReddit: u/LynxBelsten",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 0,
+                "tag": "RedDeservesBetter"
+              }
+            ]
+          }
+        },
+        "id": "1545721350031134720",
+        "location": "Reality 783",
+        "name": "𝙇𝙮𝙣𝙭⚠️",
+        "pinned_tweet_id": "1973875346023071953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962568822818316288/YsuxGziJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2411,
+          "following_count": 644,
+          "like_count": 13685,
+          "listed_count": 8,
+          "media_count": 1820,
+          "tweet_count": 8865
+        },
+        "username": "LynxBelsten",
+        "verified": false
+      }
+    ]
+  }
+}

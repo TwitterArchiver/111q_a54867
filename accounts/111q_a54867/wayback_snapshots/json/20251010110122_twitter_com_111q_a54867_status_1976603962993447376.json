@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976373672748134400",
+        "3_1976373674996375553"
+      ],
+      "media_source_tweet_id": [
+        "1976373678171623839",
+        "1976373678171623839"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1976603962993447376",
+    "created_at": "2025-10-10T11:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T12:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976603962993447376"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 12,
+          "tag": "alicemadnessreturns"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1450144202956869635",
+          "start": 3,
+          "username": "gw4ll1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5f9PuNiISl",
+          "end": 56,
+          "expanded_url": "https://x.com/gw4ll1/status/1976373678171623839/photo/1",
+          "media_key": "3_1976373672748134400",
+          "start": 33,
+          "url": "https://t.co/5f9PuNiISl"
+        },
+        {
+          "display_url": "pic.x.com/5f9PuNiISl",
+          "end": 56,
+          "expanded_url": "https://x.com/gw4ll1/status/1976373678171623839/photo/1",
+          "media_key": "3_1976373674996375553",
+          "start": 33,
+          "url": "https://t.co/5f9PuNiISl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976603962993447376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3003
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976373678171623839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gw4ll1: #alicemadnessreturns https://t.co/5f9PuNiISl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1976373672748134400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G219YlOWMAAGzY-.jpg",
+        "width": 826
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1976373674996375553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G219YtmXoAEO4cH.jpg",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976373672748134400",
+            "3_1976373674996375553"
+          ],
+          "media_source_tweet_id": [
+            "1976373678171623839",
+            "1976373678171623839"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1976603962993447376",
+        "created_at": "2025-10-10T11:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T12:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976603962993447376"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 12,
+              "tag": "alicemadnessreturns"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1450144202956869635",
+              "start": 3,
+              "username": "gw4ll1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5f9PuNiISl",
+              "end": 56,
+              "expanded_url": "https://x.com/gw4ll1/status/1976373678171623839/photo/1",
+              "media_key": "3_1976373672748134400",
+              "start": 33,
+              "url": "https://t.co/5f9PuNiISl"
+            },
+            {
+              "display_url": "pic.x.com/5f9PuNiISl",
+              "end": 56,
+              "expanded_url": "https://x.com/gw4ll1/status/1976373678171623839/photo/1",
+              "media_key": "3_1976373674996375553",
+              "start": 33,
+              "url": "https://t.co/5f9PuNiISl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976603962993447376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3003
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976373678171623839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gw4ll1: #alicemadnessreturns https://t.co/5f9PuNiISl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976373672748134400",
+            "3_1976373674996375553"
+          ]
+        },
+        "author_id": "1450144202956869635",
+        "conversation_id": "1976373678171623839",
+        "created_at": "2025-10-09T19:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T20:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976373678171623839"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 0,
+              "tag": "alicemadnessreturns"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5f9PuNiISl",
+              "end": 44,
+              "expanded_url": "https://x.com/gw4ll1/status/1976373678171623839/photo/1",
+              "media_key": "3_1976373672748134400",
+              "start": 21,
+              "url": "https://t.co/5f9PuNiISl"
+            },
+            {
+              "display_url": "pic.x.com/5f9PuNiISl",
+              "end": 44,
+              "expanded_url": "https://x.com/gw4ll1/status/1976373678171623839/photo/1",
+              "media_key": "3_1976373674996375553",
+              "start": 21,
+              "url": "https://t.co/5f9PuNiISl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976373678171623839",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4625,
+          "impression_count": 195380,
+          "like_count": 25824,
+          "quote_count": 122,
+          "reply_count": 67,
+          "retweet_count": 3003
+        },
+        "reply_settings": "everyone",
+        "text": "#alicemadnessreturns https://t.co/5f9PuNiISl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 715,
+          "like_count": 1167,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 149
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T16:58:27.000Z",
+        "description": "vk https://t.co/u35b8aAQpO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vk.com/apoliteia",
+                "end": 26,
+                "expanded_url": "https://vk.com/apoliteia",
+                "start": 3,
+                "url": "https://t.co/u35b8aAQpO"
+              }
+            ]
+          }
+        },
+        "id": "1450144202956869635",
+        "name": "æpoliteia",
+        "pinned_tweet_id": "1907856556445610288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757554888177750017/4-t1_OeI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6781,
+          "following_count": 86,
+          "like_count": 480,
+          "listed_count": 19,
+          "media_count": 400,
+          "tweet_count": 928
+        },
+        "username": "gw4ll1",
+        "verified": false
+      }
+    ]
+  }
+}

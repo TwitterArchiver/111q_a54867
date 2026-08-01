@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2053439119175618611",
+    "created_at": "2026-05-12T19:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T20:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054281077213298800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1360993383683006465",
+          "start": 0,
+          "username": "hikari285"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054281077213298800",
+    "in_reply_to_user_id": "1360993383683006465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053450435890196932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikari285 嘻嘻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2053439119175618611",
+        "created_at": "2026-05-12T19:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T20:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054281077213298800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1360993383683006465",
+              "start": 0,
+              "username": "hikari285"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054281077213298800",
+        "in_reply_to_user_id": "1360993383683006465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053450435890196932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikari285 嘻嘻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360993383683006465",
+        "conversation_id": "2053439119175618611",
+        "created_at": "2026-05-10T12:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053450435890196932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053450435890196932",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053439119175618611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 一直觉得签签是医疗系的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "你从未感受过你粉碎我灵魂时我的痛楚。\n希望你也能经历你给我的心碎。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2062,
+          "following_count": 1291,
+          "like_count": 7082,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-14T16:44:52.000Z",
+        "description": "药学工作/兴趣广泛/S/小⭕️微大\nod/喜欢地雷系和有疤痕的绝对领域",
+        "id": "1360993383683006465",
+        "name": "Hikaru285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950432803302043649/qJ03GZum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 2554,
+          "like_count": 465,
+          "listed_count": 5,
+          "media_count": 20,
+          "tweet_count": 223
+        },
+        "username": "hikari285",
+        "verified": false
+      }
+    ]
+  }
+}

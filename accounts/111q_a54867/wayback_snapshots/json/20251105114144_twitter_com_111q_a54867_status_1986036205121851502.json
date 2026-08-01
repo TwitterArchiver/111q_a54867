@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1986036205121851502",
+    "created_at": "2025-11-05T11:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T12:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986036205121851502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yanaa2222/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yanaa2222/status/1986032010562064446",
+          "start": 6,
+          "url": "https://t.co/7W1SI5phl1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986036205121851502",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986032010562064446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "相思病犯了 https://t.co/7W1SI5phl1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986031961497128960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4_Ni-mb0AA5EdB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1986036205121851502",
+        "created_at": "2025-11-05T11:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986036205121851502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanaa2222/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yanaa2222/status/1986032010562064446",
+              "start": 6,
+              "url": "https://t.co/7W1SI5phl1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986036205121851502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986032010562064446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "相思病犯了 https://t.co/7W1SI5phl1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986031961497128960"
+          ]
+        },
+        "author_id": "1899700532106928129",
+        "conversation_id": "1986032010562064446",
+        "created_at": "2025-11-05T11:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T12:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986032010562064446"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "派手髪"
+            },
+            {
+              "end": 36,
+              "start": 24,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 41,
+              "start": 37,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1967887882384965632",
+              "start": 5,
+              "username": "111q_a54867"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnybsgbiEq",
+              "end": 65,
+              "expanded_url": "https://x.com/yanaa2222/status/1986032010562064446/photo/1",
+              "media_key": "3_1986031961497128960",
+              "start": 42,
+              "url": "https://t.co/bnybsgbiEq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986032010562064446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世纪会面 @111q_a54867 \n#派手髪 #地雷系さんと繋がりたい #门槛妹 https://t.co/bnybsgbiEq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 978,
+          "like_count": 2316,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-12T05:54:48.000Z",
+        "description": "🖤｜病み垢｜請給我一點錢吧｜直fo會回 我們成為好朋友吧！💕",
+        "id": "1899700532106928129",
+        "location": "🚪88/更多詳情請私訊我/坐标10验证20",
+        "name": "Lillian",
+        "pinned_tweet_id": "1984592281861795989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984606781998579716/3vID8xEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 133,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 343
+        },
+        "username": "yanaa2222",
+        "verified": false
+      }
+    ]
+  }
+}

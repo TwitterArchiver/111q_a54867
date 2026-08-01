@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984973546427502592"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1984973554002313543",
+    "created_at": "2025-11-02T13:19:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T14:19:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984973554002313543"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 7,
+          "start": 1,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 13,
+          "start": 9,
+          "tag": "病み垢"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I982qGLQlM",
+          "end": 37,
+          "expanded_url": "https://x.com/111q_a54867/status/1984973554002313543/photo/1",
+          "media_key": "3_1984973546427502592",
+          "start": 14,
+          "url": "https://t.co/I982qGLQlM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984973554002313543",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🩶#自撮り界隈  #病み垢 https://t.co/I982qGLQlM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984973546427502592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4wK7HNb0AAjN2w.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984973546427502592"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1984973554002313543",
+        "created_at": "2025-11-02T13:19:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T14:19:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984973554002313543"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 1,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "病み垢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I982qGLQlM",
+              "end": 37,
+              "expanded_url": "https://x.com/111q_a54867/status/1984973554002313543/photo/1",
+              "media_key": "3_1984973546427502592",
+              "start": 14,
+              "url": "https://t.co/I982qGLQlM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984973554002313543",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🩶#自撮り界隈  #病み垢 https://t.co/I982qGLQlM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 957,
+          "like_count": 2104,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

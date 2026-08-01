@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Wine",
+          "id": "841378993408425985",
+          "name": "Wine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Wine",
+          "id": "841378993408425985",
+          "name": "Wine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Wine",
+          "id": "841378993408425985",
+          "name": "Wine"
+        }
+      }
+    ],
+    "conversation_id": "1973049036081885558",
+    "created_at": "2025-09-30T15:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T16:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973049036081885558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "485122243",
+          "start": 3,
+          "username": "arekim1973"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973049036081885558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972821229905346624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arekim1973: いよいよ明日１０月１日から！\n\n棺桶ブランドGRAVETOKYOでは棺桶型のウォレット、\n棺桶型のボックス（ワインボトルが１本入るサイズ）、\n\nそして人間用（当たり前？）の棺桶を発売いたします。\n\n他のブランドさんの商品も超絶素晴らしそうなので…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1972820859464372224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DeHoXa0AACTjf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1972820890238009344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DeJbAbQAASqCV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1972820904985161728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DeKR8a8AANTur.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1972820916787937280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DeK96bAAAsU8P.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          }
+        ],
+        "conversation_id": "1973049036081885558",
+        "created_at": "2025-09-30T15:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T16:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973049036081885558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "485122243",
+              "start": 3,
+              "username": "arekim1973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973049036081885558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972821229905346624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arekim1973: いよいよ明日１０月１日から！\n\n棺桶ブランドGRAVETOKYOでは棺桶型のウォレット、\n棺桶型のボックス（ワインボトルが１本入るサイズ）、\n\nそして人間用（当たり前？）の棺桶を発売いたします。\n\n他のブランドさんの商品も超絶素晴らしそうなので…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972820859464372224",
+            "3_1972820890238009344",
+            "3_1972820904985161728",
+            "3_1972820916787937280"
+          ]
+        },
+        "author_id": "485122243",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Wine",
+              "id": "841378993408425985",
+              "name": "Wine"
+            }
+          }
+        ],
+        "conversation_id": "1972821229905346624",
+        "created_at": "2025-09-30T00:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972821229905346624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/48FW02da6b",
+              "end": 170,
+              "expanded_url": "https://x.com/arekim1973/status/1972821229905346624/photo/1",
+              "media_key": "3_1972820859464372224",
+              "start": 147,
+              "url": "https://t.co/48FW02da6b"
+            },
+            {
+              "display_url": "pic.x.com/48FW02da6b",
+              "end": 170,
+              "expanded_url": "https://x.com/arekim1973/status/1972821229905346624/photo/1",
+              "media_key": "3_1972820890238009344",
+              "start": 147,
+              "url": "https://t.co/48FW02da6b"
+            },
+            {
+              "display_url": "pic.x.com/48FW02da6b",
+              "end": 170,
+              "expanded_url": "https://x.com/arekim1973/status/1972821229905346624/photo/1",
+              "media_key": "3_1972820904985161728",
+              "start": 147,
+              "url": "https://t.co/48FW02da6b"
+            },
+            {
+              "display_url": "pic.x.com/48FW02da6b",
+              "end": 170,
+              "expanded_url": "https://x.com/arekim1973/status/1972821229905346624/photo/1",
+              "media_key": "3_1972820916787937280",
+              "start": 147,
+              "url": "https://t.co/48FW02da6b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972821229905346624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7155,
+          "like_count": 59,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "いよいよ明日１０月１日から！\n\n棺桶ブランドGRAVETOKYOでは棺桶型のウォレット、\n棺桶型のボックス（ワインボトルが１本入るサイズ）、\n\nそして人間用（当たり前？）の棺桶を発売いたします。\n\n他のブランドさんの商品も超絶素晴らしそうなので\nこれは絶対初日の伊勢丹新宿店６Ｆに来るしかない https://t.co/48FW02da6b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是伊藤签",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 557,
+          "like_count": 784,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 83
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-06T21:17:29.000Z",
+        "description": "葬儀ブランドGRAVETOKYOデザイナー。「人生の最期にこそ夢と希望と喜びを」をコンセプトに、故人の人生を表現する棺をオーダーメイドで作ってます。希死念慮を解消・昇華するための入棺体験WSも開催中。今すぐこの世から消えたいという人に、まずは引き戻せる死の体験をしてみてほしいです。WSは終活スナックめめんともりにて。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikera-grave.tokyo",
+                "end": 23,
+                "expanded_url": "https://mikera-grave.tokyo/",
+                "start": 0,
+                "url": "https://t.co/oWiTEF7RgE"
+              }
+            ]
+          }
+        },
+        "id": "485122243",
+        "location": "TOKYO JAPAN",
+        "name": "棺桶ブランドGRAVETOKYO🄬10/1-10/14 伊勢丹新宿店で伊藤潤二先生コラボ棺発売！",
+        "pinned_tweet_id": "1958390819653910830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791395701123162112/TOPF6H5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 3572,
+          "like_count": 41689,
+          "listed_count": 17,
+          "media_count": 602,
+          "tweet_count": 9857
+        },
+        "url": "https://t.co/oWiTEF7RgE",
+        "username": "arekim1973",
+        "verified": false
+      }
+    ]
+  }
+}

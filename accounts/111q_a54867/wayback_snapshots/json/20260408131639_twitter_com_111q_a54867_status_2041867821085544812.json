@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2041667739446865984",
+    "created_at": "2026-04-08T13:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041867821085544812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1696300267187339264",
+          "start": 0,
+          "username": "yuyng1910316"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041867821085544812",
+    "in_reply_to_user_id": "1696300267187339264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041865869480095954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyng1910316 前期会的。这个药还是要长期吃，后面稳定神经递质"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2041667739446865984",
+        "created_at": "2026-04-08T13:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041867821085544812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1696300267187339264",
+              "start": 0,
+              "username": "yuyng1910316"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041867821085544812",
+        "in_reply_to_user_id": "1696300267187339264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041865869480095954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyng1910316 前期会的。这个药还是要长期吃，后面稳定神经递质"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696300267187339264",
+        "conversation_id": "2041667739446865984",
+        "created_at": "2026-04-08T13:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041865869480095954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041865869480095954",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041667739446865984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 舍曲林吃完会变人机吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 1229,
+          "like_count": 6223,
+          "listed_count": 1,
+          "media_count": 243,
+          "tweet_count": 1187
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T23:14:46.000Z",
+        "description": "",
+        "id": "1696300267187339264",
+        "name": "影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696300321700802560/7_9egG7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "username": "yuyng1910316",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1976570488408478123",
+    "created_at": "2025-10-10T18:32:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T19:32:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976717430887268517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1738580629019901952",
+          "start": 0,
+          "username": "bian_fu61115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976717430887268517",
+    "in_reply_to_user_id": "1738580629019901952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976570488408478123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bian_fu61115 宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976570460713463808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G24wXJhbMAAeir5.jpg",
+        "width": 1534
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976570475317985280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G24wX_7agAANVbn.jpg",
+        "width": 1537
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1976570488408478123",
+        "created_at": "2025-10-10T18:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T19:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976717430887268517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1738580629019901952",
+              "start": 0,
+              "username": "bian_fu61115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976717430887268517",
+        "in_reply_to_user_id": "1738580629019901952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976570488408478123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bian_fu61115 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976570460713463808",
+            "3_1976570475317985280"
+          ]
+        },
+        "author_id": "1738580629019901952",
+        "conversation_id": "1976570488408478123",
+        "created_at": "2025-10-10T08:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T09:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976570488408478123"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 15,
+              "tag": "赵颖"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "纸房子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HX5zQ6zAZH",
+              "end": 47,
+              "expanded_url": "https://x.com/bian_fu61115/status/1976570488408478123/photo/1",
+              "media_key": "3_1976570460713463808",
+              "start": 24,
+              "url": "https://t.co/HX5zQ6zAZH"
+            },
+            {
+              "display_url": "pic.x.com/HX5zQ6zAZH",
+              "end": 47,
+              "expanded_url": "https://x.com/bian_fu61115/status/1976570488408478123/photo/1",
+              "media_key": "3_1976570475317985280",
+              "start": 24,
+              "url": "https://t.co/HX5zQ6zAZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976570488408478123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6229,
+          "like_count": 156,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "妈妈给我生命现在让我自生自灰 #赵颖 #纸房子 https://t.co/HX5zQ6zAZH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 744,
+          "like_count": 1195,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 163
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T15:21:46.000Z",
+        "description": "人畜无害",
+        "id": "1738580629019901952",
+        "location": "🚪188",
+        "name": "qf",
+        "pinned_tweet_id": "1926867621225394623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807409751355244544/ffAqU2tf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 117,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 514
+        },
+        "username": "bian_fu61115",
+        "verified": false
+      }
+    ]
+  }
+}

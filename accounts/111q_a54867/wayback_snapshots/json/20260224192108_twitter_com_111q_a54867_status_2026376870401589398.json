@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2025607032284574114",
+    "created_at": "2026-02-24T19:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T20:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026376870401589398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "69280655",
+          "start": 0,
+          "username": "paipaipaitang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026376870401589398",
+    "in_reply_to_user_id": "69280655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026014227807281416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paipaipaitang 去年找她买泰版右美被骗了，然后她去了一趟局子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2025607032284574114",
+        "created_at": "2026-02-24T19:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T20:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026376870401589398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "69280655",
+              "start": 0,
+              "username": "paipaipaitang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026376870401589398",
+        "in_reply_to_user_id": "69280655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026014227807281416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paipaipaitang 去年找她买泰版右美被骗了，然后她去了一趟局子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "69280655",
+        "conversation_id": "2025607032284574114",
+        "created_at": "2026-02-23T19:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T20:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026014227807281416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026014227807281416",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025607032284574114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 👂？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "od日记",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 1167,
+          "like_count": 5470,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 853
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-27T12:47:46.000Z",
+        "description": "三年超长寿命促智店｜税全票齐正规合法产品｜有合法便宜的利他林 专注达平替｜城招ISRIB供应商｜🌵🍄🪾抗抑郁产品供应中｜超一线促智物质研究中…｜tg：paitangcuzhi3｜本店遵守中华人民共和国法律",
+        "id": "69280655",
+        "location": "49addict@proton.me",
+        "name": "☯️🧬ATLAS 無極",
+        "pinned_tweet_id": "2024527872715813152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016934483623395328/-DAVEPMX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 82,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 401
+        },
+        "username": "paipaipaitang",
+        "verified": true
+      }
+    ]
+  }
+}

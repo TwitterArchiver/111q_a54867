@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1974334849420025911",
+    "created_at": "2025-10-04T04:44:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T05:44:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974334849420025911"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1974334849420025911",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🥺🥺\n🥺🥺🥺\n  🥺🥺🥺\n    🥺🥺🥺\n     🥺🥺🥺\n       🥺🥺🥺\n        🥺🥺🥺\n         🥺🥺🥺\n          🥺🥺🥺\n          🥺🥺🥺\n      🥺🥺🥺🥺\n 🥺🥺🥺🥺🥺🥺\n 🥺🥺🥺  🥺🥺🥺\n    🥺🥺       🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1974334849420025911",
+        "created_at": "2025-10-04T04:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T05:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974334849420025911"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974334849420025911",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🥺🥺\n🥺🥺🥺\n  🥺🥺🥺\n    🥺🥺🥺\n     🥺🥺🥺\n       🥺🥺🥺\n        🥺🥺🥺\n         🥺🥺🥺\n          🥺🥺🥺\n          🥺🥺🥺\n      🥺🥺🥺🥺\n 🥺🥺🥺🥺🥺🥺\n 🥺🥺🥺  🥺🥺🥺\n    🥺🥺       🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 610,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 101
+        },
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

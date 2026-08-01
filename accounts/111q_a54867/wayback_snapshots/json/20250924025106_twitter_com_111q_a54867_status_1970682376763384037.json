@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970682369113026560"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1970682376763384037",
+    "created_at": "2025-09-24T02:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T03:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970682376763384037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J24pTwXjMl",
+          "end": 32,
+          "expanded_url": "https://x.com/111q_a54867/status/1970682376763384037/photo/1",
+          "media_key": "3_1970682369113026560",
+          "start": 9,
+          "url": "https://t.co/J24pTwXjMl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970682376763384037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😮‍💨去调药了。 https://t.co/J24pTwXjMl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970682369113026560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1lFLHAbcAAtZpO.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970682369113026560"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1970682376763384037",
+        "created_at": "2025-09-24T02:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T03:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970682376763384037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J24pTwXjMl",
+              "end": 32,
+              "expanded_url": "https://x.com/111q_a54867/status/1970682376763384037/photo/1",
+              "media_key": "3_1970682369113026560",
+              "start": 9,
+              "url": "https://t.co/J24pTwXjMl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970682376763384037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😮‍💨去调药了。 https://t.co/J24pTwXjMl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 410,
+          "like_count": 473,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 35
+        },
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

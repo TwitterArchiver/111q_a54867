@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973909320648577024"
+      ],
+      "media_source_tweet_id": [
+        "1973909323349963171"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1974167325676114229",
+    "created_at": "2025-10-03T17:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T18:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974167325676114229"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "aceattober25",
+          "probability": 0.8697,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 23,
+          "tag": "aceattober25"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1609408621258964994",
+          "start": 3,
+          "username": "acehalah"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dEdffANvou",
+          "end": 71,
+          "expanded_url": "https://x.com/acehalah/status/1973909323349963171/photo/1",
+          "media_key": "3_1973909320648577024",
+          "start": 48,
+          "url": "https://t.co/dEdffANvou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974167325676114229",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973909323349963171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acehalah: day 2 of #aceattober25 objection! https://t.co/dEdffANvou"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1973909320648577024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2S8EaQXUAAGV7_.jpg",
+        "width": 595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973909320648577024"
+          ],
+          "media_source_tweet_id": [
+            "1973909323349963171"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1974167325676114229",
+        "created_at": "2025-10-03T17:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T18:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974167325676114229"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "aceattober25",
+              "probability": 0.8697,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 23,
+              "tag": "aceattober25"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1609408621258964994",
+              "start": 3,
+              "username": "acehalah"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dEdffANvou",
+              "end": 71,
+              "expanded_url": "https://x.com/acehalah/status/1973909323349963171/photo/1",
+              "media_key": "3_1973909320648577024",
+              "start": 48,
+              "url": "https://t.co/dEdffANvou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974167325676114229",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973909323349963171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acehalah: day 2 of #aceattober25 objection! https://t.co/dEdffANvou"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973909320648577024"
+          ]
+        },
+        "author_id": "1609408621258964994",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1973909323349963171",
+        "created_at": "2025-10-03T00:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T01:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973909323349963171"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "aceattober25",
+              "probability": 0.9393,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 9,
+              "tag": "aceattober25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dEdffANvou",
+              "end": 57,
+              "expanded_url": "https://x.com/acehalah/status/1973909323349963171/photo/1",
+              "media_key": "3_1973909320648577024",
+              "start": 34,
+              "url": "https://t.co/dEdffANvou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973909323349963171",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 12858,
+          "like_count": 1747,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "day 2 of #aceattober25 objection! https://t.co/dEdffANvou"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 604,
+          "like_count": 907,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 99
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T04:38:21.000Z",
+        "description": "i love miles edgeworth // art major 🎨 legal studies minor ⚖️// multifandom // goro akechi … // narumitsu and shuake ♥️💙",
+        "id": "1609408621258964994",
+        "location": "she/her (18)🇵🇰/🇺🇸🤠",
+        "name": "halah ♟️",
+        "pinned_tweet_id": "1969637795250782553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969636517422211072/se9thrsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 132,
+          "like_count": 7977,
+          "listed_count": 4,
+          "media_count": 93,
+          "tweet_count": 178
+        },
+        "username": "acehalah",
+        "verified": false
+      }
+    ]
+  }
+}

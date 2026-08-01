@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1993471141827297669",
+    "created_at": "2025-11-26T00:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T01:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993480572271050803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1774638060963008512",
+          "start": 0,
+          "username": "LST12123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993480572271050803",
+    "in_reply_to_user_id": "1774638060963008512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993477340295577702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LST12123 是的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1993471141827297669",
+        "created_at": "2025-11-26T00:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T01:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993480572271050803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1774638060963008512",
+              "start": 0,
+              "username": "LST12123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993480572271050803",
+        "in_reply_to_user_id": "1774638060963008512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993477340295577702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LST12123 是的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774638060963008512",
+        "conversation_id": "1993471141827297669",
+        "created_at": "2025-11-26T00:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T01:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993477340295577702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993477340295577702",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993471141827297669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 小揪揪煮化了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 1049,
+          "like_count": 3224,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T03:21:16.000Z",
+        "description": "傻卵二次元：粥批|音游人|邦邦人|英雄联盟|三角洲|FGO     碎碎念区主播🌈有好型|国际立场中立🥺|🇯🇵学习中\n  @0xo_snow 快去关注这个入\n匿名提问箱：\nhttps://t.co/5HFRKzLgCv\n自用蜂鸟vpn：https://t.co/nGLI6QmTUX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "0xo_snow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/LST12123",
+                "end": 109,
+                "expanded_url": "https://miyu.link/LST12123",
+                "start": 86,
+                "url": "https://t.co/5HFRKzLgCv"
+              },
+              {
+                "display_url": "sachlife.com/#/",
+                "end": 141,
+                "expanded_url": "https://www.sachlife.com/#/",
+                "start": 118,
+                "url": "https://t.co/nGLI6QmTUX"
+              }
+            ]
+          }
+        },
+        "id": "1774638060963008512",
+        "location": "距离你520m",
+        "name": "困困神",
+        "pinned_tweet_id": "1992814623301718166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978672734499704832/6yWQMv9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2148,
+          "following_count": 367,
+          "like_count": 706,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 625
+        },
+        "username": "LST12123",
+        "verified": true
+      }
+    ]
+  }
+}

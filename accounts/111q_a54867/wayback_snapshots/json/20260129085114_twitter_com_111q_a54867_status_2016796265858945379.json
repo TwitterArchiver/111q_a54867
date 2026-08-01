@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2016796265858945379",
+    "created_at": "2026-01-29T08:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T09:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016796265858945379"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016796265858945379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天操小母狗的时候这贱货居然敢喷，说了多少次不许擅自高潮。掐她着脖子问谁允许的，还敢说是太爽了没忍住，直接含上口球又操了三小时。现在瘫着装死，一看手机又是疯狂星期四。谁V我50打发这骚货去吃肯德基?省得躺那儿发情，老子现在累的不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2016796265858945379",
+        "created_at": "2026-01-29T08:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016796265858945379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016796265858945379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天操小母狗的时候这贱货居然敢喷，说了多少次不许擅自高潮。掐她着脖子问谁允许的，还敢说是太爽了没忍住，直接含上口球又操了三小时。现在瘫着装死，一看手机又是疯狂星期四。谁V我50打发这骚货去吃肯德基?省得躺那儿发情，老子现在累的不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoenXvj"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "我想幸福一点",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 1092,
+          "like_count": 4985,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/rc5JoenXvj",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

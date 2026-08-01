@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2015525375233933597",
+    "created_at": "2026-01-25T20:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T21:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015525375233933597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaopengugugu/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/xiaopengugugu/status/1960014977391329300",
+          "start": 9,
+          "url": "https://t.co/4zTbSYHbRV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015525375233933597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960014977391329300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这期把我看哭了。 https://t.co/4zTbSYHbRV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2015525375233933597",
+        "created_at": "2026-01-25T20:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T21:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015525375233933597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaopengugugu/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/xiaopengugugu/status/1960014977391329300",
+              "start": 9,
+              "url": "https://t.co/4zTbSYHbRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015525375233933597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960014977391329300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这期把我看哭了。 https://t.co/4zTbSYHbRV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394900497417392128",
+        "conversation_id": "1960014977391329300",
+        "created_at": "2025-08-25T16:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T17:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960014977391329300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960014977391329300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 553388,
+          "like_count": 1712,
+          "quote_count": 46,
+          "reply_count": 86,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "缺爱逼发现做爱这个捷径之后就一直被操"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoenXvj"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "我想幸福一点",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1081,
+          "like_count": 4893,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/rc5JoenXvj",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T06:19:38.000Z",
+        "description": "【有门】先到先得后到后得",
+        "id": "1394900497417392128",
+        "location": "不关你事",
+        "name": "学不会一个人睡觉",
+        "pinned_tweet_id": "1960014977391329300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922301303234969600/rg5a1ORy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30038,
+          "following_count": 594,
+          "like_count": 4025,
+          "listed_count": 71,
+          "media_count": 808,
+          "tweet_count": 6255
+        },
+        "username": "xiaopengugugu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1992656606396588149",
+    "created_at": "2025-11-24T14:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T15:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992967735953736009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1337372200915988480",
+          "start": 0,
+          "username": "H2036170722"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992967735953736009",
+    "in_reply_to_user_id": "1337372200915988480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992798674343346414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H2036170722 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1992656606396588149",
+        "created_at": "2025-11-24T14:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992967735953736009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1337372200915988480",
+              "start": 0,
+              "username": "H2036170722"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992967735953736009",
+        "in_reply_to_user_id": "1337372200915988480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992798674343346414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H2036170722 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1337372200915988480",
+        "conversation_id": "1992656606396588149",
+        "created_at": "2025-11-24T03:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T04:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992798674343346414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992798674343346414",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992656606396588149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 超可爱的！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 1049,
+          "like_count": 3066,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T12:22:42.000Z",
+        "description": "不定期发疯 霓虹荒野求生第六年（不会日语不会中文） 白日梦想家 不买衣服！攒钱！明年想买一辆小车/永远喜欢绿毛/喜欢搭衣服～",
+        "id": "1337372200915988480",
+        "location": "Yokohama City Kohoku Ward",
+        "name": "H20",
+        "pinned_tweet_id": "1708794287016857972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967513522813939712/fwocX0yT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 68,
+          "like_count": 24976,
+          "listed_count": 2,
+          "media_count": 800,
+          "tweet_count": 6960
+        },
+        "username": "H2036170722",
+        "verified": false
+      }
+    ]
+  }
+}

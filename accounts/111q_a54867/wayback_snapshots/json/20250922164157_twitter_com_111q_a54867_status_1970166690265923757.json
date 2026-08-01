@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1970166690265923757",
+    "created_at": "2025-09-22T16:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T17:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970166690265923757"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970166690265923757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "电子烟是都是一股ym味我草泥马"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1970166690265923757",
+        "created_at": "2025-09-22T16:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T17:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970166690265923757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970166690265923757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "电子烟是都是一股ym味我草泥马"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969121154893037568/gGp6K-B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 386,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 29
+        },
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

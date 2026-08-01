@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2040517590091808968",
+    "created_at": "2026-04-06T06:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041042926189564236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1990243522738540544",
+          "start": 0,
+          "username": "hana9226Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041042926189564236",
+    "in_reply_to_user_id": "1990243522738540544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040785094516904224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hana9226Y 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2040517590091808968",
+        "created_at": "2026-04-06T06:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041042926189564236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1990243522738540544",
+              "start": 0,
+              "username": "hana9226Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041042926189564236",
+        "in_reply_to_user_id": "1990243522738540544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040785094516904224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hana9226Y 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990243522738540544",
+        "conversation_id": "2040517590091808968",
+        "created_at": "2026-04-05T13:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040785094516904224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040785094516904224",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040517590091808968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 戒断一周左右就好\n每天服用1200mg来维持体内药物水平的话要逐渐减量哦 一周减1-2t的样子 突然戒断特别难受的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 1217,
+          "like_count": 6152,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 1154
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-17T02:20:20.000Z",
+        "description": "我是花9226 可以叫我花玖",
+        "id": "1990243522738540544",
+        "location": "天國",
+        "name": "花9226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040843209278988288/cUX_jNZh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 410,
+          "like_count": 4699,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 820
+        },
+        "username": "hana9226Y",
+        "verified": false
+      }
+    ]
+  }
+}

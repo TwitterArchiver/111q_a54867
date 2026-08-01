@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2039058414740045903",
+    "created_at": "2026-03-31T19:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T20:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039058414740045903"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akane3203/stat…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/akane3203/status/2038591354242998578",
+          "start": 3,
+          "url": "https://t.co/kyRw0fwweU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039058414740045903",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038591354242998578",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的 https://t.co/kyRw0fwweU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2039058414740045903",
+        "created_at": "2026-03-31T19:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T20:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039058414740045903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akane3203/stat…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/akane3203/status/2038591354242998578",
+              "start": 3,
+              "url": "https://t.co/kyRw0fwweU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039058414740045903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038591354242998578",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的 https://t.co/kyRw0fwweU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1252387221849747456",
+        "conversation_id": "2038591354242998578",
+        "created_at": "2026-03-30T12:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T13:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038591354242998578"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038591354242998578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 31119,
+          "like_count": 925,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "杀过人的朋友都知道人际关系比尸体难处理"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 1196,
+          "like_count": 6021,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 1111
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T00:02:48.000Z",
+        "description": "距离奇迹降临还有__天  备用号@hhjakane311",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "hhjakane311"
+              }
+            ]
+          }
+        },
+        "id": "1252387221849747456",
+        "location": "问坐标20r",
+        "name": "茜",
+        "pinned_tweet_id": "1999090999549948195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999091299325018112/N2KsIt8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 37,
+          "like_count": 315,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 1390
+        },
+        "username": "akane3203",
+        "verified": false
+      }
+    ]
+  }
+}

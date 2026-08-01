@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1999136616011497750",
+    "created_at": "2025-12-12T05:57:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T06:57:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999358042778009762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1985710009041436673",
+          "start": 0,
+          "username": "lushq2uc"
+        },
+        {
+          "end": 19,
+          "id": "1774638060963008512",
+          "start": 10,
+          "username": "LST12123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999358042778009762",
+    "in_reply_to_user_id": "1985710009041436673",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999346475067932855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lushq2uc @LST12123 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1999136616011497750",
+        "created_at": "2025-12-12T05:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999358042778009762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1985710009041436673",
+              "start": 0,
+              "username": "lushq2uc"
+            },
+            {
+              "end": 19,
+              "id": "1774638060963008512",
+              "start": 10,
+              "username": "LST12123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999358042778009762",
+        "in_reply_to_user_id": "1985710009041436673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999346475067932855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lushq2uc @LST12123 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985710009041436673",
+        "conversation_id": "1999136616011497750",
+        "created_at": "2025-12-12T05:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999346475067932855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            },
+            {
+              "end": 22,
+              "id": "1774638060963008512",
+              "start": 13,
+              "username": "LST12123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999346475067932855",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999171733979562185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 @LST12123 我过你🚪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 1052,
+          "like_count": 4023,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T14:06:18.000Z",
+        "description": "互关必回",
+        "id": "1985710009041436673",
+        "location": "The UK",
+        "name": "露水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994765736607453192/Si73T_SN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 74,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 172
+        },
+        "username": "lushq2uc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T03:21:16.000Z",
+        "description": "傻卵二次元：粥批|音游人|邦邦人|英雄联盟|三角洲|FGO     碎碎念区主播🌈有好型|国际立场中立🥺|🇯🇵学习中\n @0xo_snow 快去关注这个入\n匿名提问箱：\nhttps://t.co/5HFRKzLgCv\n自用蜂鸟vpn：https://t.co/nGLI6QmTUX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "0xo_snow"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miyu.link/LST12123",
+                "end": 108,
+                "expanded_url": "https://miyu.link/LST12123",
+                "start": 85,
+                "url": "https://t.co/5HFRKzLgCv"
+              },
+              {
+                "display_url": "sachlife.com/#/",
+                "end": 140,
+                "expanded_url": "https://www.sachlife.com/#/",
+                "start": 117,
+                "url": "https://t.co/nGLI6QmTUX"
+              }
+            ]
+          }
+        },
+        "id": "1774638060963008512",
+        "location": "距离你520m",
+        "name": "困困神",
+        "pinned_tweet_id": "1998456320039805115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978672734499704832/6yWQMv9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2122,
+          "following_count": 409,
+          "like_count": 850,
+          "listed_count": 2,
+          "media_count": 182,
+          "tweet_count": 779
+        },
+        "username": "LST12123",
+        "verified": true
+      }
+    ]
+  }
+}

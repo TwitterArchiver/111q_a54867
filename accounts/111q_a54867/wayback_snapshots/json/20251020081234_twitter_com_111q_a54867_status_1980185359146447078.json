@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1980185285204815873"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1980185359146447078",
+    "created_at": "2025-10-20T08:12:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T09:12:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980185359146447078"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 2,
+          "tag": "自撮り界隈さんと繋がりたい"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gb1spnR9FY",
+          "end": 40,
+          "expanded_url": "https://x.com/111q_a54867/status/1980185359146447078/video/1",
+          "media_key": "13_1980185285204815873",
+          "start": 17,
+          "url": "https://t.co/gb1spnR9FY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980185359146447078",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🖤🩶#自撮り界隈さんと繋がりたい https://t.co/gb1spnR9FY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13466,
+        "height": 1280,
+        "media_key": "13_1980185285204815873",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980185285204815873/img/ALHbSeQY2gvZu_L8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980185285204815873/vid/avc1/320x568/oc3Fe2yOaoDZNreT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980185285204815873/vid/avc1/480x852/YyyBbmMAg6pyfZ80.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980185285204815873/vid/avc1/720x1280/UCPxZLjVjtl0Ur3N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980185285204815873/pl/BLPd4HpkgTsJ-Jyl.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980185285204815873"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1980185359146447078",
+        "created_at": "2025-10-20T08:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T09:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980185359146447078"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 2,
+              "tag": "自撮り界隈さんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gb1spnR9FY",
+              "end": 40,
+              "expanded_url": "https://x.com/111q_a54867/status/1980185359146447078/video/1",
+              "media_key": "13_1980185285204815873",
+              "start": 17,
+              "url": "https://t.co/gb1spnR9FY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980185359146447078",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🖤🩶#自撮り界隈さんと繋がりたい https://t.co/gb1spnR9FY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 881,
+          "like_count": 1552,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

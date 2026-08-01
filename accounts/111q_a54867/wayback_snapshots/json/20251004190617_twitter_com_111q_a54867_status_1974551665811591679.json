@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974102044148482048"
+      ],
+      "media_source_tweet_id": [
+        "1974102067322237185"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1974551665811591679",
+    "created_at": "2025-10-04T19:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T20:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974551665811591679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1885557129588948992",
+          "start": 3,
+          "username": "jfrd163461"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvucVG4EzA",
+          "end": 43,
+          "expanded_url": "https://x.com/jfrd163461/status/1974102067322237185/photo/1",
+          "media_key": "3_1974102044148482048",
+          "start": 20,
+          "url": "https://t.co/bvucVG4EzA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974551665811591679",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974102067322237185",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jfrd163461: ？！！ https://t.co/bvucVG4EzA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 245,
+        "media_key": "3_1974102044148482048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VrWZPXwAAgx5N.png",
+        "width": 332
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974102044148482048"
+          ],
+          "media_source_tweet_id": [
+            "1974102067322237185"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1974551665811591679",
+        "created_at": "2025-10-04T19:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T20:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974551665811591679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1885557129588948992",
+              "start": 3,
+              "username": "jfrd163461"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvucVG4EzA",
+              "end": 43,
+              "expanded_url": "https://x.com/jfrd163461/status/1974102067322237185/photo/1",
+              "media_key": "3_1974102044148482048",
+              "start": 20,
+              "url": "https://t.co/bvucVG4EzA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974551665811591679",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974102067322237185",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jfrd163461: ？！！ https://t.co/bvucVG4EzA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974102044148482048"
+          ]
+        },
+        "author_id": "1885557129588948992",
+        "conversation_id": "1974102067322237185",
+        "created_at": "2025-10-03T13:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T14:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974102067322237185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvucVG4EzA",
+              "end": 27,
+              "expanded_url": "https://x.com/jfrd163461/status/1974102067322237185/photo/1",
+              "media_key": "3_1974102044148482048",
+              "start": 4,
+              "url": "https://t.co/bvucVG4EzA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974102067322237185",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 69833,
+          "like_count": 743,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "？！！ https://t.co/bvucVG4EzA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 637,
+          "like_count": 1004,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 109
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nI hope that all of China can achieve democracy and freedom.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@stategerls",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@stategerls",
+                "start": 0,
+                "url": "https://t.co/Ve7wgU1aBV"
+              }
+            ]
+          }
+        },
+        "id": "1885557129588948992",
+        "location": "EARTH AISA ROC HK 右邊係佢嘅website",
+        "name": "RevDemSoc HK 🇭🇰🇹🇼",
+        "pinned_tweet_id": "1947633280809111637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973899841571856384/ItiN6_Ki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 2900,
+          "like_count": 8534,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/Ve7wgU1aBV",
+        "username": "jfrd163461",
+        "verified": false
+      }
+    ]
+  }
+}

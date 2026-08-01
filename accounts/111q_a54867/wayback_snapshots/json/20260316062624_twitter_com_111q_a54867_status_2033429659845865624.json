@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2033255094922465516",
+    "created_at": "2026-03-16T06:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033429659845865624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944351426827735040",
+          "start": 0,
+          "username": "kiss_u_back"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033429659845865624",
+    "in_reply_to_user_id": "1944351426827735040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033255094922465516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiss_u_back 抱抱宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2033255094922465516",
+        "created_at": "2026-03-16T06:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033429659845865624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944351426827735040",
+              "start": 0,
+              "username": "kiss_u_back"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033429659845865624",
+        "in_reply_to_user_id": "1944351426827735040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033255094922465516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiss_u_back 抱抱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944351426827735040",
+        "conversation_id": "2033255094922465516",
+        "created_at": "2026-03-15T18:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T19:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033255094922465516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033255094922465516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 402,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最倒霉的一次自杀体验 准备呼吸抑制死结果焦虑导致过敏 现在死不了还抓耳挠腮的全身痒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "od日记",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 1183,
+          "like_count": 5698,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 982
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T11:01:50.000Z",
+        "description": "死在2025年3月28号\n@gork 我老公死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "gork"
+              }
+            ]
+          }
+        },
+        "id": "1944351426827735040",
+        "location": "火星",
+        "name": "我的泪口是心非",
+        "pinned_tweet_id": "1989765441888424290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032342364212379650/Ir3K5fHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 190,
+          "like_count": 1518,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 1242
+        },
+        "username": "kiss_u_back",
+        "verified": false
+      }
+    ]
+  }
+}

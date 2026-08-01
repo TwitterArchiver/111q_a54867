@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986930740131733504",
+        "3_1986930740135956480"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1986930771521937812",
+    "created_at": "2025-11-07T22:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T23:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986930771521937812"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "rurudo",
+          "probability": 0.5104,
+          "start": 15,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "rurudo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SEzedLp9WB",
+          "end": 45,
+          "expanded_url": "https://x.com/111q_a54867/status/1986930771521937812/photo/1",
+          "media_key": "3_1986930740131733504",
+          "start": 22,
+          "url": "https://t.co/SEzedLp9WB"
+        },
+        {
+          "display_url": "pic.x.com/SEzedLp9WB",
+          "end": 45,
+          "expanded_url": "https://x.com/111q_a54867/status/1986930771521937812/photo/1",
+          "media_key": "3_1986930740135956480",
+          "start": 22,
+          "url": "https://t.co/SEzedLp9WB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986930771521937812",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Sweet toxic💒💉💕#rurudo https://t.co/SEzedLp9WB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1986930740131733504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5L--x7bIAAOTLz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1986930740135956480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5L--x8bkAALZn2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986930740131733504",
+            "3_1986930740135956480"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1986930771521937812",
+        "created_at": "2025-11-07T22:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T23:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986930771521937812"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "rurudo",
+              "probability": 0.5104,
+              "start": 15,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "rurudo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SEzedLp9WB",
+              "end": 45,
+              "expanded_url": "https://x.com/111q_a54867/status/1986930771521937812/photo/1",
+              "media_key": "3_1986930740131733504",
+              "start": 22,
+              "url": "https://t.co/SEzedLp9WB"
+            },
+            {
+              "display_url": "pic.x.com/SEzedLp9WB",
+              "end": 45,
+              "expanded_url": "https://x.com/111q_a54867/status/1986930771521937812/photo/1",
+              "media_key": "3_1986930740135956480",
+              "start": 22,
+              "url": "https://t.co/SEzedLp9WB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986930771521937812",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Sweet toxic💒💉💕#rurudo https://t.co/SEzedLp9WB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 989,
+          "like_count": 2429,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

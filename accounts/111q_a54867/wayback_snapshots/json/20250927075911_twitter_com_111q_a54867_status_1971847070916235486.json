@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971802246284562437"
+      ],
+      "media_source_tweet_id": [
+        "1971802325368164476"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1971847070916235486",
+    "created_at": "2025-09-27T07:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T08:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971847070916235486"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "真宵ちゃん",
+          "probability": 0.6673,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1929802336937168897",
+          "start": 3,
+          "username": "c0urtroom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6RXwW9sF7A",
+          "end": 44,
+          "expanded_url": "https://x.com/c0urtroom/status/1971802325368164476/photo/1",
+          "media_key": "3_1971802246284562437",
+          "start": 21,
+          "url": "https://t.co/6RXwW9sF7A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971847070916235486",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971802325368164476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c0urtroom: 真宵ちゃん https://t.co/6RXwW9sF7A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1971802246284562437",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G10_sikb0AUx4sh.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971802246284562437"
+          ],
+          "media_source_tweet_id": [
+            "1971802325368164476"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1971847070916235486",
+        "created_at": "2025-09-27T07:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T08:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971847070916235486"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "真宵ちゃん",
+              "probability": 0.6673,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1929802336937168897",
+              "start": 3,
+              "username": "c0urtroom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RXwW9sF7A",
+              "end": 44,
+              "expanded_url": "https://x.com/c0urtroom/status/1971802325368164476/photo/1",
+              "media_key": "3_1971802246284562437",
+              "start": 21,
+              "url": "https://t.co/6RXwW9sF7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971847070916235486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971802325368164476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @c0urtroom: 真宵ちゃん https://t.co/6RXwW9sF7A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971802246284562437"
+          ]
+        },
+        "author_id": "1929802336937168897",
+        "conversation_id": "1971802325368164476",
+        "created_at": "2025-09-27T05:01:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T06:01:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971802325368164476"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "真宵ちゃん",
+              "probability": 0.7578,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RXwW9sF7A",
+              "end": 29,
+              "expanded_url": "https://x.com/c0urtroom/status/1971802325368164476/photo/1",
+              "media_key": "3_1971802246284562437",
+              "start": 6,
+              "url": "https://t.co/6RXwW9sF7A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971802325368164476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 117,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "真宵ちゃん https://t.co/6RXwW9sF7A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 446,
+          "like_count": 556,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 53
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T07:28:37.000Z",
+        "description": "趣味アカウントです\n逆転裁判50%、アニメ・ゲーム30%、その他20%\nAceAttorney / Persona5 / FFVII / Danganronpa / Anime...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/c0urtroom/media",
+                "end": 23,
+                "expanded_url": "https://x.com/c0urtroom/media",
+                "start": 0,
+                "url": "https://t.co/NtD0BBeXF8"
+              }
+            ]
+          }
+        },
+        "id": "1929802336937168897",
+        "location": "20↑",
+        "name": "むめ",
+        "pinned_tweet_id": "1960704032198287488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940076010373791744/Rj24DzP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 57,
+          "like_count": 5084,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/NtD0BBeXF8",
+        "username": "c0urtroom",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981769115317493760",
+        "3_1981769115321704448"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1981769124201308406",
+    "created_at": "2025-10-24T17:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T18:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981769124201308406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SVJu8H4y4k",
+          "end": 37,
+          "expanded_url": "https://x.com/111q_a54867/status/1981769124201308406/photo/1",
+          "media_key": "3_1981769115317493760",
+          "start": 14,
+          "url": "https://t.co/SVJu8H4y4k"
+        },
+        {
+          "display_url": "pic.x.com/SVJu8H4y4k",
+          "end": 37,
+          "expanded_url": "https://x.com/111q_a54867/status/1981769124201308406/photo/1",
+          "media_key": "3_1981769115321704448",
+          "start": 14,
+          "url": "https://t.co/SVJu8H4y4k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981769124201308406",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(&gt;^ω^&lt;) https://t.co/SVJu8H4y4k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1981769115317493760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CogrFW4AAczWL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1981769115321704448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CogrGXIAAnib7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981769115317493760",
+            "3_1981769115321704448"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1981769124201308406",
+        "created_at": "2025-10-24T17:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T18:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981769124201308406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SVJu8H4y4k",
+              "end": 37,
+              "expanded_url": "https://x.com/111q_a54867/status/1981769124201308406/photo/1",
+              "media_key": "3_1981769115317493760",
+              "start": 14,
+              "url": "https://t.co/SVJu8H4y4k"
+            },
+            {
+              "display_url": "pic.x.com/SVJu8H4y4k",
+              "end": 37,
+              "expanded_url": "https://x.com/111q_a54867/status/1981769124201308406/photo/1",
+              "media_key": "3_1981769115321704448",
+              "start": 14,
+              "url": "https://t.co/SVJu8H4y4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981769124201308406",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(&gt;^ω^&lt;) https://t.co/SVJu8H4y4k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 892,
+          "like_count": 1626,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

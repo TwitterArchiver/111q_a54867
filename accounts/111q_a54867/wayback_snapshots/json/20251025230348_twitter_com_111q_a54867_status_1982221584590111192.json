@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1981782618506150059",
+    "created_at": "2025-10-25T23:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T00:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982221584590111192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1556189392217452544",
+          "start": 0,
+          "username": "Yukiii_1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982221584590111192",
+    "in_reply_to_user_id": "1556189392217452544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981782618506150059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yukiii_1127 太痛了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_1981782611157450752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4C0yPAWAAAKLRX.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1981782618506150059",
+        "created_at": "2025-10-25T23:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T00:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982221584590111192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1556189392217452544",
+              "start": 0,
+              "username": "Yukiii_1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982221584590111192",
+        "in_reply_to_user_id": "1556189392217452544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981782618506150059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yukiii_1127 太痛了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981782611157450752"
+          ]
+        },
+        "author_id": "1556189392217452544",
+        "conversation_id": "1981782618506150059",
+        "created_at": "2025-10-24T17:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T18:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981782618506150059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/APYPzIKUQh",
+              "end": 32,
+              "expanded_url": "https://x.com/Yukiii_1127/status/1981782618506150059/photo/1",
+              "media_key": "3_1981782611157450752",
+              "start": 9,
+              "url": "https://t.co/APYPzIKUQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981782618506150059",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 66042,
+          "like_count": 843,
+          "quote_count": 16,
+          "reply_count": 43,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "一颗心悄悄碎掉了 https://t.co/APYPzIKUQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 902,
+          "like_count": 1698,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T08:04:09.000Z",
+        "description": "喜欢一切向往自由的事物૮꒰ྀི⸝⸝ɞ̴̶̷ ·̫ ‹⸝⸝꒱ྀི                              @AmorFati1127 过眼熟经常互动的互关^ ^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 61,
+                "username": "AmorFati1127"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki_71456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki_71456",
+                "start": 0,
+                "url": "https://t.co/Ofphpv663b"
+              }
+            ]
+          }
+        },
+        "id": "1556189392217452544",
+        "location": "世界没我照样转",
+        "name": "悲伤Yuki",
+        "pinned_tweet_id": "1975466587596755208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967566591668920320/0pBl2GQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 166,
+          "like_count": 2055,
+          "listed_count": 2,
+          "media_count": 70,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/Ofphpv663b",
+        "username": "Yukiii_1127",
+        "verified": false
+      }
+    ]
+  }
+}

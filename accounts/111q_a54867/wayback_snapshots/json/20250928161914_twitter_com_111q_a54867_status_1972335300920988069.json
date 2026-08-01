@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1972251149165285620",
+    "created_at": "2025-09-28T16:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T17:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972335300920988069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972335300920988069",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972251149165285620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 难绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1972251149165285620",
+        "created_at": "2025-09-28T16:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T17:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972335300920988069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972335300920988069",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972251149165285620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1972251149165285620",
+        "created_at": "2025-09-28T10:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972251149165285620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972251149165285620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13830,
+          "like_count": 177,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "被SM群踢出去了。\n\n之前约了一个M玩鞭子，我怕她疼，问她要不要加点油润滑，她说生抽吧，我寻思生抽的话，老抽应该也行吧。我倒的时候M急眼了，在厕所里洗了一晚上，热水一冲，整个希尔顿全是咸鲜口。她还让群管理把我踢了出去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是伊藤签",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 506,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 76
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20274,
+          "following_count": 194,
+          "like_count": 630,
+          "listed_count": 72,
+          "media_count": 92,
+          "tweet_count": 20051
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

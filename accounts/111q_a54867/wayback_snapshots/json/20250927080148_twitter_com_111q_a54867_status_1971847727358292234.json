@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971630043827761152"
+      ],
+      "media_source_tweet_id": [
+        "1971630049263866235"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Sheena Ringo (椎名林檎)",
+          "id": "867744195057930244",
+          "name": "Sheena Ringo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Sheena Ringo (椎名林檎)",
+          "id": "867744195057930244",
+          "name": "Sheena Ringo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sheena Ringo (椎名林檎)",
+          "id": "867744195057930244",
+          "name": "Sheena Ringo"
+        }
+      }
+    ],
+    "conversation_id": "1971847727358292234",
+    "created_at": "2025-09-27T08:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T09:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971847727358292234"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "sheena ringo",
+          "probability": 0.9524,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 52,
+          "normalized_text": "guitarbook magazine",
+          "probability": 0.637,
+          "start": 34,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866572144806604800",
+          "start": 3,
+          "username": "rosierpearl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2nNB5UVeab",
+          "end": 84,
+          "expanded_url": "https://x.com/rosierpearl/status/1971630049263866235/photo/1",
+          "media_key": "3_1971630043827761152",
+          "start": 61,
+          "url": "https://t.co/2nNB5UVeab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971847727358292234",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3333
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971630049263866235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rosierpearl: sheena ringo for guitarbook magazine (2000) https://t.co/2nNB5UVeab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1971630043827761152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1yjFCbXcAAvyJZ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971630043827761152"
+          ],
+          "media_source_tweet_id": [
+            "1971630049263866235"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          }
+        ],
+        "conversation_id": "1971847727358292234",
+        "created_at": "2025-09-27T08:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T09:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971847727358292234"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "sheena ringo",
+              "probability": 0.9524,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 52,
+              "normalized_text": "guitarbook magazine",
+              "probability": 0.637,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866572144806604800",
+              "start": 3,
+              "username": "rosierpearl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nNB5UVeab",
+              "end": 84,
+              "expanded_url": "https://x.com/rosierpearl/status/1971630049263866235/photo/1",
+              "media_key": "3_1971630043827761152",
+              "start": 61,
+              "url": "https://t.co/2nNB5UVeab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971847727358292234",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3333
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971630049263866235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rosierpearl: sheena ringo for guitarbook magazine (2000) https://t.co/2nNB5UVeab"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971630043827761152"
+          ]
+        },
+        "author_id": "1866572144806604800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sheena Ringo (椎名林檎)",
+              "id": "867744195057930244",
+              "name": "Sheena Ringo"
+            }
+          }
+        ],
+        "conversation_id": "1971630049263866235",
+        "created_at": "2025-09-26T17:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T18:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971630049263866235"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "sheena ringo",
+              "probability": 0.9564,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 35,
+              "normalized_text": "guitarbook magazine",
+              "probability": 0.7491,
+              "start": 17,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nNB5UVeab",
+              "end": 67,
+              "expanded_url": "https://x.com/rosierpearl/status/1971630049263866235/photo/1",
+              "media_key": "3_1971630043827761152",
+              "start": 44,
+              "url": "https://t.co/2nNB5UVeab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971630049263866235",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2585,
+          "impression_count": 218127,
+          "like_count": 18970,
+          "quote_count": 174,
+          "reply_count": 20,
+          "retweet_count": 3333
+        },
+        "reply_settings": "everyone",
+        "text": "sheena ringo for guitarbook magazine (2000) https://t.co/2nNB5UVeab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 449,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 58
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T19:54:21.000Z",
+        "description": "art and fashion enthusiast, heaven sent",
+        "id": "1866572144806604800",
+        "name": "𝓇𝑜𝓈𝒾𝑒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948675366760988672/j8O_LOr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31739,
+          "following_count": 74,
+          "like_count": 4923,
+          "listed_count": 141,
+          "media_count": 2110,
+          "tweet_count": 2241
+        },
+        "username": "rosierpearl",
+        "verified": false
+      }
+    ]
+  }
+}

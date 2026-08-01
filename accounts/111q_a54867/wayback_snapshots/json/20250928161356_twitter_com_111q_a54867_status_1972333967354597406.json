@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972208111567110145"
+      ],
+      "media_source_tweet_id": [
+        "1972208131230052400"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1972333967354597406",
+    "created_at": "2025-09-28T16:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T17:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972333967354597406"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "鯨木図鑑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818907188024557568",
+          "start": 3,
+          "username": "pqqp9090"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/utO9fvmpeg",
+          "end": 43,
+          "expanded_url": "https://x.com/pqqp9090/status/1972208131230052400/photo/1",
+          "media_key": "3_1972208111567110145",
+          "start": 20,
+          "url": "https://t.co/utO9fvmpeg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972333967354597406",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972208131230052400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @pqqp9090: #鯨木図鑑 https://t.co/utO9fvmpeg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_1972208111567110145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16w1AkaAAEZEyY.jpg",
+        "width": 734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972208111567110145"
+          ],
+          "media_source_tweet_id": [
+            "1972208131230052400"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1972333967354597406",
+        "created_at": "2025-09-28T16:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T17:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972333967354597406"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "鯨木図鑑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818907188024557568",
+              "start": 3,
+              "username": "pqqp9090"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/utO9fvmpeg",
+              "end": 43,
+              "expanded_url": "https://x.com/pqqp9090/status/1972208131230052400/photo/1",
+              "media_key": "3_1972208111567110145",
+              "start": 20,
+              "url": "https://t.co/utO9fvmpeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972333967354597406",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972208131230052400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @pqqp9090: #鯨木図鑑 https://t.co/utO9fvmpeg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972208111567110145"
+          ]
+        },
+        "author_id": "1818907188024557568",
+        "conversation_id": "1972208131230052400",
+        "created_at": "2025-09-28T07:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T08:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972208131230052400"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "鯨木図鑑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/utO9fvmpeg",
+              "end": 29,
+              "expanded_url": "https://x.com/pqqp9090/status/1972208131230052400/photo/1",
+              "media_key": "3_1972208111567110145",
+              "start": 6,
+              "url": "https://t.co/utO9fvmpeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972208131230052400",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 24398,
+          "like_count": 1633,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "reply_settings": "following",
+        "text": "#鯨木図鑑 https://t.co/utO9fvmpeg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是伊藤签",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 504,
+          "like_count": 727,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 75
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T07:10:48.000Z",
+        "description": "ヤンマ",
+        "id": "1818907188024557568",
+        "location": "contact DM",
+        "name": "얌마",
+        "pinned_tweet_id": "1917554961761853785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869655537031487488/8haJ0tKj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 28,
+          "like_count": 1431,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 554
+        },
+        "username": "pqqp9090",
+        "verified": false
+      }
+    ]
+  }
+}

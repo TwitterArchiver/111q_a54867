@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1979605561428898233",
+    "created_at": "2025-10-20T01:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T02:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980083916355899637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1540063687469404161",
+          "start": 0,
+          "username": "cosplay_riji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980083916355899637",
+    "in_reply_to_user_id": "1540063687469404161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979605561428898233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cosplay_riji 有点过分了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1979605561428898233",
+        "created_at": "2025-10-20T01:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T02:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980083916355899637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1540063687469404161",
+              "start": 0,
+              "username": "cosplay_riji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980083916355899637",
+        "in_reply_to_user_id": "1540063687469404161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979605561428898233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cosplay_riji 有点过分了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540063687469404161",
+        "conversation_id": "1979605561428898233",
+        "created_at": "2025-10-18T17:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T18:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979605561428898233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979605561428898233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 213224,
+          "like_count": 1302,
+          "quote_count": 3,
+          "reply_count": 70,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "把常温蜡烛当低温蜡烛卖的实在是缺tm大德了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 880,
+          "like_count": 1545,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T20:06:17.000Z",
+        "description": "已婚｜没把男娘｜我的可爱老婆@xixi_epicene\n｜⚠️偶有🔞或阴暗发言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xixi_epicene"
+              }
+            ]
+          }
+        },
+        "id": "1540063687469404161",
+        "name": "Xixi-cosplay-diary",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951488697955667968/bG3-GUUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20689,
+          "following_count": 12,
+          "like_count": 14741,
+          "listed_count": 53,
+          "media_count": 297,
+          "tweet_count": 8621
+        },
+        "username": "cosplay_riji",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038207209654620160"
+      ],
+      "media_source_tweet_id": [
+        "2038207227639820307"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "2038223724479218033",
+    "created_at": "2026-03-29T11:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T12:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038223724479218033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1245677856706793472",
+          "start": 3,
+          "username": "devilxkid"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MjdjaPwMSJ",
+          "end": 45,
+          "expanded_url": "https://x.com/devilxkid/status/2038207227639820307/photo/1",
+          "media_key": "3_2038207209654620160",
+          "start": 22,
+          "url": "https://t.co/MjdjaPwMSJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038223724479218033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038207227639820307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @devilxkid: 夢見る拷問台 https://t.co/MjdjaPwMSJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1635,
+        "media_key": "3_2038207209654620160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkqqIYakAAIaAs.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038207209654620160"
+          ],
+          "media_source_tweet_id": [
+            "2038207227639820307"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2038223724479218033",
+        "created_at": "2026-03-29T11:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038223724479218033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1245677856706793472",
+              "start": 3,
+              "username": "devilxkid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjdjaPwMSJ",
+              "end": 45,
+              "expanded_url": "https://x.com/devilxkid/status/2038207227639820307/photo/1",
+              "media_key": "3_2038207209654620160",
+              "start": 22,
+              "url": "https://t.co/MjdjaPwMSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038223724479218033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038207227639820307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @devilxkid: 夢見る拷問台 https://t.co/MjdjaPwMSJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038207209654620160"
+          ]
+        },
+        "author_id": "1245677856706793472",
+        "conversation_id": "2038207227639820307",
+        "created_at": "2026-03-29T10:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T11:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038207227639820307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjdjaPwMSJ",
+              "end": 30,
+              "expanded_url": "https://x.com/devilxkid/status/2038207227639820307/photo/1",
+              "media_key": "3_2038207209654620160",
+              "start": 7,
+              "url": "https://t.co/MjdjaPwMSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038207227639820307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 2420,
+          "like_count": 340,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "夢見る拷問台 https://t.co/MjdjaPwMSJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 1190,
+          "like_count": 5984,
+          "listed_count": 0,
+          "media_count": 227,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-02T11:42:08.000Z",
+        "description": "愛は血肉 猟奇の夢 日藝 🕯️ commission ok #Aνrune #夢を愛した子どもたち",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "Aνrune"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "夢を愛した子どもたち"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "devilxyumeko.wixsite.com/devilxyumeko-1",
+                "end": 23,
+                "expanded_url": "https://devilxyumeko.wixsite.com/devilxyumeko-1",
+                "start": 0,
+                "url": "https://t.co/FzZOF1nekC"
+              }
+            ]
+          }
+        },
+        "id": "1245677856706793472",
+        "location": " ✉︎devilxyumeko@gmail.com",
+        "name": "𝘺𝘶𝘮𝘦𝘬𝘰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729382999740071936/pwc162Qe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19198,
+          "following_count": 257,
+          "like_count": 8723,
+          "listed_count": 138,
+          "media_count": 515,
+          "tweet_count": 10066
+        },
+        "url": "https://t.co/FzZOF1nekC",
+        "username": "devilxkid",
+        "verified": false
+      }
+    ]
+  }
+}

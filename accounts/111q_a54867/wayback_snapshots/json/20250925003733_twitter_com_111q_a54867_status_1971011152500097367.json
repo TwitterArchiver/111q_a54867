@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971011146120675328"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1971011152500097367",
+    "created_at": "2025-09-25T00:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T01:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971011152500097367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3VrvLp9peQ",
+          "end": 35,
+          "expanded_url": "https://x.com/111q_a54867/status/1971011152500097367/photo/1",
+          "media_key": "3_1971011146120675328",
+          "start": 12,
+          "url": "https://t.co/3VrvLp9peQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971011152500097367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢喹硫平和阿普唑仑。 https://t.co/3VrvLp9peQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1665,
+        "media_key": "3_1971011146120675328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1pwMczbwAAhzD3.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971011146120675328"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1971011152500097367",
+        "created_at": "2025-09-25T00:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T01:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971011152500097367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VrvLp9peQ",
+              "end": 35,
+              "expanded_url": "https://x.com/111q_a54867/status/1971011152500097367/photo/1",
+              "media_key": "3_1971011146120675328",
+              "start": 12,
+              "url": "https://t.co/3VrvLp9peQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971011152500097367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢喹硫平和阿普唑仑。 https://t.co/3VrvLp9peQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 427,
+          "like_count": 495,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 39
+        },
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

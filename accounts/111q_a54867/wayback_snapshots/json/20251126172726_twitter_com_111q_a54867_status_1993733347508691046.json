@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1993733347508691046",
+    "created_at": "2025-11-26T17:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T18:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993733347508691046"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huaxuejilebaik…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/huaxuejilebaike/status/1993313945906819154",
+          "start": 6,
+          "url": "https://t.co/38pkkhsJzA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993733347508691046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993313945906819154",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想艹逼直说 https://t.co/38pkkhsJzA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1993733347508691046",
+        "created_at": "2025-11-26T17:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993733347508691046"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huaxuejilebaik…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/huaxuejilebaike/status/1993313945906819154",
+              "start": 6,
+              "url": "https://t.co/38pkkhsJzA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993733347508691046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993313945906819154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想艹逼直说 https://t.co/38pkkhsJzA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960187829687885824",
+        "conversation_id": "1993313945906819154",
+        "created_at": "2025-11-25T13:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993313945906819154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993313945906819154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 83794,
+          "like_count": 506,
+          "quote_count": 14,
+          "reply_count": 155,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得地雷女都好漂亮，而且小小的让人很有保护欲，虽然大多手臂上有好多疤，感觉是有抑郁症，不过没关系，我性格很开朗，很少被负面情绪影响，如果是我的话一定可以救赎对方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 1049,
+          "like_count": 3322,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 455
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T03:49:38.000Z",
+        "description": "官方网站:https://t.co/DM4fmdhdkn\nTG频道:https://t.co/YoXqIDrwpe\n交流群:https://t.co/JfbYdIujGy\n社区:https://t.co/JwQ9mOTHUy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 28,
+                "expanded_url": "https://overdose.day/",
+                "start": 5,
+                "url": "https://t.co/DM4fmdhdkn"
+              },
+              {
+                "display_url": "t.me/huaxuejilebaike",
+                "end": 57,
+                "expanded_url": "https://t.me/huaxuejilebaike",
+                "start": 34,
+                "url": "https://t.co/YoXqIDrwpe"
+              },
+              {
+                "display_url": "t.me/huaxuejile",
+                "end": 85,
+                "expanded_url": "https://t.me/huaxuejile",
+                "start": 62,
+                "url": "https://t.co/JfbYdIujGy"
+              },
+              {
+                "display_url": "pr80.bid",
+                "end": 112,
+                "expanded_url": "https://pr80.bid/",
+                "start": 89,
+                "url": "https://t.co/JwQ9mOTHUy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://overdose.day/",
+                "start": 0,
+                "url": "https://t.co/DM4fmdhdkn"
+              }
+            ]
+          }
+        },
+        "id": "1960187829687885824",
+        "name": "化学极乐百科🍥",
+        "pinned_tweet_id": "1989571076804989237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988121341233606656/UFOxlPsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3358,
+          "following_count": 1022,
+          "like_count": 537,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/DM4fmdhdkn",
+        "username": "huaxuejilebaike",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967230224824999936"
+      ],
+      "media_source_tweet_id": [
+        "1967230231602950346"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1967905310347235808",
+    "created_at": "2025-09-16T10:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T11:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967905310347235808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1808457782892580864",
+          "start": 3,
+          "username": "Ftmcnzz7J039006"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YpHvx7R9GY",
+          "end": 47,
+          "expanded_url": "https://x.com/Ftmcnzz7J039006/status/1967230231602950346/photo/1",
+          "media_key": "3_1967230224824999936",
+          "start": 24,
+          "url": "https://t.co/YpHvx7R9GY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967905310347235808",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 505
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967230231602950346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ftmcnzz7J039006: 💜💙 https://t.co/YpHvx7R9GY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1967230224824999936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G00Bd3YbIAAjRl6.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967230224824999936"
+          ],
+          "media_source_tweet_id": [
+            "1967230231602950346"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1967905310347235808",
+        "created_at": "2025-09-16T10:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T11:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967905310347235808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1808457782892580864",
+              "start": 3,
+              "username": "Ftmcnzz7J039006"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpHvx7R9GY",
+              "end": 47,
+              "expanded_url": "https://x.com/Ftmcnzz7J039006/status/1967230231602950346/photo/1",
+              "media_key": "3_1967230224824999936",
+              "start": 24,
+              "url": "https://t.co/YpHvx7R9GY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967905310347235808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 505
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967230231602950346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ftmcnzz7J039006: 💜💙 https://t.co/YpHvx7R9GY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967230224824999936"
+          ]
+        },
+        "author_id": "1808457782892580864",
+        "conversation_id": "1967230231602950346",
+        "created_at": "2025-09-14T14:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T15:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967230231602950346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpHvx7R9GY",
+              "end": 26,
+              "expanded_url": "https://x.com/Ftmcnzz7J039006/status/1967230231602950346/photo/1",
+              "media_key": "3_1967230224824999936",
+              "start": 3,
+              "url": "https://t.co/YpHvx7R9GY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967230231602950346",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 38311,
+          "like_count": 3071,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 505
+        },
+        "reply_settings": "everyone",
+        "text": "💜💙 https://t.co/YpHvx7R9GY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "aaa111qq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967903840730218496/Yqg31dpf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T11:09:37.000Z",
+        "description": "18↓/腐/趣味の絵を垂れ流す（キャラ崩壊注意）\n最近は逆裁💙❤　🔄❌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/RuJ33CEyh1RnwW…",
+                "end": 23,
+                "expanded_url": "https://lit.link/RuJ33CEyh1RnwW6plEaurIjHbIs2",
+                "start": 0,
+                "url": "https://t.co/fKABsTGZA2"
+              }
+            ]
+          }
+        },
+        "id": "1808457782892580864",
+        "name": "滝木",
+        "pinned_tweet_id": "1953076479883132994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954600594142056448/tFAEmM-n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 7,
+          "like_count": 1197,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 566
+        },
+        "url": "https://t.co/fKABsTGZA2",
+        "username": "Ftmcnzz7J039006",
+        "verified": false
+      }
+    ]
+  }
+}

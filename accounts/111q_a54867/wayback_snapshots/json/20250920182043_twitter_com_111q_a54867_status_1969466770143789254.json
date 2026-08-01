@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968656311207555072"
+      ],
+      "media_source_tweet_id": [
+        "1968656417990017261"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1969466770143789254",
+    "created_at": "2025-09-20T18:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T19:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969466770143789254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1637347483360829440",
+          "start": 3,
+          "username": "onigiri57984609"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o6xdYrPqjp",
+          "end": 46,
+          "expanded_url": "https://x.com/onigiri57984609/status/1968656417990017261/photo/1",
+          "media_key": "3_1968656311207555072",
+          "start": 23,
+          "url": "https://t.co/o6xdYrPqjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969466770143789254",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 266
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968656417990017261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onigiri57984609: 💜 https://t.co/o6xdYrPqjp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 722,
+        "media_key": "3_1968656311207555072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ISfBJbcAA1TLE.png",
+        "width": 879
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968656311207555072"
+          ],
+          "media_source_tweet_id": [
+            "1968656417990017261"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1969466770143789254",
+        "created_at": "2025-09-20T18:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T19:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969466770143789254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1637347483360829440",
+              "start": 3,
+              "username": "onigiri57984609"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6xdYrPqjp",
+              "end": 46,
+              "expanded_url": "https://x.com/onigiri57984609/status/1968656417990017261/photo/1",
+              "media_key": "3_1968656311207555072",
+              "start": 23,
+              "url": "https://t.co/o6xdYrPqjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969466770143789254",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 266
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968656417990017261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onigiri57984609: 💜 https://t.co/o6xdYrPqjp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968656311207555072"
+          ]
+        },
+        "author_id": "1637347483360829440",
+        "conversation_id": "1968656417990017261",
+        "created_at": "2025-09-18T12:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968656417990017261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6xdYrPqjp",
+              "end": 25,
+              "expanded_url": "https://x.com/onigiri57984609/status/1968656417990017261/photo/1",
+              "media_key": "3_1968656311207555072",
+              "start": 2,
+              "url": "https://t.co/o6xdYrPqjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968656417990017261",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 105,
+          "impression_count": 19663,
+          "like_count": 1475,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 266
+        },
+        "reply_settings": "everyone",
+        "text": "💜 https://t.co/o6xdYrPqjp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，孩子瞎发玩的",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969121154893037568/gGp6K-B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 275,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 18
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-19T06:57:39.000Z",
+        "description": "高卒成人済み腐20↑ pkmn▽▲/🌸🥪｜gnz👁💧｜gs💙❤️ dgs🐉⚔️/🍷⚔️ 同軸左右完全固定🔄❌裏垢日常ツイ自我性癖解放妄想妄言ネタバレ闇鍋垢※フォロー非推奨※閲覧注意※自衛してる※自衛して",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profcard.info/u/VacaTZIwICW4…",
+                "end": 23,
+                "expanded_url": "https://profcard.info/u/VacaTZIwICW4uNE43ihctR5RoS42",
+                "start": 0,
+                "url": "https://t.co/8a7jEMO7Hv"
+              }
+            ]
+          }
+        },
+        "id": "1637347483360829440",
+        "location": "GK2 GS6履修中　ﾌﾟﾛﾌｶｰﾄﾞ確認推奨",
+        "name": "もしもし",
+        "pinned_tweet_id": "1766675949402329325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962896319133208576/fpXLdyZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 31,
+          "like_count": 7458,
+          "listed_count": 4,
+          "media_count": 143,
+          "tweet_count": 838
+        },
+        "url": "https://t.co/8a7jEMO7Hv",
+        "username": "onigiri57984609",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2063735604949684587",
+    "created_at": "2026-06-08T14:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063996484010614939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1795539733017157632",
+          "start": 0,
+          "username": "AshleyAnde12592"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063996484010614939",
+    "in_reply_to_user_id": "1795539733017157632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063757146324377770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AshleyAnde12592 陪一根"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2063735604949684587",
+        "created_at": "2026-06-08T14:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063996484010614939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1795539733017157632",
+              "start": 0,
+              "username": "AshleyAnde12592"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063996484010614939",
+        "in_reply_to_user_id": "1795539733017157632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063757146324377770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AshleyAnde12592 陪一根"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795539733017157632",
+        "conversation_id": "2063735604949684587",
+        "created_at": "2026-06-07T22:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T23:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063757146324377770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063757146324377770",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063735604949684587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 分我两根，感谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "你从未感受过你粉碎我灵魂时我的痛楚。\n希望你也能经历你给我的心碎。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 1275,
+          "like_count": 7282,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 1552
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T19:36:55.000Z",
+        "description": "如你所见，这是一具被酒精和烟草泡烂了的尸体",
+        "id": "1795539733017157632",
+        "location": "铺满烟灰的酒精海洋",
+        "name": "腦漿幽靈犬",
+        "pinned_tweet_id": "2047541135141441981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060496672413593602/IuDoFZCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 13,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 248
+        },
+        "username": "AshleyAnde12592",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987570293259517952"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1987570362880815437",
+    "created_at": "2025-11-09T17:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T18:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987570362880815437"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 0,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 16,
+          "start": 12,
+          "tag": "病み垢"
+        },
+        {
+          "end": 23,
+          "start": 17,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 28,
+          "start": 24,
+          "tag": "门槛妹"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fDBW2QVdZM",
+          "end": 68,
+          "expanded_url": "https://x.com/111q_a54867/status/1987570362880815437/photo/1",
+          "media_key": "3_1987570293259517952",
+          "start": 45,
+          "url": "https://t.co/fDBW2QVdZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987570362880815437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#地雷系と繋がりたい  #病み垢 #自撮り界隈 #门槛妹 🤍💕因为爱太过沉重而拒绝理解爱 https://t.co/fDBW2QVdZM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987570293259517952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5VEpq_aQAAoWBq.jpg",
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987570293259517952"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1987570362880815437",
+        "created_at": "2025-11-09T17:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T18:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987570362880815437"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "病み垢"
+            },
+            {
+              "end": 23,
+              "start": 17,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 28,
+              "start": 24,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fDBW2QVdZM",
+              "end": 68,
+              "expanded_url": "https://x.com/111q_a54867/status/1987570362880815437/photo/1",
+              "media_key": "3_1987570293259517952",
+              "start": 45,
+              "url": "https://t.co/fDBW2QVdZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987570362880815437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷系と繋がりたい  #病み垢 #自撮り界隈 #门槛妹 🤍💕因为爱太过沉重而拒绝理解爱 https://t.co/fDBW2QVdZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 1001,
+          "like_count": 2529,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

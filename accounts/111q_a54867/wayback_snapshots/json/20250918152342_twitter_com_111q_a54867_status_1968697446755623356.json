@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968623678398283777"
+      ],
+      "media_source_tweet_id": [
+        "1968623699336249600"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1968697446755623356",
+    "created_at": "2025-09-18T15:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T16:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968697446755623356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1633033604736634880",
+          "start": 3,
+          "username": "Vissare_Remu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9RF0OUq9G5",
+          "end": 63,
+          "expanded_url": "https://x.com/Vissare_Remu/status/1968623699336249600/photo/1",
+          "media_key": "3_1968623678398283777",
+          "start": 40,
+          "url": "https://t.co/9RF0OUq9G5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968697446755623356",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968623699336249600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vissare_Remu: だらしない 意気地ない ホント君は救えない https://t.co/9RF0OUq9G5"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "3回まわってお手からワン",
+        "height": 2048,
+        "media_key": "3_1968623678398283777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1H0zidaQAE0eny.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968623678398283777"
+          ],
+          "media_source_tweet_id": [
+            "1968623699336249600"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1968697446755623356",
+        "created_at": "2025-09-18T15:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T16:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968697446755623356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1633033604736634880",
+              "start": 3,
+              "username": "Vissare_Remu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9RF0OUq9G5",
+              "end": 63,
+              "expanded_url": "https://x.com/Vissare_Remu/status/1968623699336249600/photo/1",
+              "media_key": "3_1968623678398283777",
+              "start": 40,
+              "url": "https://t.co/9RF0OUq9G5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968697446755623356",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968623699336249600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vissare_Remu: だらしない 意気地ない ホント君は救えない https://t.co/9RF0OUq9G5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968623678398283777"
+          ]
+        },
+        "author_id": "1633033604736634880",
+        "conversation_id": "1968623699336249600",
+        "created_at": "2025-09-18T10:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T11:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968623699336249600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9RF0OUq9G5",
+              "end": 45,
+              "expanded_url": "https://x.com/Vissare_Remu/status/1968623699336249600/photo/1",
+              "media_key": "3_1968623678398283777",
+              "start": 22,
+              "url": "https://t.co/9RF0OUq9G5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968623699336249600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 5024,
+          "like_count": 398,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "だらしない 意気地ない ホント君は救えない https://t.co/9RF0OUq9G5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "aaa111qq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967903840730218496/Yqg31dpf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 93,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T09:15:37.000Z",
+        "description": "︎︎⟡🦴死へ誘う呪われた我儘DOLL🦴︎︎⟡ ︎ ︎ ︎  @Vissare_ ︎︎ ︎   ︎︎ ︎ ︎ ︎ ︎ ︎ ︎悪魔的🍽️かわいい  ︎︎︎ ︎ ︎♠️黒色担当 ❤︎ 「絶対服従、右向け右」 💡は白🤍 #ろぜれむ処方箋 ｻﾌﾞ🃏@zokkon_kekkon61",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 110,
+                "tag": "ろぜれむ処方箋"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "Vissare_"
+              },
+              {
+                "end": 140,
+                "start": 124,
+                "username": "zokkon_kekkon61"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/7c3446e3-68f2-…",
+                "end": 23,
+                "expanded_url": "https://lit.link/7c3446e3-68f2-475a-b048-03c515012123",
+                "start": 0,
+                "url": "https://t.co/mM0pxDCy08"
+              }
+            ]
+          }
+        },
+        "id": "1633033604736634880",
+        "location": "私がこの世界のラブコメ枠ヒロイン 兼 姫",
+        "name": "薔薇 れむ (ろぜ れむ)",
+        "pinned_tweet_id": "1967913916228633053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914305961038397440/NlOu2wp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3836,
+          "following_count": 34,
+          "like_count": 11486,
+          "listed_count": 20,
+          "media_count": 249,
+          "tweet_count": 3041
+        },
+        "url": "https://t.co/mM0pxDCy08",
+        "username": "Vissare_Remu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1993729724250726539",
+    "created_at": "2025-11-29T08:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T09:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994681964767617053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1992861405297659904",
+          "start": 0,
+          "username": "APittst54126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994681964767617053",
+    "in_reply_to_user_id": "1992861405297659904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994197853531447712",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@APittst54126 你为啥直接让看特殊cg啊？嘎啦game里不是这样！我应该多跟你聊天，然后提升你的好感度。偶尔给你送送礼物，然后在那个特殊节日时候跟你有特殊互动。最后在某个你内心神秘事件中，向你表白，你同意跟我在一起，然后你给我看你的特殊CG啊。你怎么直接上来就让我看？嘎啦game里根本不是这样！我不接受！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1993729724250726539",
+        "created_at": "2025-11-29T08:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994681964767617053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1992861405297659904",
+              "start": 0,
+              "username": "APittst54126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994681964767617053",
+        "in_reply_to_user_id": "1992861405297659904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994197853531447712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@APittst54126 你为啥直接让看特殊cg啊？嘎啦game里不是这样！我应该多跟你聊天，然后提升你的好感度。偶尔给你送送礼物，然后在那个特殊节日时候跟你有特殊互动。最后在某个你内心神秘事件中，向你表白，你同意跟我在一起，然后你给我看你的特殊CG啊。你怎么直接上来就让我看？嘎啦game里根本不是这样！我不接受！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992861405297659904",
+        "conversation_id": "1993729724250726539",
+        "created_at": "2025-11-28T00:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T01:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994197853531447712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994197853531447712",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993729724250726539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 你为啥直接让看特殊cg啊？嘎啦game里不是这样！我应该多跟你聊天，然后提升你的好感度。偶尔给你送送礼物，然后在那个特殊节日时候跟你有特殊互动。最后在某个你内心神秘事件中，向你表白，你同意跟我在一起，然后你给我看你的特殊CG啊。你怎么直接上来就让我看？嘎啦game里根本不是这样！我不接受！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 1058,
+          "like_count": 3486,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T07:43:11.000Z",
+        "description": "",
+        "id": "1992861405297659904",
+        "name": "Abeld Pittst",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993578157191131136/hISiF0f5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 34,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "APittst54126",
+        "verified": false
+      }
+    ]
+  }
+}

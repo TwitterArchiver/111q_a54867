@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      }
+    ],
+    "conversation_id": "2070383882948825313",
+    "created_at": "2026-06-26T14:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070509719949820260"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "カプコンセール"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "459959328",
+          "start": 0,
+          "username": "capcom_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070509719949820260",
+    "in_reply_to_user_id": "459959328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070383882948825313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@capcom_official #カプコンセール\n逆転裁判シリーズ！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2070383878020513792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLt7Ku4bwAA8MX8.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          }
+        ],
+        "conversation_id": "2070383882948825313",
+        "created_at": "2026-06-26T14:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070509719949820260"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "カプコンセール"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "459959328",
+              "start": 0,
+              "username": "capcom_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070509719949820260",
+        "in_reply_to_user_id": "459959328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070383882948825313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@capcom_official #カプコンセール\n逆転裁判シリーズ！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070383878020513792"
+          ]
+        },
+        "author_id": "459959328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Capcom",
+              "id": "943868322637942784",
+              "name": "Capcom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Capcom",
+              "id": "943868322637942784",
+              "name": "Capcom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          }
+        ],
+        "conversation_id": "2070383882948825313",
+        "created_at": "2026-06-26T05:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070383882948825313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzLOTVZjFd",
+              "end": 134,
+              "expanded_url": "https://x.com/capcom_official/status/2070383882948825313/photo/1",
+              "media_key": "3_2070383878020513792",
+              "start": 111,
+              "url": "https://t.co/GzLOTVZjFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070383882948825313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 116,
+                "tag": "カプコンセール"
+              }
+            ]
+          },
+          "text": "／\n「CAPCOM MID YEAR SALE」\nキャンペーン開催！\n＼\n\nカプコンタイトルのオリジナルグッズセットを、抽選で20名様にプレゼント！🎁\n\n🍀応募方法🍀\n①このアカウントをフォロー\n②このポストをリポスト🔁\nさらに、「#カプコンセール」をつけて今おすすめしたいカプコンのゲームタイトルを投稿すると、当選確率2倍！\n\n⌛締切：7月10日（金）13:00まで‼\n\nぜひご参加ください🎶"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 53134,
+          "like_count": 731,
+          "quote_count": 88,
+          "reply_count": 218,
+          "retweet_count": 1469
+        },
+        "reply_settings": "everyone",
+        "text": "／\n「CAPCOM MID YEAR SALE」\nキャンペーン開催！\n＼\n\nカプコンタイトルのオリジナルグッズセットを、抽選で20名様にプレゼント！🎁\n\n🍀応募方法🍀\n①このアカウントをフォロー\n②このポストをリポスト🔁 https://t.co/GzLOTVZjFd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "你从未感受过你粉碎我灵魂时我的痛楚。\n希望你也能经历你给我的心碎。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 1259,
+          "like_count": 7390,
+          "listed_count": 2,
+          "media_count": 308,
+          "tweet_count": 1593
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-10T07:15:28.000Z",
+        "description": "カプコン公式アカウントです。家庭用をはじめとするゲーム情報を中心に、イベント情報やカプコンの様々なニュースを幅広くお届けします。Xでの個別回答は行っておりません。ご質問やご意見、ご要望はサポートページよりお願いします。\nhttps://t.co/6pMI7eMdlX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "capcom.co.jp/support/index.…",
+                "end": 133,
+                "expanded_url": "https://www.capcom.co.jp/support/index.html",
+                "start": 110,
+                "url": "https://t.co/6pMI7eMdlX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "capcom.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.capcom.co.jp/",
+                "start": 0,
+                "url": "https://t.co/fXYJVNA2me"
+              }
+            ]
+          }
+        },
+        "id": "459959328",
+        "name": "CAPCOM公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1463681236640366592/DuwlBaib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233218,
+          "following_count": 60,
+          "like_count": 51,
+          "listed_count": 1110,
+          "media_count": 2765,
+          "tweet_count": 11968
+        },
+        "url": "https://t.co/fXYJVNA2me",
+        "username": "capcom_official",
+        "verified": true
+      }
+    ]
+  }
+}

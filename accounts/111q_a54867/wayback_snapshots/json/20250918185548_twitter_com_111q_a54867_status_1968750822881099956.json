@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968750813528068096"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1968750822881099956",
+    "created_at": "2025-09-18T18:55:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T19:55:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968750822881099956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C0igamGM4u",
+          "end": 38,
+          "expanded_url": "https://x.com/111q_a54867/status/1968750822881099956/photo/1",
+          "media_key": "3_1968750813528068096",
+          "start": 15,
+          "url": "https://t.co/C0igamGM4u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968750822881099956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨晚48t普瑞藏在盒子里了全 https://t.co/C0igamGM4u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968750813528068096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1JobxuaEAAWV-5.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968750813528068096"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1968750822881099956",
+        "created_at": "2025-09-18T18:55:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T19:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968750822881099956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C0igamGM4u",
+              "end": 38,
+              "expanded_url": "https://x.com/111q_a54867/status/1968750822881099956/photo/1",
+              "media_key": "3_1968750813528068096",
+              "start": 15,
+              "url": "https://t.co/C0igamGM4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968750822881099956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚48t普瑞藏在盒子里了全 https://t.co/C0igamGM4u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967903840730218496/Yqg31dpf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 138,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

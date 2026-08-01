@@ -1,0 +1,535 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1969131900900925486",
+    "created_at": "2025-09-19T20:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T21:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969131900900925486"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "新宿伊勢丹",
+          "probability": 0.4494,
+          "start": 34,
+          "type": "Place"
+        },
+        {
+          "end": 55,
+          "normalized_text": "伊藤潤二先生",
+          "probability": 0.7345,
+          "start": 50,
+          "type": "Person"
+        },
+        {
+          "end": 92,
+          "normalized_text": "JUNJI ITO ART &amp; FASHION GOOODS",
+          "probability": 0.7078,
+          "start": 59,
+          "type": "Other"
+        },
+        {
+          "end": 103,
+          "normalized_text": "伊藤潤二先生",
+          "probability": 0.7298,
+          "start": 98,
+          "type": "Person"
+        },
+        {
+          "end": 141,
+          "normalized_text": "伊藤潤",
+          "probability": 0.9803,
+          "start": 139,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "485122243",
+          "start": 3,
+          "username": "arekim1973"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969131900900925486",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958390819653910830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arekim1973: 発表ーーーー！！！\nなんと！！！\n\n新宿伊勢丹様で開催される\n漫画家伊藤潤二先生の\n「JUNJI ITO ART &amp; FASHION GOOODS」に！\n\n伊藤潤二先生の作品「棺桶」\n扉絵そのものを実寸大の棺桶にするというプロジェクト\n\n伊藤潤二…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1958390080462319616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy2ZZvWa8AAENHx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1958390080458104832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy2ZZvVaoAAHXdT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1958390080483328000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy2ZZvbbgAAhxLy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1958390081284362240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gy2ZZyaaUAA_NZu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1969131900900925486",
+        "created_at": "2025-09-19T20:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T21:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969131900900925486"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "新宿伊勢丹",
+              "probability": 0.4494,
+              "start": 34,
+              "type": "Place"
+            },
+            {
+              "end": 55,
+              "normalized_text": "伊藤潤二先生",
+              "probability": 0.7345,
+              "start": 50,
+              "type": "Person"
+            },
+            {
+              "end": 92,
+              "normalized_text": "JUNJI ITO ART &amp; FASHION GOOODS",
+              "probability": 0.7078,
+              "start": 59,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "伊藤潤二先生",
+              "probability": 0.7298,
+              "start": 98,
+              "type": "Person"
+            },
+            {
+              "end": 141,
+              "normalized_text": "伊藤潤",
+              "probability": 0.9803,
+              "start": 139,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "485122243",
+              "start": 3,
+              "username": "arekim1973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969131900900925486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958390819653910830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arekim1973: 発表ーーーー！！！\nなんと！！！\n\n新宿伊勢丹様で開催される\n漫画家伊藤潤二先生の\n「JUNJI ITO ART &amp; FASHION GOOODS」に！\n\n伊藤潤二先生の作品「棺桶」\n扉絵そのものを実寸大の棺桶にするというプロジェクト\n\n伊藤潤二…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1958390080462319616",
+            "3_1958390080458104832",
+            "3_1958390080483328000",
+            "3_1958390081284362240"
+          ]
+        },
+        "author_id": "485122243",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1958390819653910830",
+        "created_at": "2025-08-21T04:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T05:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958390819653910830"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "新宿伊勢丹",
+              "probability": 0.4319,
+              "start": 18,
+              "type": "Place"
+            },
+            {
+              "end": 39,
+              "normalized_text": "伊藤潤二先生",
+              "probability": 0.7367,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 76,
+              "normalized_text": "JUNJI ITO ART &amp; FASHION GOOODS",
+              "probability": 0.719,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "伊藤潤二先生",
+              "probability": 0.7303,
+              "start": 82,
+              "type": "Person"
+            },
+            {
+              "end": 128,
+              "normalized_text": "伊藤潤二先生",
+              "probability": 0.7199,
+              "start": 123,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbTPduoByh",
+              "end": 173,
+              "expanded_url": "https://x.com/arekim1973/status/1958390819653910830/photo/1",
+              "media_key": "3_1958390080462319616",
+              "start": 150,
+              "url": "https://t.co/hbTPduoByh"
+            },
+            {
+              "display_url": "pic.x.com/hbTPduoByh",
+              "end": 173,
+              "expanded_url": "https://x.com/arekim1973/status/1958390819653910830/photo/1",
+              "media_key": "3_1958390080458104832",
+              "start": 150,
+              "url": "https://t.co/hbTPduoByh"
+            },
+            {
+              "display_url": "pic.x.com/hbTPduoByh",
+              "end": 173,
+              "expanded_url": "https://x.com/arekim1973/status/1958390819653910830/photo/1",
+              "media_key": "3_1958390080483328000",
+              "start": 150,
+              "url": "https://t.co/hbTPduoByh"
+            },
+            {
+              "display_url": "pic.x.com/hbTPduoByh",
+              "end": 173,
+              "expanded_url": "https://x.com/arekim1973/status/1958390819653910830/photo/1",
+              "media_key": "3_1958390081284362240",
+              "start": 150,
+              "url": "https://t.co/hbTPduoByh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958390819653910830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 68659,
+          "like_count": 1192,
+          "quote_count": 32,
+          "reply_count": 1,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "発表ーーーー！！！\nなんと！！！\n\n新宿伊勢丹様で開催される\n漫画家伊藤潤二先生の\n「JUNJI ITO ART &amp; FASHION GOOODS」に！\n\n伊藤潤二先生の作品「棺桶」\n扉絵そのものを実寸大の棺桶にするというプロジェクト\n\n伊藤潤二先生のファンには絶対絶対見に来てほしい・・・ https://t.co/hbTPduoByh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969121154893037568/gGp6K-B6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 205,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-06T21:17:29.000Z",
+        "description": "葬儀ブランドGRAVETOKYOデザイナー。「人生の最期にこそ夢と希望と喜びを」をコンセプトに、故人の人生を表現する棺をオーダーメイドで作ってます。希死念慮を解消・昇華するための入棺体験WSも開催中。今すぐこの世から消えたいという人に、まずは引き戻せる死の体験をしてみてほしいです。WSは終活スナックめめんともりにて。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mikera-grave.tokyo",
+                "end": 23,
+                "expanded_url": "https://mikera-grave.tokyo/",
+                "start": 0,
+                "url": "https://t.co/oWiTEF7RgE"
+              }
+            ]
+          }
+        },
+        "id": "485122243",
+        "location": "TOKYO JAPAN",
+        "name": "棺桶ブランドGRAVETOKYO🄬10/1-10/14 伊勢丹新宿店で伊藤潤二先生コラボ棺発売！",
+        "pinned_tweet_id": "1958390819653910830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791395701123162112/TOPF6H5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1767,
+          "following_count": 3545,
+          "like_count": 40792,
+          "listed_count": 17,
+          "media_count": 589,
+          "tweet_count": 9705
+        },
+        "url": "https://t.co/oWiTEF7RgE",
+        "username": "arekim1973",
+        "verified": false
+      }
+    ]
+  }
+}

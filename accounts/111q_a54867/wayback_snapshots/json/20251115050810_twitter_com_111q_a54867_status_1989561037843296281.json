@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1989326521987645930",
+    "created_at": "2025-11-15T05:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T06:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989561037843296281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "736473729899761664",
+          "start": 0,
+          "username": "Suap98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989561037843296281",
+    "in_reply_to_user_id": "736473729899761664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989497399438696713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suap98 我不行了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1989326521987645930",
+        "created_at": "2025-11-15T05:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T06:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989561037843296281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "736473729899761664",
+              "start": 0,
+              "username": "Suap98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989561037843296281",
+        "in_reply_to_user_id": "736473729899761664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989497399438696713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suap98 我不行了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "736473729899761664",
+        "conversation_id": "1989326521987645930",
+        "created_at": "2025-11-15T00:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T01:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989497399438696713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989497399438696713",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989326521987645930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 杭州没啥好吃的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 1004,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-28T08:26:35.000Z",
+        "description": "只是一名摄影师",
+        "id": "736473729899761664",
+        "name": "绯色火焰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1174857195793477633/V4aa7KOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 25,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 36
+        },
+        "username": "Suap98",
+        "verified": false
+      }
+    ]
+  }
+}

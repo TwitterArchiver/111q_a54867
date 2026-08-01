@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1987408175117836783",
+    "created_at": "2025-11-09T06:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T07:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987408175117836783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1658664482632253441",
+          "start": 3,
+          "username": "jujube8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987408175117836783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987143944019620187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jujube8964: 我们一起创建一个没有od，没有吸毒，没有割手，没有精神病，没有压力，没有痛苦，每个人都能得到爱，充满希望的世界好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1987408175117836783",
+        "created_at": "2025-11-09T06:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T07:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987408175117836783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1658664482632253441",
+              "start": 3,
+              "username": "jujube8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987408175117836783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987143944019620187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jujube8964: 我们一起创建一个没有od，没有吸毒，没有割手，没有精神病，没有压力，没有痛苦，每个人都能得到爱，充满希望的世界好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1658664482632253441",
+        "conversation_id": "1987143944019620187",
+        "created_at": "2025-11-08T13:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T14:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987143944019620187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987143944019620187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10027,
+          "like_count": 215,
+          "quote_count": 11,
+          "reply_count": 30,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "我们一起创建一个没有od，没有吸毒，没有割手，没有精神病，没有压力，没有痛苦，每个人都能得到爱，充满希望的世界好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 996,
+          "like_count": 2504,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T02:43:36.000Z",
+        "description": "深爱着我的爱人，直到永远             \n                我个人阳痿/风湿/前列腺炎/腰间盘突出        回fo私信立马回喵",
+        "id": "1658664482632253441",
+        "location": "爱人的怀抱",
+        "name": "冬枣",
+        "pinned_tweet_id": "1987143944019620187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984312223637151744/2QZKQVoq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 688,
+          "like_count": 2337,
+          "listed_count": 3,
+          "media_count": 192,
+          "tweet_count": 4266
+        },
+        "username": "jujube8964",
+        "verified": false
+      }
+    ]
+  }
+}

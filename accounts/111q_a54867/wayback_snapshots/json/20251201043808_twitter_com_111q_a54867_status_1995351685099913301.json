@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1994855089845277076",
+    "created_at": "2025-12-01T04:38:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T05:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995351685099913301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1000763746430500865",
+          "start": 0,
+          "username": "manoj901858808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995351685099913301",
+    "in_reply_to_user_id": "1000763746430500865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994855089845277076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manoj901858808 妈妈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17181,
+        "height": 1280,
+        "media_key": "13_1994855018898624523",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994855018898624523/img/3QuMrRN6SGtABKEg.jpg",
+        "public_metrics": {
+          "view_count": 1955
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994855018898624523/vid/avc1/320x634/9b1pLKjSAbYSESWl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994855018898624523/vid/avc1/480x950/Kliqzk9zDYQVQtAO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994855018898624523/vid/avc1/646x1280/v9eg6MpGk_xURswq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994855018898624523/pl/eplEjnV92hDWqF7x.m3u8?v=cfc"
+          }
+        ],
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1994855089845277076",
+        "created_at": "2025-12-01T04:38:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T05:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995351685099913301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1000763746430500865",
+              "start": 0,
+              "username": "manoj901858808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995351685099913301",
+        "in_reply_to_user_id": "1000763746430500865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994855089845277076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manoj901858808 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994855018898624523"
+          ]
+        },
+        "author_id": "1000763746430500865",
+        "conversation_id": "1994855089845277076",
+        "created_at": "2025-11-29T19:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T20:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994855089845277076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vZ5TblPDO",
+              "end": 28,
+              "expanded_url": "https://x.com/manoj901858808/status/1994855089845277076/video/1",
+              "media_key": "13_1994855018898624523",
+              "start": 5,
+              "url": "https://t.co/1vZ5TblPDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994855089845277076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6812,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小缘小缘 https://t.co/1vZ5TblPDO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 1056,
+          "like_count": 3504,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-27T15:40:45.000Z",
+        "description": "♀/intp/非专偶泛性恋/懵懂而且可怜兮兮",
+        "id": "1000763746430500865",
+        "location": "🚪200/520",
+        "name": "我本还泪",
+        "pinned_tweet_id": "1971506837276213557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994017808263598084/VXqPcnr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40089,
+          "following_count": 407,
+          "like_count": 2369,
+          "listed_count": 83,
+          "media_count": 266,
+          "tweet_count": 1616
+        },
+        "username": "manoj901858808",
+        "verified": false
+      }
+    ]
+  }
+}

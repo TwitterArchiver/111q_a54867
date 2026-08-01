@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982464454601117696"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1982464462000201886",
+    "created_at": "2025-10-26T15:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T16:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982464462000201886"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "病み垢"
+        },
+        {
+          "end": 15,
+          "start": 5,
+          "tag": "地雷系と繋がりたい"
+        },
+        {
+          "end": 25,
+          "start": 16,
+          "tag": "jiraikei"
+        },
+        {
+          "end": 30,
+          "start": 26,
+          "tag": "门槛妹"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q0xkyBv1G2",
+          "end": 57,
+          "expanded_url": "https://x.com/111q_a54867/status/1982464462000201886/photo/1",
+          "media_key": "3_1982464454601117696",
+          "start": 34,
+          "url": "https://t.co/q0xkyBv1G2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982464462000201886",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#病み垢 #地雷系と繋がりたい #jiraikei #门槛妹 片目 https://t.co/q0xkyBv1G2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1982464454601117696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Mg6vxWkAALBU6.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982464454601117696"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1982464462000201886",
+        "created_at": "2025-10-26T15:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T16:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982464462000201886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "病み垢"
+            },
+            {
+              "end": 15,
+              "start": 5,
+              "tag": "地雷系と繋がりたい"
+            },
+            {
+              "end": 25,
+              "start": 16,
+              "tag": "jiraikei"
+            },
+            {
+              "end": 30,
+              "start": 26,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0xkyBv1G2",
+              "end": 57,
+              "expanded_url": "https://x.com/111q_a54867/status/1982464462000201886/photo/1",
+              "media_key": "3_1982464454601117696",
+              "start": 34,
+              "url": "https://t.co/q0xkyBv1G2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982464462000201886",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#病み垢 #地雷系と繋がりたい #jiraikei #门槛妹 片目 https://t.co/q0xkyBv1G2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 915,
+          "like_count": 1727,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 232
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

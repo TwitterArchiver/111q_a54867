@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1990315146833698819",
+    "created_at": "2025-11-17T10:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T11:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990369866214420764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1097505177383329793",
+          "start": 0,
+          "username": "Emptiness_son"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990369866214420764",
+    "in_reply_to_user_id": "1097505177383329793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990366546540322962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emptiness_son 我也有这个啊啊当天也抽🍃烟了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990366543667208193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58z03gbIAEnOKX.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1990315146833698819",
+        "created_at": "2025-11-17T10:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990369866214420764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1097505177383329793",
+              "start": 0,
+              "username": "Emptiness_son"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990369866214420764",
+        "in_reply_to_user_id": "1097505177383329793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990366546540322962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emptiness_son 我也有这个啊啊当天也抽🍃烟了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990366543667208193"
+          ]
+        },
+        "author_id": "1097505177383329793",
+        "conversation_id": "1990315146833698819",
+        "created_at": "2025-11-17T10:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990366546540322962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iAFGKV2XGj",
+              "end": 48,
+              "expanded_url": "https://x.com/Emptiness_son/status/1990366546540322962/photo/1",
+              "media_key": "3_1990366543667208193",
+              "start": 25,
+              "url": "https://t.co/iAFGKV2XGj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990366546540322962",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990353762851123482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 原來如此🤣\n我只有這個 https://t.co/iAFGKV2XGj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 1019,
+          "like_count": 2750,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-18T14:36:39.000Z",
+        "description": "",
+        "id": "1097505177383329793",
+        "location": "Hong Kong",
+        "name": "空虛公子",
+        "pinned_tweet_id": "1640804985180151809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697863583856775168/DTLHBqou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 32,
+          "like_count": 93,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 608
+        },
+        "username": "Emptiness_son",
+        "verified": false
+      }
+    ]
+  }
+}

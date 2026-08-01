@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2038315486744911974",
+    "created_at": "2026-03-29T18:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038318047388418286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2026356713553887232",
+          "start": 0,
+          "username": "nanaserezo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038318047388418286",
+    "in_reply_to_user_id": "2026356713553887232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038315486744911974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanaserezo2 就爱地雷女，就爱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15000,
+        "height": 1024,
+        "media_key": "13_2038315421410164736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038315421410164736/img/I4Kn5AgO2_HEycPc.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038315421410164736/vid/avc1/320x568/HOTqT_lvxcP6iB2r.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038315421410164736/vid/avc1/480x852/_3DX0WdioL64uyIq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038315421410164736/vid/avc1/576x1024/-rcYk4tGncFFLCRf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038315421410164736/pl/QS2bgixee9H6SpQh.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2038315486744911974",
+        "created_at": "2026-03-29T18:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038318047388418286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2026356713553887232",
+              "start": 0,
+              "username": "nanaserezo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038318047388418286",
+        "in_reply_to_user_id": "2026356713553887232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038315486744911974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanaserezo2 就爱地雷女，就爱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038315421410164736"
+          ]
+        },
+        "author_id": "2026356713553887232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2038315486744911974",
+        "created_at": "2026-03-29T18:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038315486744911974"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "地雷女"
+            },
+            {
+              "end": 9,
+              "start": 5,
+              "tag": "门槛妹"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lODXjCrVNe",
+              "end": 159,
+              "expanded_url": "https://x.com/nanaserezo2/status/2038315486744911974/video/1",
+              "media_key": "13_2038315421410164736",
+              "start": 136,
+              "url": "https://t.co/lODXjCrVNe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038315486744911974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#地雷女 #门槛妹 就爱地雷女，她半夜犯病砸东西我跟着摔，泡面袋堆成山我们当城堡住，没钱买药就互相抱着在阳台吹冷风，她说相思我立马翻出攒了三个月的安眠药。她爸要断绝关系我教她偷家里wifi密码，出租屋断电我们用手机闪光灯当星空，她割手的血染红卫生纸，我说这比婚纱照还好看 https://t.co/lODXjCrVNe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 1192,
+          "like_count": 5996,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-24T18:02:32.000Z",
+        "description": "我是灵草！过门请直接甩口令红包/赞赏码！感谢过门 ꒦ິ^꒦ິ 09 ENTP 转生号^ω^线下价格和🚪置顶都有写哦！少女s｜地雷系/vintage/kidcore/亚文化 我o我割我吸。我是精神病休学女孩求投喂 本宝宝没钱活着了TT非常贫穷的 所以下海了求过门呀TT可验证门无上限给的越多我越爱你！！！",
+        "id": "2026356713553887232",
+        "location": "🚪88/188/258/520/1314坐标10r可验证",
+        "name": "小灵草(转生互fo版)",
+        "pinned_tweet_id": "2026398577149489618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026559477085085697/44yRU6sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 157,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 180
+        },
+        "username": "nanaserezo2",
+        "verified": false
+      }
+    ]
+  }
+}

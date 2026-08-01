@@ -1,0 +1,608 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975349126779805696"
+      ],
+      "media_source_tweet_id": [
+        "1975349566246658545"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1275559202270769152",
+          "name": "Ace Attorney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311309260597329921",
+          "name": "Visual novels"
+        }
+      }
+    ],
+    "conversation_id": "1976289347210182950",
+    "created_at": "2025-10-09T14:11:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T15:11:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976289347210182950"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 93,
+          "normalized_text": "aceattober25",
+          "probability": 0.753,
+          "start": 82,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 81,
+          "tag": "aceattober25"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1137778696196988928",
+          "start": 3,
+          "username": "_seagiri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xESmVAwxkP",
+          "end": 118,
+          "expanded_url": "https://x.com/_seagiri/status/1975349566246658545/photo/1",
+          "media_key": "3_1975349126779805696",
+          "start": 95,
+          "url": "https://t.co/xESmVAwxkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976289347210182950",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2113
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975349566246658545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_seagiri: [ace attorney]\nday 6. spirit channeling. \"why can't i reach you?\"\n\n#aceattober25 https://t.co/xESmVAwxkP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_1975349126779805696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2nZkKEWoAAgVgV.jpg",
+        "width": 2416
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975349126779805696"
+          ],
+          "media_source_tweet_id": [
+            "1975349566246658545"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          }
+        ],
+        "conversation_id": "1976289347210182950",
+        "created_at": "2025-10-09T14:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T15:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976289347210182950"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 93,
+              "normalized_text": "aceattober25",
+              "probability": 0.753,
+              "start": 82,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 81,
+              "tag": "aceattober25"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1137778696196988928",
+              "start": 3,
+              "username": "_seagiri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xESmVAwxkP",
+              "end": 118,
+              "expanded_url": "https://x.com/_seagiri/status/1975349566246658545/photo/1",
+              "media_key": "3_1975349126779805696",
+              "start": 95,
+              "url": "https://t.co/xESmVAwxkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976289347210182950",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2113
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975349566246658545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_seagiri: [ace attorney]\nday 6. spirit channeling. \"why can't i reach you?\"\n\n#aceattober25 https://t.co/xESmVAwxkP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975349126779805696"
+          ]
+        },
+        "author_id": "1137778696196988928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1275559202270769152",
+              "name": "Ace Attorney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          }
+        ],
+        "conversation_id": "1975349566246658545",
+        "created_at": "2025-10-06T23:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T00:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975349566246658545"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 79,
+              "normalized_text": "aceattober25",
+              "probability": 0.8985,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 67,
+              "tag": "aceattober25"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xESmVAwxkP",
+              "end": 104,
+              "expanded_url": "https://x.com/_seagiri/status/1975349566246658545/photo/1",
+              "media_key": "3_1975349126779805696",
+              "start": 81,
+              "url": "https://t.co/xESmVAwxkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975349566246658545",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 784,
+          "impression_count": 224942,
+          "like_count": 9596,
+          "quote_count": 28,
+          "reply_count": 29,
+          "retweet_count": 2113
+        },
+        "reply_settings": "everyone",
+        "text": "[ace attorney]\nday 6. spirit channeling. \"why can't i reach you?\"\n\n#aceattober25 https://t.co/xESmVAwxkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 705,
+          "like_count": 1144,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 142
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-09T17:49:14.000Z",
+        "description": "| 𝙻𝚎𝚘.° « 23 • Animator » | me gusta chichi. me gusta chacha\n🌻 open for work. seagiri.contact@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "decolonizepalestine.com",
+                "end": 23,
+                "expanded_url": "https://decolonizepalestine.com/",
+                "start": 0,
+                "url": "https://t.co/Y0ITH4dJQ9"
+              }
+            ]
+          }
+        },
+        "id": "1137778696196988928",
+        "location": "🏳️‍⚧️ • 🇲🇽 • he/it",
+        "name": "real lee ⋆˙ 🇲🇽🍉",
+        "pinned_tweet_id": "1952860573336539473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973534582382178304/jYZ7AASO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24906,
+          "following_count": 1480,
+          "like_count": 4808,
+          "listed_count": 85,
+          "media_count": 972,
+          "tweet_count": 16296
+        },
+        "url": "https://t.co/Y0ITH4dJQ9",
+        "username": "_seagiri",
+        "verified": false
+      }
+    ]
+  }
+}

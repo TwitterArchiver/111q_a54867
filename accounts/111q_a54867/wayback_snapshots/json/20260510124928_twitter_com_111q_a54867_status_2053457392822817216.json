@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2053457392822817216",
+    "created_at": "2026-05-10T12:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053457392822817216"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2053457392822817216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我的云南家乡 好久以前第一批来大理的洋人是一群嬉皮士。来种大麻的，他们发现这里山好水好产量好，越来越多的洋人也来到这里了，所以古城里有条洋人街，以前大理人也经常吃麻子，但不知道叶子就是大麻，路边都有麻子树。但是国家把叶子改良了，后面就很少有外国游客了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2053457392822817216",
+        "created_at": "2026-05-10T12:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053457392822817216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053457392822817216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我的云南家乡 好久以前第一批来大理的洋人是一群嬉皮士。来种大麻的，他们发现这里山好水好产量好，越来越多的洋人也来到这里了，所以古城里有条洋人街，以前大理人也经常吃麻子，但不知道叶子就是大麻，路边都有麻子树。但是国家把叶子改良了，后面就很少有外国游客了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "你从未感受过你粉碎我灵魂时我的痛楚。\n希望你也能经历你给我的心碎。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 1296,
+          "like_count": 7059,
+          "listed_count": 2,
+          "media_count": 273,
+          "tweet_count": 1447
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

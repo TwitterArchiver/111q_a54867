@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1996868746825363617",
+    "created_at": "2025-12-05T11:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T12:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996898892940824586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1665975957906157570",
+          "start": 0,
+          "username": "en07y3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996898892940824586",
+    "in_reply_to_user_id": "1665975957906157570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996892801494323634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@en07y3 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1996868746825363617",
+        "created_at": "2025-12-05T11:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T12:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996898892940824586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1665975957906157570",
+              "start": 0,
+              "username": "en07y3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996898892940824586",
+        "in_reply_to_user_id": "1665975957906157570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996892801494323634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@en07y3 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1665975957906157570",
+        "conversation_id": "1996868746825363617",
+        "created_at": "2025-12-05T10:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996892801494323634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996892801494323634",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996868746825363617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 1052,
+          "like_count": 3701,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T06:56:50.000Z",
+        "description": "日记本｜断片大王｜powerlifting SBD500+｜iiii/i｜成都",
+        "id": "1665975957906157570",
+        "location": "STAY WITH ME ",
+        "name": "EE",
+        "pinned_tweet_id": "1827040667941662929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994411632139866112/I-REBjat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 579,
+          "like_count": 9041,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1877
+        },
+        "username": "en07y3",
+        "verified": false
+      }
+    ]
+  }
+}

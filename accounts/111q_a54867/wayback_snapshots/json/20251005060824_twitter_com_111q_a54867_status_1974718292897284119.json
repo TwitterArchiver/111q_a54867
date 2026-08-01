@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974718286882553856",
+        "3_1974718286891016192"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1974718292897284119",
+    "created_at": "2025-10-05T06:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T07:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974718292897284119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/X3nqCQ7i1U",
+          "end": 27,
+          "expanded_url": "https://x.com/111q_a54867/status/1974718292897284119/photo/1",
+          "media_key": "3_1974718286882553856",
+          "start": 4,
+          "url": "https://t.co/X3nqCQ7i1U"
+        },
+        {
+          "display_url": "pic.x.com/X3nqCQ7i1U",
+          "end": 27,
+          "expanded_url": "https://x.com/111q_a54867/status/1974718292897284119/photo/1",
+          "media_key": "3_1974718286891016192",
+          "start": 4,
+          "url": "https://t.co/X3nqCQ7i1U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974718292897284119",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好好好 https://t.co/X3nqCQ7i1U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974718286882553856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2eb0cUaQAAzoVQ.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974718286891016192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2eb0cWbYAAryzI.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974718286882553856",
+            "3_1974718286891016192"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1974718292897284119",
+        "created_at": "2025-10-05T06:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974718292897284119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X3nqCQ7i1U",
+              "end": 27,
+              "expanded_url": "https://x.com/111q_a54867/status/1974718292897284119/photo/1",
+              "media_key": "3_1974718286882553856",
+              "start": 4,
+              "url": "https://t.co/X3nqCQ7i1U"
+            },
+            {
+              "display_url": "pic.x.com/X3nqCQ7i1U",
+              "end": 27,
+              "expanded_url": "https://x.com/111q_a54867/status/1974718292897284119/photo/1",
+              "media_key": "3_1974718286891016192",
+              "start": 4,
+              "url": "https://t.co/X3nqCQ7i1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974718292897284119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好好 https://t.co/X3nqCQ7i1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 641,
+          "like_count": 1024,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 117
+        },
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

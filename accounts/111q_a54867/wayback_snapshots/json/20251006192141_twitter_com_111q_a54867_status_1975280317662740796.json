@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1975108124634996839",
+    "created_at": "2025-10-06T19:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T20:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975280317662740796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777664743723208704",
+          "start": 0,
+          "username": "iam_aMirror"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975280317662740796",
+    "in_reply_to_user_id": "1777664743723208704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975108124634996839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iam_aMirror 贱死了他，别人的身材关他啥事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1975108113687805952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2j-XWVagAAnOO0.jpg",
+        "width": 750
+      },
+      {
+        "height": 352,
+        "media_key": "3_1975108113641725952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2j-XWKbYAAtD4G.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1975108124634996839",
+        "created_at": "2025-10-06T19:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T20:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975280317662740796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777664743723208704",
+              "start": 0,
+              "username": "iam_aMirror"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975280317662740796",
+        "in_reply_to_user_id": "1777664743723208704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975108124634996839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iam_aMirror 贱死了他，别人的身材关他啥事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975108113687805952",
+            "3_1975108113641725952"
+          ]
+        },
+        "author_id": "1777664743723208704",
+        "conversation_id": "1975108124634996839",
+        "created_at": "2025-10-06T07:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T08:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975108124634996839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2h1J3urESl",
+              "end": 123,
+              "expanded_url": "https://x.com/iam_aMirror/status/1975108124634996839/photo/1",
+              "media_key": "3_1975108113687805952",
+              "start": 100,
+              "url": "https://t.co/2h1J3urESl"
+            },
+            {
+              "display_url": "pic.x.com/2h1J3urESl",
+              "end": 123,
+              "expanded_url": "https://x.com/iam_aMirror/status/1975108124634996839/photo/1",
+              "media_key": "3_1975108113641725952",
+              "start": 100,
+              "url": "https://t.co/2h1J3urESl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975108124634996839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 165085,
+          "like_count": 752,
+          "quote_count": 4,
+          "reply_count": 96,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在网上贬低他人之后美美隐身让别人来骂我很好玩对吗，在我明确表示被冒犯的情况下不回复也不删除帖子很好玩是吗？\n引导他人贬低我很好玩对吗？\n如果你是个正常人，我希望你能给我道歉。\n\n不回就不回吧，怂货。 https://t.co/2h1J3urESl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 682,
+          "like_count": 1109,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 127
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T11:48:03.000Z",
+        "description": "1i. 恋爱日常在小号（没有色情内容）：@MyMirror_Lover",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "MyMirror_Lover"
+              }
+            ]
+          }
+        },
+        "id": "1777664743723208704",
+        "name": "ian",
+        "pinned_tweet_id": "1974148982663491687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956013930117259265/B6WI0m3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15678,
+          "following_count": 275,
+          "like_count": 1977,
+          "listed_count": 40,
+          "media_count": 255,
+          "tweet_count": 2224
+        },
+        "username": "iam_aMirror",
+        "verified": false
+      }
+    ]
+  }
+}

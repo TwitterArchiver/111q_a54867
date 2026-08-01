@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2014861460049166340"
+      ],
+      "media_source_tweet_id": [
+        "2025897435504198016"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "2027071108164534323",
+    "created_at": "2026-02-26T17:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T18:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027071108164534323"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 29,
+          "tag": "cover"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1270686711354257410",
+          "start": 3,
+          "username": "nyamura_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6O6eVGxT3G",
+          "end": 75,
+          "expanded_url": "https://x.com/nyamura_/status/2025897435504198016/video/1",
+          "media_key": "13_2014861460049166340",
+          "start": 52,
+          "url": "https://t.co/6O6eVGxT3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027071108164534323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 196
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025897435504198016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyamura_: ヤミタイガール / れるりり #cover\n10万再生ありがとう〜˖˚˳⌖ https://t.co/6O6eVGxT3G"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36033,
+        "height": 540,
+        "media_key": "13_2014861460049166340",
+        "preview_image_url": "https://pbs.twimg.com/media/G_Y57iMbAAIB-D_.jpg",
+        "public_metrics": {
+          "view_count": 56756
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014861460049166340/vid/avc1/1280x720/mXZiIlb4NZDJ2iVY.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014861460049166340/vid/avc1/1920x1080/tcUHbdx-sdef3nXG.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014861460049166340/vid/avc1/640x360/dRQsw7UfVP520Rz6.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014861460049166340/vid/avc1/480x270/ma8rVzY5C0v_HIjY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014861460049166340/pl/QFGX7TYs_hduGdRI.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014861460049166340"
+          ],
+          "media_source_tweet_id": [
+            "2025897435504198016"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2027071108164534323",
+        "created_at": "2026-02-26T17:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T18:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027071108164534323"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "cover"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1270686711354257410",
+              "start": 3,
+              "username": "nyamura_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6O6eVGxT3G",
+              "end": 75,
+              "expanded_url": "https://x.com/nyamura_/status/2025897435504198016/video/1",
+              "media_key": "13_2014861460049166340",
+              "start": 52,
+              "url": "https://t.co/6O6eVGxT3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027071108164534323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 196
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025897435504198016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyamura_: ヤミタイガール / れるりり #cover\n10万再生ありがとう〜˖˚˳⌖ https://t.co/6O6eVGxT3G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014861460049166340"
+          ]
+        },
+        "author_id": "1270686711354257410",
+        "conversation_id": "2025897435504198016",
+        "created_at": "2026-02-23T11:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025897435504198016"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "cover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6O6eVGxT3G",
+              "end": 61,
+              "expanded_url": "https://x.com/nyamura_/status/2025897435504198016/video/1",
+              "media_key": "13_2014861460049166340",
+              "start": 38,
+              "url": "https://t.co/6O6eVGxT3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025897435504198016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 37684,
+          "like_count": 1503,
+          "quote_count": 10,
+          "reply_count": 10,
+          "retweet_count": 196
+        },
+        "reply_settings": "everyone",
+        "text": "ヤミタイガール / れるりり #cover\n10万再生ありがとう〜˖˚˳⌖ https://t.co/6O6eVGxT3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "od日记",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 1174,
+          "like_count": 5529,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 870
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-10T11:58:23.000Z",
+        "description": "⟡ NyxmNix CEO ⟡ 作詞作曲 ⟡ 楽曲提供 ⟡ 歌唱 ⟡ info @nyamura_info  ⟡ fa▶︎ #nyamurart",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 62,
+                "tag": "nyamurart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "nyamura_info"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nyamuu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nyamuu",
+                "start": 0,
+                "url": "https://t.co/kRg2hnBslj"
+              }
+            ]
+          }
+        },
+        "id": "1270686711354257410",
+        "location": "▶︎ お仕事・ライブ出演ご依頼はメールにて",
+        "name": "nyamura",
+        "pinned_tweet_id": "1994723012055056728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984101679747493894/O9KI8iDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33062,
+          "following_count": 266,
+          "like_count": 8118,
+          "listed_count": 73,
+          "media_count": 370,
+          "tweet_count": 2804
+        },
+        "url": "https://t.co/kRg2hnBslj",
+        "username": "nyamura_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1990110297382920272",
+    "created_at": "2025-11-17T20:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T21:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990518546611479032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1705775781899808768",
+          "start": 0,
+          "username": "May5iiiii"
+        },
+        {
+          "end": 26,
+          "id": "1489291543416799232",
+          "start": 11,
+          "username": "humaoyanbaozi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990518546611479032",
+    "in_reply_to_user_id": "1705775781899808768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990444202434724277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@May5iiiii @humaoyanbaozi1 洛神花茶味的很耐抽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1990110297382920272",
+        "created_at": "2025-11-17T20:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T21:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990518546611479032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1705775781899808768",
+              "start": 0,
+              "username": "May5iiiii"
+            },
+            {
+              "end": 26,
+              "id": "1489291543416799232",
+              "start": 11,
+              "username": "humaoyanbaozi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990518546611479032",
+        "in_reply_to_user_id": "1705775781899808768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990444202434724277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@May5iiiii @humaoyanbaozi1 洛神花茶味的很耐抽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705775781899808768",
+        "conversation_id": "1990110297382920272",
+        "created_at": "2025-11-17T15:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990444202434724277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            },
+            {
+              "end": 28,
+              "id": "1489291543416799232",
+              "start": 13,
+              "username": "humaoyanbaozi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990444202434724277",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990308625433436557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 @humaoyanbaozi1 ！宝宝这是什么味的推荐吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1022,
+          "like_count": 2764,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T02:47:11.000Z",
+        "description": "心在波中 守在你身旁",
+        "id": "1705775781899808768",
+        "location": "你我之间 不过露水情缘",
+        "name": "妈妈疼我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976784210984943617/FiVuXpk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3244,
+          "following_count": 562,
+          "like_count": 3286,
+          "listed_count": 6,
+          "media_count": 721,
+          "tweet_count": 3379
+        },
+        "username": "May5iiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-03T17:36:29.000Z",
+        "description": "在這個帳號 我是台灣人 wwwww",
+        "id": "1489291543416799232",
+        "name": "gamana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489493240386834434/9W3A83mv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 223,
+          "like_count": 5898,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 108
+        },
+        "username": "humaoyanbaozi1",
+        "verified": false
+      }
+    ]
+  }
+}

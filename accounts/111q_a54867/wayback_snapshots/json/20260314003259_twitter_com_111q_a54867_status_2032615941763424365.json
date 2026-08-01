@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2032493739541925915",
+    "created_at": "2026-03-14T00:32:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T01:32:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032615941763424365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1910265162856366080",
+          "start": 0,
+          "username": "yiwa76862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032615941763424365",
+    "in_reply_to_user_id": "1910265162856366080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032607347315704034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yiwa76862 谢谢你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2032493739541925915",
+        "created_at": "2026-03-14T00:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T01:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032615941763424365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1910265162856366080",
+              "start": 0,
+              "username": "yiwa76862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032615941763424365",
+        "in_reply_to_user_id": "1910265162856366080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032607347315704034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yiwa76862 谢谢你！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910265162856366080",
+        "conversation_id": "2032493739541925915",
+        "created_at": "2026-03-13T23:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T00:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032607347315704034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ],
+          "urls": [
+            {
+              "description": "官方油管官方的五专歌词Mv字幕制作者（中文（中国））：虹之咲字幕组, 视频播放量 43215、弹幕量 11、点赞数 1814、投硬币枚数 328、收藏人数 1276、转发人数 257, 视频作者 虹之咲字幕组, 作者简介 lovelive!虹之咲和LLAS相关的汉化和情报。主页nijigaku.club，qq交流群617362533，相关视频：【官方歌词MV】樱坂雫「小悪魔❤LOVE」，【官方歌词MV】宫下爱「Request for U」，【官方歌词MV】三船栞子「咬福論」（咬福论），【中字】Cooking with Love-近江彼方（CV.鬼头明里）/虹咲6th 爱知Day1，【官方歌词MV】上原步梦 「Walking Dream」，【官方歌词MV】中须霞 「背伸びしたって」（哪怕踮起脚尖），【官方歌词MV】艾玛·维尔德「恋するSunflower」（恋爱的向日葵），【中字·BD】Daydream Mermaid-近江彼方-剧场版『LoveLive！虹咲学园学园偶像同好会 完结篇 第1章』插入曲，【双语】Blessing - 莲之空翻唱，【歌词MV】恋爱幸运曲奇(恋するフォーチュンクッキー) - 人生不易部！CHAKI!",
+              "display_url": "b23.tv/1riDPFL",
+              "end": 50,
+              "expanded_url": "https://b23.tv/1riDPFL",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2032607358699057155/UR6-07sW?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2032607358699057155/UR6-07sW?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "【官方歌词MV】近江彼方Cooking with Love_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1UC4y1U7Gx/?buvid=XX8C5E48E2E798BF6CF2C2A840D5B053BD840&from_spmid=search.search-result.0.0&is_story_h5=false&mid=gpZldhjmBnnBiIIYIvPO7w%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=7e25100a-2500-4ec6-bc7a-e4eb70da0700&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1773446309&unique_k=1riDPFL&up_id=238547115",
+              "url": "https://t.co/nzC0fg4gy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032607347315704034",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032493739541925915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 听听歌吧，你的心情会好很多🥺https://t.co/nzC0fg4gy6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "od日记",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 1177,
+          "like_count": 5671,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T09:35:02.000Z",
+        "description": "fgo望月千代女单推人，来源图片皆为约稿",
+        "id": "1910265162856366080",
+        "location": "镜花学院",
+        "name": "聽到腐爛金魚的呻吟聲",
+        "pinned_tweet_id": "1957672918348923321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966078100606791680/e8JSCzcS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 408,
+          "like_count": 7133,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 2519
+        },
+        "username": "yiwa76862",
+        "verified": false
+      }
+    ]
+  }
+}

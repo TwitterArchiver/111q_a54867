@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1978574766807150853",
+    "created_at": "2025-10-15T21:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T22:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978574766807150853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898675806966341632",
+          "start": 3,
+          "username": "Lillcuainil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978574766807150853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978100164414865734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lillcuainil: 最近get 到一个新词：付出型人格\n自己舍不得买的东西 可以毫不犹豫的买来送给别人 看着别人开心的样子 比自己收到还开心十倍 不是因为钱多 而且我恰恰非常重视这段感情 喜欢你们收到礼物时的惊喜感 因为我爱人的方式就是想让人开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1978574766807150853",
+        "created_at": "2025-10-15T21:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T22:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978574766807150853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898675806966341632",
+              "start": 3,
+              "username": "Lillcuainil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978574766807150853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978100164414865734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lillcuainil: 最近get 到一个新词：付出型人格\n自己舍不得买的东西 可以毫不犹豫的买来送给别人 看着别人开心的样子 比自己收到还开心十倍 不是因为钱多 而且我恰恰非常重视这段感情 喜欢你们收到礼物时的惊喜感 因为我爱人的方式就是想让人开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898675806966341632",
+        "conversation_id": "1978100164414865734",
+        "created_at": "2025-10-14T14:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978100164414865734"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978100164414865734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 75072,
+          "like_count": 1162,
+          "quote_count": 39,
+          "reply_count": 88,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "最近get 到一个新词：付出型人格\n自己舍不得买的东西 可以毫不犹豫的买来送给别人 看着别人开心的样子 比自己收到还开心十倍 不是因为钱多 而且我恰恰非常重视这段感情 喜欢你们收到礼物时的惊喜感 因为我爱人的方式就是想让人开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "https://t.co/rc5JoenXvj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoenXvj"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 835,
+          "like_count": 1401,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 185
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-09T10:03:06.000Z",
+        "description": "我是小礼呀！碎碎念日常、不约不约🤗，别骚扰我了吧！互关可以加wx找我玩！（不熟的别来）我爱发啥发啥别他妈来贴脸。希望我讨厌的人都死掉🥰｜锁评置顶推广自辩‼️自用梯子🪜 https://t.co/zJ1hGganPn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "性价比机场.com/#/register?cod…",
+                "end": 107,
+                "expanded_url": "https://xn--6nq44r2uh9rhj7f.com/#/register?code=EOOX0L5v",
+                "start": 84,
+                "url": "https://t.co/zJ1hGganPn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lill19761",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lill19761",
+                "start": 0,
+                "url": "https://t.co/AiQNlOcvfJ"
+              }
+            ]
+          }
+        },
+        "id": "1898675806966341632",
+        "location": "想向我提问请戳👉🏻",
+        "name": "lii",
+        "pinned_tweet_id": "1976863501936476459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975954753848020992/AWRWJOFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5182,
+          "following_count": 280,
+          "like_count": 200,
+          "listed_count": 3,
+          "media_count": 1394,
+          "tweet_count": 24252
+        },
+        "url": "https://t.co/AiQNlOcvfJ",
+        "username": "Lillcuainil",
+        "verified": false
+      }
+    ]
+  }
+}

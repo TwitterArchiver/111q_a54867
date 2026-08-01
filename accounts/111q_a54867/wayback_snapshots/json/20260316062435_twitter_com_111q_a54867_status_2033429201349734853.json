@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033429141929033728"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "2033429201349734853",
+    "created_at": "2026-03-16T06:24:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:24:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033429201349734853"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 12,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 31,
+          "start": 19,
+          "tag": "地雷系さんと繋がりたい"
+        },
+        {
+          "end": 41,
+          "start": 32,
+          "tag": "jiraikei"
+        },
+        {
+          "end": 46,
+          "start": 42,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "租借女友"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IP37sjNNxN",
+          "end": 76,
+          "expanded_url": "https://x.com/111q_a54867/status/2033429201349734853/video/1",
+          "media_key": "13_2033429141929033728",
+          "start": 53,
+          "url": "https://t.co/IP37sjNNxN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033429201349734853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "会一直喜欢你 看着你。 #自撮り界隈 #地雷系さんと繋がりたい #jiraikei #门槛妹 #租借女友 https://t.co/IP37sjNNxN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15003,
+        "height": 720,
+        "media_key": "13_2033429141929033728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033429141929033728/img/wXH6_TirG328AgGo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033429141929033728/vid/avc1/480x270/-A5kq4Rvl9oXWrO-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033429141929033728/vid/avc1/640x360/UPImqA8A-0Zzpvdz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033429141929033728/vid/avc1/1280x720/g4Cobq5GeV1KlWY8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033429141929033728/pl/062iqXV3yeqPJX3e.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033429141929033728"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2033429201349734853",
+        "created_at": "2026-03-16T06:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033429201349734853"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "地雷系さんと繋がりたい"
+            },
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "jiraikei"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "租借女友"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IP37sjNNxN",
+              "end": 76,
+              "expanded_url": "https://x.com/111q_a54867/status/2033429201349734853/video/1",
+              "media_key": "13_2033429141929033728",
+              "start": 53,
+              "url": "https://t.co/IP37sjNNxN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033429201349734853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会一直喜欢你 看着你。 #自撮り界隈 #地雷系さんと繋がりたい #jiraikei #门槛妹 #租借女友 https://t.co/IP37sjNNxN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "od日记",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1129,
+          "following_count": 1183,
+          "like_count": 5696,
+          "listed_count": 0,
+          "media_count": 202,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

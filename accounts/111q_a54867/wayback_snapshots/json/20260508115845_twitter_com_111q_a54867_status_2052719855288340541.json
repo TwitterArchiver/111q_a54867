@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052719840927084544"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "2052719855288340541",
+    "created_at": "2026-05-08T11:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T12:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052719855288340541"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 17,
+          "tag": "medical"
+        },
+        {
+          "end": 39,
+          "start": 27,
+          "tag": "medicalcore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9DCorOohCx",
+          "end": 63,
+          "expanded_url": "https://x.com/111q_a54867/status/2052719855288340541/photo/1",
+          "media_key": "3_2052719840927084544",
+          "start": 40,
+          "url": "https://t.co/9DCorOohCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052719855288340541",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "安定剤の注射が必要ですか？♡ ♡\n#medical  #medicalcore https://t.co/9DCorOohCx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2052719840927084544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHy50c3a8AA8yvc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052719840927084544"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2052719855288340541",
+        "created_at": "2026-05-08T11:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T12:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052719855288340541"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "medical"
+            },
+            {
+              "end": 39,
+              "start": 27,
+              "tag": "medicalcore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DCorOohCx",
+              "end": 63,
+              "expanded_url": "https://x.com/111q_a54867/status/2052719855288340541/photo/1",
+              "media_key": "3_2052719840927084544",
+              "start": 40,
+              "url": "https://t.co/9DCorOohCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052719855288340541",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安定剤の注射が必要ですか？♡ ♡\n#medical  #medicalcore https://t.co/9DCorOohCx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "恨是爱的衍生，我不想恨你，我想忘记你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2039,
+          "following_count": 1292,
+          "like_count": 7011,
+          "listed_count": 3,
+          "media_count": 274,
+          "tweet_count": 1434
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

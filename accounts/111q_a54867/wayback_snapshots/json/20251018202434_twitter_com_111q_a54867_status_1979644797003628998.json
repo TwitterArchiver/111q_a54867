@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979644787155234816"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1979644797003628998",
+    "created_at": "2025-10-18T20:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T21:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979644797003628998"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "shwtw"
+        },
+        {
+          "end": 10,
+          "start": 7,
+          "tag": "自残"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XBnF42zjrT",
+          "end": 90,
+          "expanded_url": "https://x.com/111q_a54867/status/1979644797003628998/photo/1",
+          "media_key": "3_1979644787155234816",
+          "start": 67,
+          "url": "https://t.co/XBnF42zjrT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979644797003628998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#shwtw #自残 不要再问我胳膊上哪来的疤了，那是我给你割的逼，我怕我一个逼你不够操的又在胳膊上砍了几个，你看还是个处女逼会流血 https://t.co/XBnF42zjrT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979644787155234816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3kccf_XcAAM1Sv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979644787155234816"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1979644797003628998",
+        "created_at": "2025-10-18T20:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T21:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979644797003628998"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shwtw"
+            },
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "自残"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBnF42zjrT",
+              "end": 90,
+              "expanded_url": "https://x.com/111q_a54867/status/1979644797003628998/photo/1",
+              "media_key": "3_1979644787155234816",
+              "start": 67,
+              "url": "https://t.co/XBnF42zjrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979644797003628998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#shwtw #自残 不要再问我胳膊上哪来的疤了，那是我给你割的逼，我怕我一个逼你不够操的又在胳膊上砍了几个，你看还是个处女逼会流血 https://t.co/XBnF42zjrT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "https://t.co/rc5JoenXvj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoenXvj"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 872,
+          "like_count": 1514,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 199
+        },
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

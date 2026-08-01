@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "1990315146833698819",
+    "created_at": "2025-11-17T09:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T10:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990353833424519491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1972781562854023168",
+          "start": 0,
+          "username": "yukirinno_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990353833424519491",
+    "in_reply_to_user_id": "1972781562854023168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990343801022668989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukirinno_ ok来一起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "1990315146833698819",
+        "created_at": "2025-11-17T09:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T10:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990353833424519491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972781562854023168",
+              "start": 0,
+              "username": "yukirinno_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990353833424519491",
+        "in_reply_to_user_id": "1972781562854023168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990343801022668989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukirinno_ ok来一起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972781562854023168",
+        "conversation_id": "1990315146833698819",
+        "created_at": "2025-11-17T08:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T09:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990343801022668989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990343801022668989",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990315146833698819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 给我吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "🚪99",
+        "name": "辻井",
+        "pinned_tweet_id": "1979561986804576544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 1019,
+          "like_count": 2750,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 375
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T21:52:57.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yukirinno_",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yukirinno_",
+                "start": 0,
+                "url": "https://t.co/LxPB1uAuu5"
+              }
+            ]
+          }
+        },
+        "id": "1972781562854023168",
+        "name": "りんの",
+        "pinned_tweet_id": "1979704295730917378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988587758068318209/TmVNkInF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 38,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/LxPB1uAuu5",
+        "username": "yukirinno_",
+        "verified": false
+      }
+    ]
+  }
+}

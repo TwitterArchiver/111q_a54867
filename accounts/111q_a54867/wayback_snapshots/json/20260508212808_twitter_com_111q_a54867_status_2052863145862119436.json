@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2052859193577947354",
+    "created_at": "2026-05-08T21:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T22:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052863145862119436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040199675496587265",
+          "start": 0,
+          "username": "Q4775172814738"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052863145862119436",
+    "in_reply_to_user_id": "2040199675496587265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052860844015542468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q4775172814738 嗯嗯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2052859193577947354",
+        "created_at": "2026-05-08T21:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T22:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052863145862119436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040199675496587265",
+              "start": 0,
+              "username": "Q4775172814738"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052863145862119436",
+        "in_reply_to_user_id": "2040199675496587265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052860844015542468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q4775172814738 嗯嗯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040199675496587265",
+        "conversation_id": "2052859193577947354",
+        "created_at": "2026-05-08T21:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T22:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052860844015542468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052860844015542468",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052859193577947354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 别气了这种贱人只会让你恶心难受，不气不气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "恨是爱的衍生，我不想恨你，我想忘记你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2038,
+          "following_count": 1299,
+          "like_count": 7040,
+          "listed_count": 3,
+          "media_count": 276,
+          "tweet_count": 1443
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T22:48:26.000Z",
+        "description": "",
+        "id": "2040199675496587265",
+        "location": "Nanjing",
+        "name": "冷凝月",
+        "pinned_tweet_id": "2040597419189031407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040592505146613760/QY5zcqSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 515,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 32
+        },
+        "username": "Q4775172814738",
+        "verified": false
+      }
+    ]
+  }
+}

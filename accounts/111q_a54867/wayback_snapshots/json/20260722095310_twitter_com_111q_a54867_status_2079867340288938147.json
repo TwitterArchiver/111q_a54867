@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2079615068728414463",
+    "created_at": "2026-07-22T09:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079867340288938147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058593205067841536",
+          "start": 0,
+          "username": "mndfu1s7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079867340288938147",
+    "in_reply_to_user_id": "2058593205067841536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079615068728414463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mndfu1s7 会冻结账号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2079615068728414463",
+        "created_at": "2026-07-22T09:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079867340288938147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058593205067841536",
+              "start": 0,
+              "username": "mndfu1s7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079867340288938147",
+        "in_reply_to_user_id": "2058593205067841536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079615068728414463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mndfu1s7 会冻结账号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058593205067841536",
+        "conversation_id": "2079615068728414463",
+        "created_at": "2026-07-21T17:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079615068728414463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079615068728414463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8829,
+          "like_count": 54,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个推特上是不是看不到血图了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "你从未感受过你粉碎我灵魂时我的痛楚。\n希望你也能经历你给我的心碎。\n骚扰我前 请先过门🚪99/200/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2072729903666266538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 1266,
+          "like_count": 7463,
+          "listed_count": 2,
+          "media_count": 325,
+          "tweet_count": 1662
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T16:58:27.000Z",
+        "description": "=钰柠 09女高餐券妹 中抑 精神状态很差 我是le 贝贝们来和我互fo互推呀TvT\n我的置顶被谋害了 我现在没有精力写一个新的X_X 我好累。",
+        "id": "2058593205067841536",
+        "name": "為什麽我們不能成為永恆",
+        "pinned_tweet_id": "2069791503774523416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058594428982603776/w9DolSRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 235,
+          "like_count": 4975,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "mndfu1s7",
+        "verified": false
+      }
+    ]
+  }
+}

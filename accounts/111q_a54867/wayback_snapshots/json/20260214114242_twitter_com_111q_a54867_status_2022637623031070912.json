@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022637616123052033"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "2022637623031070912",
+    "created_at": "2026-02-14T11:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T12:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022637623031070912"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 10,
+          "start": 4,
+          "tag": "自撮り界隈"
+        },
+        {
+          "end": 15,
+          "start": 11,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 20,
+          "start": 16,
+          "tag": "爸爸活"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4Ca2WTyDOG",
+          "end": 44,
+          "expanded_url": "https://x.com/111q_a54867/status/2022637623031070912/photo/1",
+          "media_key": "3_2022637616123052033",
+          "start": 21,
+          "url": "https://t.co/4Ca2WTyDOG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022637623031070912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "求过门 #自撮り界隈 #门槛妹 #爸爸活 https://t.co/4Ca2WTyDOG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022637616123052033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHaMgpbgAEGhQn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022637616123052033"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2022637623031070912",
+        "created_at": "2026-02-14T11:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022637623031070912"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 15,
+              "start": 11,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 20,
+              "start": 16,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Ca2WTyDOG",
+              "end": 44,
+              "expanded_url": "https://x.com/111q_a54867/status/2022637623031070912/photo/1",
+              "media_key": "3_2022637616123052033",
+              "start": 21,
+              "url": "https://t.co/4Ca2WTyDOG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022637623031070912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求过门 #自撮り界隈 #门槛妹 #爸爸活 https://t.co/4Ca2WTyDOG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "od日记",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 1147,
+          "like_count": 5347,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 805
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

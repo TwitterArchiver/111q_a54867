@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971481839304048645"
+      ],
+      "media_source_tweet_id": [
+        "1971481845293572245"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1971485372199899205",
+    "created_at": "2025-09-26T08:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T09:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971485372199899205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636839098332897282",
+          "start": 3,
+          "username": "amikoiiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ulSb2pkxlG",
+          "end": 38,
+          "expanded_url": "https://x.com/amikoiiko/status/1971481845293572245/photo/1",
+          "media_key": "3_1971481839304048645",
+          "start": 15,
+          "url": "https://t.co/ulSb2pkxlG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971485372199899205",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971481845293572245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amikoiiko: https://t.co/ulSb2pkxlG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971481839304048645",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1wcSZjaAAUb5Dz.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971481839304048645"
+          ],
+          "media_source_tweet_id": [
+            "1971481845293572245"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1971485372199899205",
+        "created_at": "2025-09-26T08:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T09:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971485372199899205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636839098332897282",
+              "start": 3,
+              "username": "amikoiiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulSb2pkxlG",
+              "end": 38,
+              "expanded_url": "https://x.com/amikoiiko/status/1971481845293572245/photo/1",
+              "media_key": "3_1971481839304048645",
+              "start": 15,
+              "url": "https://t.co/ulSb2pkxlG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971485372199899205",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971481845293572245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amikoiiko: https://t.co/ulSb2pkxlG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971481839304048645"
+          ]
+        },
+        "author_id": "1636839098332897282",
+        "conversation_id": "1971481845293572245",
+        "created_at": "2025-09-26T07:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T08:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971481845293572245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ulSb2pkxlG",
+              "end": 23,
+              "expanded_url": "https://x.com/amikoiiko/status/1971481845293572245/photo/1",
+              "media_key": "3_1971481839304048645",
+              "start": 0,
+              "url": "https://t.co/ulSb2pkxlG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971481845293572245",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 267,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ulSb2pkxlG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签",
+        "id": "1967887882384965632",
+        "name": "(¬_¬)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 433,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 47
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T21:17:15.000Z",
+        "description": "kyoaka: @amicoiiko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "amicoiiko"
+              }
+            ]
+          }
+        },
+        "id": "1636839098332897282",
+        "name": "阿弥子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746606579351494656/ZoCeM4eh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8789,
+          "following_count": 88,
+          "like_count": 31960,
+          "listed_count": 47,
+          "media_count": 344,
+          "tweet_count": 7560
+        },
+        "username": "amikoiiko",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976311299819642880"
+      ],
+      "media_source_tweet_id": [
+        "1976311310376894865"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "1976693347776708797",
+    "created_at": "2025-10-10T16:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T17:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976693347776708797"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 44,
+          "normalized_text": "mia",
+          "probability": 0.7604,
+          "start": 42,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1638292822393585664",
+          "start": 3,
+          "username": "hypnoticathena"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tNyBuEkSSy",
+          "end": 77,
+          "expanded_url": "https://x.com/hypnoticathena/status/1976311310376894865/photo/1",
+          "media_key": "3_1976311299819642880",
+          "start": 54,
+          "url": "https://t.co/tNyBuEkSSy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976693347776708797",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976311310376894865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hypnoticathena: im ugly crying i miss mia so much https://t.co/tNyBuEkSSy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4508,
+        "media_key": "3_1976311299819642880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G21Ep_9XIAAI-Jv.jpg",
+        "width": 3580
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976311299819642880"
+          ],
+          "media_source_tweet_id": [
+            "1976311310376894865"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "1976693347776708797",
+        "created_at": "2025-10-10T16:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T17:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976693347776708797"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "mia",
+              "probability": 0.7604,
+              "start": 42,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1638292822393585664",
+              "start": 3,
+              "username": "hypnoticathena"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNyBuEkSSy",
+              "end": 77,
+              "expanded_url": "https://x.com/hypnoticathena/status/1976311310376894865/photo/1",
+              "media_key": "3_1976311299819642880",
+              "start": 54,
+              "url": "https://t.co/tNyBuEkSSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976693347776708797",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976311310376894865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hypnoticathena: im ugly crying i miss mia so much https://t.co/tNyBuEkSSy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976311299819642880"
+          ]
+        },
+        "author_id": "1638292822393585664",
+        "conversation_id": "1976311310376894865",
+        "created_at": "2025-10-09T15:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T16:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976311310376894865"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "mia",
+              "probability": 0.7738,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tNyBuEkSSy",
+              "end": 57,
+              "expanded_url": "https://x.com/hypnoticathena/status/1976311310376894865/photo/1",
+              "media_key": "3_1976311299819642880",
+              "start": 34,
+              "url": "https://t.co/tNyBuEkSSy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976311310376894865",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 5372,
+          "like_count": 597,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "im ugly crying i miss mia so much https://t.co/tNyBuEkSSy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "",
+        "id": "1967887882384965632",
+        "name": "辻井",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 742,
+          "like_count": 1186,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 159
+        },
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T21:33:52.000Z",
+        "description": "i love women and klavier gavin and dual destinies. mainly ace attorney. follow me i do art 👅👅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "r0seforuraraka.carrd.co",
+                "end": 23,
+                "expanded_url": "https://r0seforuraraka.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/pW7gsLHcJw"
+              }
+            ]
+          }
+        },
+        "id": "1638292822393585664",
+        "location": "im 18 minors tread carefully",
+        "name": "gabs ⚢ krisnix yuri cannibalism",
+        "pinned_tweet_id": "1812230223557267664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975311596088905728/fKe_c29P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 345,
+          "like_count": 181140,
+          "listed_count": 6,
+          "media_count": 1369,
+          "tweet_count": 11219
+        },
+        "url": "https://t.co/pW7gsLHcJw",
+        "username": "hypnoticathena",
+        "verified": false
+      }
+    ]
+  }
+}

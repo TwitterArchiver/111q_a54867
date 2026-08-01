@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2045239465313219054",
+    "created_at": "2026-04-19T14:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045868583579005264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1545426495841177600",
+          "start": 0,
+          "username": "sweet1e019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045868583579005264",
+    "in_reply_to_user_id": "1545426495841177600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045239465313219054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sweet1e019 思诺思。第二天会断片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2045239465313219054",
+        "created_at": "2026-04-19T14:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045868583579005264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1545426495841177600",
+              "start": 0,
+              "username": "sweet1e019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045868583579005264",
+        "in_reply_to_user_id": "1545426495841177600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045239465313219054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sweet1e019 思诺思。第二天会断片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545426495841177600",
+        "conversation_id": "2045239465313219054",
+        "created_at": "2026-04-17T20:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045239465313219054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045239465313219054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1656,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "究竟什么药能让我忘记痛苦，我吃普瑞只会一直哭疯狂哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "幸福和痛苦说出口时都是你的名字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "喜欢我就打钱让我过得幸福，谢谢",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022385389131243520/STAw0p3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1681,
+          "following_count": 1264,
+          "like_count": 6659,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 1269
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T15:16:17.000Z",
+        "description": "没什么好说的",
+        "id": "1545426495841177600",
+        "location": "可视频验证",
+        "name": "妞妞",
+        "pinned_tweet_id": "2037961167319286028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992131074626031616/ppA0lq_c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6508,
+          "following_count": 46,
+          "like_count": 2906,
+          "listed_count": 20,
+          "media_count": 35,
+          "tweet_count": 2307
+        },
+        "username": "sweet1e019",
+        "verified": false
+      }
+    ]
+  }
+}

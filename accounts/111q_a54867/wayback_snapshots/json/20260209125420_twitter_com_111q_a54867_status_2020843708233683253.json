@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2020758117777281085",
+    "created_at": "2026-02-09T12:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T13:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020843708233683253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556198265061646336",
+          "start": 0,
+          "username": "hfymomoj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020843708233683253",
+    "in_reply_to_user_id": "1556198265061646336",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020758117777281085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hfymomoj ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2020758108562456576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAssyxXbAAAjM8K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2020758117777281085",
+        "created_at": "2026-02-09T12:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T13:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020843708233683253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556198265061646336",
+              "start": 0,
+              "username": "hfymomoj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020843708233683253",
+        "in_reply_to_user_id": "1556198265061646336",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020758117777281085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hfymomoj ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020758108562456576"
+          ]
+        },
+        "author_id": "1556198265061646336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2020758117777281085",
+        "created_at": "2026-02-09T07:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020758117777281085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rXlGkTpvBN",
+              "end": 29,
+              "expanded_url": "https://x.com/hfymomoj/status/2020758117777281085/photo/1",
+              "media_key": "3_2020758108562456576",
+              "start": 6,
+              "url": "https://t.co/rXlGkTpvBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020758117777281085",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 24931,
+          "like_count": 135,
+          "quote_count": 3,
+          "reply_count": 73,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "插的好舒服 https://t.co/rXlGkTpvBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "我是签签，请对我友好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "od日记",
+        "name": "辻井",
+        "pinned_tweet_id": "2000984821557047755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970544394987282435/ynR8xeG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 1117,
+          "like_count": 5253,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-07T08:39:24.000Z",
+        "description": "发一些碎碎念 营业号私信在@Gniy666随缘互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "Gniy666"
+              }
+            ]
+          }
+        },
+        "id": "1556198265061646336",
+        "location": "🚪288/520",
+        "name": "治疗术",
+        "pinned_tweet_id": "1923963433491530106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015482573737381888/HVyMkmvb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46801,
+          "following_count": 61,
+          "like_count": 2392,
+          "listed_count": 136,
+          "media_count": 140,
+          "tweet_count": 1451
+        },
+        "username": "hfymomoj",
+        "verified": false
+      }
+    ]
+  }
+}
