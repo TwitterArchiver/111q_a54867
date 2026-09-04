@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092504291559034880"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "2092504308004827625",
+    "created_at": "2026-08-26T06:47:58.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T07:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092504308004827625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Et4BedBLzw",
+          "end": 28,
+          "expanded_url": "https://x.com/111q_a54867/status/2092504308004827625/photo/1",
+          "media_key": "3_2092504291559034880",
+          "start": 5,
+          "url": "https://t.co/Et4BedBLzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092504308004827625",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092504291559034880"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "噢啦啦啦 https://t.co/Et4BedBLzw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092504291559034880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoRkQ1bUAA2r8L.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092504291559034880"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2092504308004827625",
+        "created_at": "2026-08-26T06:47:58.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092504308004827625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Et4BedBLzw",
+              "end": 28,
+              "expanded_url": "https://x.com/111q_a54867/status/2092504308004827625/photo/1",
+              "media_key": "3_2092504291559034880",
+              "start": 5,
+              "url": "https://t.co/Et4BedBLzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092504308004827625",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092504291559034880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "噢啦啦啦 https://t.co/Et4BedBLzw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "小众活法不喜勿喷\n骚扰我前 请先过门🚪99/200/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "is_identity_verified": false,
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "most_recent_tweet_id": "2092504308004827625",
+        "name": "簽",
+        "pinned_tweet_id": "2072729903666266538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967887882384965632/1778626097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010,
+          "following_count": 1244,
+          "like_count": 7543,
+          "listed_count": 2,
+          "media_count": 338,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

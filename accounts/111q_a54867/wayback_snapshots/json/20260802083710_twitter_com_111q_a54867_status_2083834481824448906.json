@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2083834481824448906",
+    "created_at": "2026-08-02T08:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083834481824448906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1837114188046684161",
+          "start": 3,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083834481824448906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 361
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077511093283647896",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winterfruit_1: 我们不要自残了，我们一起去过正常的生活吧，我们手握手一起看电影吧，我们闭着眼躺在床上拥抱吧，我们在马路上一起逛街吧，我们去药店买健胃消食片，一起去吃自助餐吧，我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧我们手握手，一起在幸福的现实享受健康的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2083834481824448906",
+        "created_at": "2026-08-02T08:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083834481824448906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1837114188046684161",
+              "start": 3,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083834481824448906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 361
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077511093283647896",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winterfruit_1: 我们不要自残了，我们一起去过正常的生活吧，我们手握手一起看电影吧，我们闭着眼躺在床上拥抱吧，我们在马路上一起逛街吧，我们去药店买健胃消食片，一起去吃自助餐吧，我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧我们手握手，一起在幸福的现实享受健康的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2077511093283647896",
+        "created_at": "2026-07-15T21:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T22:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077511093283647896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077511093283647896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 62577,
+          "like_count": 1791,
+          "quote_count": 20,
+          "reply_count": 138,
+          "retweet_count": 361
+        },
+        "reply_settings": "everyone",
+        "text": "我们不要自残了，我们一起去过正常的生活吧，我们手握手一起看电影吧，我们闭着眼躺在床上拥抱吧，我们在马路上一起逛街吧，我们去药店买健胃消食片，一起去吃自助餐吧，我们傍晚洗完澡穿着睡衣手牵手在小区楼下散步吧我们手握手，一起在幸福的现实享受健康的生活吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "小众活法不喜勿喷\n骚扰我前 请先过门🚪99/200/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "name": "簽",
+        "pinned_tweet_id": "2072729903666266538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 1260,
+          "like_count": 7507,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 1700
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是Winit\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 14,
+                "username": "cy79p"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "夏",
+        "name": "Winit",
+        "pinned_tweet_id": "2069039187886805450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068808406677536768/ohibK-F__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 1484,
+          "like_count": 43849,
+          "listed_count": 6,
+          "media_count": 1918,
+          "tweet_count": 13348
+        },
+        "url": "",
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

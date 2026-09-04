@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083430530566209536"
+      ]
+    },
+    "author_id": "1967887882384965632",
+    "conversation_id": "2083430541504987379",
+    "created_at": "2026-08-01T05:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T06:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083430541504987379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AUnMQW3ziL",
+          "end": 29,
+          "expanded_url": "https://x.com/111q_a54867/status/2083430541504987379/photo/1",
+          "media_key": "3_2083430530566209536",
+          "start": 6,
+          "url": "https://t.co/AUnMQW3ziL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083430541504987379",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "八月第一o https://t.co/AUnMQW3ziL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083430530566209536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnVB3CaQAAgwD_.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083430530566209536"
+          ]
+        },
+        "author_id": "1967887882384965632",
+        "conversation_id": "2083430541504987379",
+        "created_at": "2026-08-01T05:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083430541504987379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AUnMQW3ziL",
+              "end": 29,
+              "expanded_url": "https://x.com/111q_a54867/status/2083430541504987379/photo/1",
+              "media_key": "3_2083430530566209536",
+              "start": 6,
+              "url": "https://t.co/AUnMQW3ziL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083430541504987379",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八月第一o https://t.co/AUnMQW3ziL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "小众活法不喜勿喷\n骚扰我前 请先过门🚪99/200/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "name": "簽",
+        "pinned_tweet_id": "2072729903666266538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 1262,
+          "like_count": 7506,
+          "listed_count": 2,
+          "media_count": 330,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      }
+    ]
+  }
+}

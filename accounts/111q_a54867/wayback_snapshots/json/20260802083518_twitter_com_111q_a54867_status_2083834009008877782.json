@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2083591060878692717",
+    "created_at": "2026-08-02T08:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083834009008877782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1135753978048729088",
+          "start": 0,
+          "username": "Yinmo123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083834009008877782",
+    "in_reply_to_user_id": "1135753978048729088",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083770622966899023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yinmo123 💋💋💋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2083591060878692717",
+        "created_at": "2026-08-02T08:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083834009008877782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1135753978048729088",
+              "start": 0,
+              "username": "Yinmo123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083834009008877782",
+        "in_reply_to_user_id": "1135753978048729088",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083770622966899023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yinmo123 💋💋💋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1135753978048729088",
+        "conversation_id": "2083591060878692717",
+        "created_at": "2026-08-02T04:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083770622966899023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083770622966899023",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083591060878692717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 漂亮啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "小众活法不喜勿喷\n骚扰我前 请先过门🚪99/200/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "name": "簽",
+        "pinned_tweet_id": "2072729903666266538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 1260,
+          "like_count": 7506,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 1699
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-04T03:43:44.000Z",
+        "description": "黑色幽默至上主义/🚪150/388",
+        "id": "1135753978048729088",
+        "location": "理想乡",
+        "name": "吟默在想什么",
+        "pinned_tweet_id": "2070403134338555907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671408040292106244/bpgDORcm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 183,
+          "like_count": 2166,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 540
+        },
+        "url": "",
+        "username": "Yinmo123",
+        "verified": false
+      }
+    ]
+  }
+}
