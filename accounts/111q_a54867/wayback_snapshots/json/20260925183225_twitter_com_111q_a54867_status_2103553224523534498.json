@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2103097939736625548",
+    "created_at": "2026-09-25T18:32:25.000Z",
+    "display_text_range": [
+      10,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T19:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103553224523534498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2102496117007278080",
+          "start": 0,
+          "username": "KIMIltxy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103553224523534498",
+    "in_reply_to_user_id": "2102496117007278080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103148699824312769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KIMIltxy 纳尼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2103097939736625548",
+        "created_at": "2026-09-25T18:32:25.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103553224523534498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2102496117007278080",
+              "start": 0,
+              "username": "KIMIltxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103553224523534498",
+        "in_reply_to_user_id": "2102496117007278080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103148699824312769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIMIltxy 纳尼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102496117007278080",
+        "conversation_id": "2103097939736625548",
+        "created_at": "2026-09-24T15:44:59.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103148699824312769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1967887882384965632",
+              "start": 0,
+              "username": "111q_a54867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103148699824312769",
+        "in_reply_to_user_id": "1967887882384965632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103097939736625548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@111q_a54867 挂贴吧了兄弟👬你要火"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "小众活法不喜勿喷\n骚扰我前 请先过门🚪99/200/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "is_identity_verified": false,
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "most_recent_tweet_id": "2103553224523534498",
+        "name": "簽",
+        "pinned_tweet_id": "2072729903666266538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967887882384965632/1778626097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 1250,
+          "like_count": 7601,
+          "listed_count": 2,
+          "media_count": 350,
+          "tweet_count": 1801
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-22T20:32:51.000Z",
+        "description": "ニ",
+        "id": "2102496117007278080",
+        "is_identity_verified": false,
+        "location": "三",
+        "most_recent_tweet_id": "2103552365043544315",
+        "name": "一",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102496117007278080/1790109369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102499047391252480/sK6vbH4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 1,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "KIMIltxy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

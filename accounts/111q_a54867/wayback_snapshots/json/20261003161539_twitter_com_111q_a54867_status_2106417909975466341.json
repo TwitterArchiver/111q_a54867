@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1967887882384965632",
+    "conversation_id": "2106250211505086770",
+    "created_at": "2026-10-03T16:15:39.000Z",
+    "display_text_range": [
+      16,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106417909975466341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2094481191500214272",
+          "start": 0,
+          "username": "Winterstring25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106417909975466341",
+    "in_reply_to_user_id": "2094481191500214272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106250211505086770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winterstring25 求"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967887882384965632",
+        "conversation_id": "2106250211505086770",
+        "created_at": "2026-10-03T16:15:39.000Z",
+        "display_text_range": [
+          16,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106417909975466341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2094481191500214272",
+              "start": 0,
+              "username": "Winterstring25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106417909975466341",
+        "in_reply_to_user_id": "2094481191500214272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106250211505086770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winterstring25 求"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094481191500214272",
+        "conversation_id": "2106250211505086770",
+        "created_at": "2026-10-03T05:09:17.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106250211505086770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106250211505086770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 8936,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "无偿分享一下pr开方经验，，，，再也不想看到一些孩子情绪上头o什么碳酸锂之类的了，，，，慢慢演变到吞盐吞安眠药的地步，，，，很难过的说，能帮一点是一点吧，当然我会根据个人判断来决定有没有必要将经验传授出去（毕竟我觉得成功率还是很大的）有意私信喔。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-09-16T09:47:03.000Z",
+        "description": "小众活法不喜勿喷\n🚪99/200好处是认识我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/111q_a54867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/111q_a54867",
+                "start": 0,
+                "url": "https://t.co/rc5JoeovkR"
+              }
+            ]
+          }
+        },
+        "id": "1967887882384965632",
+        "is_identity_verified": false,
+        "location": "低精力，喜欢我就打钱让我过得幸福，谢谢",
+        "most_recent_tweet_id": "2106417909975466341",
+        "name": "ari",
+        "pinned_tweet_id": "2072729903666266538",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967887882384965632/1778626097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054167257560035328/mfmG5jat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992,
+          "following_count": 1247,
+          "like_count": 7636,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 1803
+        },
+        "url": "https://t.co/rc5JoeovkR",
+        "username": "111q_a54867",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T17:47:34.000Z",
+        "description": "出厂年03/长沙/有证含糖🍥/MTF/重焦重抑/pr的xnl/心理学重度依赖/病娇/m/精神共鸣/社交障碍/.....梦想是做一只快乐小狗，扩列可私～",
+        "id": "2094481191500214272",
+        "is_identity_verified": false,
+        "location": "0.68㎞",
+        "most_recent_tweet_id": "2106346738512777395",
+        "name": "琳琳琳琳血🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094481191500214272/1788199123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094483967777116160/v2tYvq3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 73,
+          "like_count": 568,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 205
+        },
+        "url": "",
+        "username": "Winterstring25",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
